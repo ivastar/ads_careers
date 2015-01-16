@@ -31,7 +31,7 @@ def plot_number_phds():
 	
 	fig.savefig('number_phds.png', dpi=300)
 
-def plot_number_pghs_gender():
+def plot_number_phds_gender():
 
 	"""
 	Plot a histogram with 100% bars, colored by the fraction of PhDs of each gender.
@@ -40,33 +40,42 @@ def plot_number_pghs_gender():
 	import numpy as np
 	import matplotlib.pyplot as plt
 
-	phds = astropy.io.ascii.read('gender_breakdown.dat')
+	phds = astropy.io.ascii.read('/Users/selene/Documents/Career_study/ads_careers/data/gender_breakdown.dat')
 	nodata = np.array(phds['nodata1']+phds['nodata2'], dtype=float)
 	all = np.array(phds['all'], dtype=float)
 
 	width=1.
 	fig, ax = plt.subplots(figsize=(9,5))
 
-	women = ax.bar(phds['year'], phds['women']/all, width, color='red',  alpha=0.5, edgecolor='white')	
-	men = ax.bar(phds['year'], phds['men']/all, width, color='b', alpha=0.3, edgecolor='white', bottom=(phds['women']/all))	
-	nodata = ax.bar(phds['year'], nodata/all, width, color='0.5', bottom=((phds['men']+phds['women'])/all), alpha=0.5, edgecolor='white')	
+	women = ax.bar(phds['year'], phds['women']/all, width, color='red',  alpha=0.5, edgecolor='white',align='center')	
+	men = ax.bar(phds['year'], phds['men']/all, width, color='b', alpha=0.3, edgecolor='white', bottom=(phds['women']/all),align='center')	
+	nodata = ax.bar(phds['year'], nodata/all, width, color='0.5', bottom=((phds['men']+phds['women'])/all), alpha=0.5, edgecolor='white',align='center')	
 	
 	print phds['women']/all
 	
-	ax.set_ylabel('Fraction of Dissertations per Year', fontsize=12)
+	ax.set_ylabel('Fraction of PhD Recipients per Year', fontsize=12)
 	ax.set_xlabel('Year', fontsize=12)
 	ax.set_xticks(np.arange(1990, 2011, 2))
 	ax.set_xticklabels(np.arange(1990, 2011, 2), fontsize=12)
-	ax.set_xlim([1989.5, 2011.5])
+	ax.set_xlim([1989, 2011])
 	ax.set_ylim([0, 1.1])
-	ax.text(1990.25, 0.9, 'Unknown')
+
+	major_yticks = np.arange(0, 1.1, 0.2)                                              
+	minor_yticks = np.arange(0, 1.1, 0.1)                                               
+	ax.set_yticks(major_yticks)                                                       
+	ax.set_yticks(minor_yticks, minor=True)                                           
+
+	ax.text(1990.25, 0.95, 'Unknown')
 	ax.text(1990.25, 0.5, 'Men')
 	ax.text(1990.25, 0.07, 'Women')
-	ax.grid(True, color='1.0', linestyle=':', lw=1.1)
+	#ax.yaxis.grid(True, color='1.0', linestyle=':', lw=1.1)
+	ax.yaxis.grid(which='minor', alpha=0.5, color='1.0', linestyle=':', lw=1.1)                                                
+	ax.yaxis.grid(which='major', alpha=0.9, color='1.0', linestyle=':', lw=1.1)                                                
+
 
 	plt.show(block=False)
 	
-	fig.savefig('number_phds_gender.png', dpi=300)
+	fig.savefig('/Users/selene/Documents/Career_study/ads_careers/plots/number_phds_gender.png', dpi=300)
 
 
 def plot_fa(year=1990):
@@ -290,7 +299,7 @@ def plot_n_multi(year_start=1990, year_end=2010, variable='pubs_total'):
 	plt.show(block=False)
 	#fig.savefig('multi_{}.png'.format(variable), dpi=300)
 
-def (year_start=1990, year_end=2010):
+def plot_fa_multi(year_start=1990, year_end=2010):
 
 	"""
 	For a series of years plot histograms of the number of publications:

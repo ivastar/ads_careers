@@ -38,7 +38,7 @@ def get_data():
 
 def unique_institutions():
 
-	files = glob.glob('../data/ads_[12]*.dat')
+	files = glob.glob('/Users/selene/Documents/Career_study/ads_careers/data/ads_[12]*.dat')
 	
 	full_affils = np.empty(1, dtype=object)
 	
@@ -62,7 +62,7 @@ def read_usa_institutions():
 		
 	us_institutions =[]
 	
-	us_institutions = np.array([line.strip() for line in open('../data/unique_institutions_usa.dat')], dtype=object)
+	us_institutions = np.array([line.strip() for line in open('/Users/selene/Documents/Career_study/ads_careers/data/unique_institutions_usa.dat')], dtype=object)
 	
 	return us_institutions
 
