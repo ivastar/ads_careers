@@ -15,7 +15,7 @@ def pull_data(year=2003):
 
 	sets = [0,201,401,601]
 	for set in sets:
-		url = 'http://adslabs.org/adsabs/api/search/?q=bibstem:PhDT&filter=year:{0}&filter=database:astronomy&rows=200&start={1}&dev_key=qsFHHv4pR6VMULMq'.format(year,set)
+		url = 'http://adslabs.org/adsabs/api/search/?q=bibstem:PhDT&filter=year:{0}&filter=database:astronomy&rows=200&start={1}&dev_key={2}'.format(year,set, ADS_KEY)
 		response = urllib.urlopen(url)
 		data = response.read()
 		data_meta =  yaml.load(data)['meta']
@@ -165,7 +165,7 @@ def lookup_fa_pubs(year = 2002):
 		for i in range(len(data_j["results"]["docs"])):
 			if json.dumps(data_j["results"]["docs"][i]["aff"])[2:-2] in us_institutions:
 				author = data_j["results"]["docs"][i]["author"][0].replace(',','').split(' ')
-				url = 'http://adslabs.org/adsabs/api/search/?q=first_author:%22{0},+{1}%22&filter=database:astronomy&filter=property:refereed&filter=year:[{2} TO 2014]&rows=200&sort=DATE+desc&dev_key=qsFHHv4pR6VMULMq'.format(author[0].encode('ascii','ignore'), author[1].encode('ascii','ignore'), year)
+				url = 'http://adslabs.org/adsabs/api/search/?q=first_author:%22{0},+{1}%22&filter=database:astronomy&filter=property:refereed&filter=year:[{2} TO 2014]&rows=200&sort=DATE+desc&dev_key={3}'.format(author[0].encode('ascii','ignore'), author[1].encode('ascii','ignore'), year, ADS_KEY)
 				response = urllib.urlopen(url)
 				data_search =  yaml.load(response.read())
 
@@ -175,6 +175,7 @@ def lookup_fa_pubs(year = 2002):
 					out_file_au.write("{}\t{}\t{}\t{}\n".format(data_search["results"]["docs"][0]["year"], data_search["meta"]["count"], first_author.encode('ascii','ignore'), author))
 					out_file.write("{}\t{}\n".format(data_search["results"]["docs"][0]["year"], data_search["meta"]["count"]))
 					#print "{}\t{}\t{}\t{}\t".format(data_search["results"]["docs"][0]["year"], data_search["meta"]["count"], first_author.encode('ascii','ignore'), author)
+
 
 def lookup_all_pubs(year = 2002):
 			
@@ -198,11 +199,11 @@ def lookup_all_pubs(year = 2002):
 			gg = 0
 			if json.dumps(data_j["results"]["docs"][i]["aff"])[2:-2] in us_institutions:
 				author = data_j["results"]["docs"][i]["author"][0].replace(',','').split(' ')
-				url = 'http://adslabs.org/adsabs/api/search/?q=author:%22{0},+{1}%22&filter=database:astronomy&filter=property:refereed&filter=year:[{2} TO 2015]&rows=1&sort=DATE+desc&dev_key=qsFHHv4pR6VMULMq'.format(author[0].encode('ascii','ignore'), author[1].encode('ascii','ignore'), year)
+				url = 'http://adslabs.org/adsabs/api/search/?q=author:%22{0},+{1}%22&filter=database:astronomy&filter=property:refereed&filter=year:[{2} TO 2015]&rows=1&sort=DATE+desc&dev_key={3}'.format(author[0].encode('ascii','ignore'), author[1].encode('ascii','ignore'), year, ADS_KEY)
 				response = urllib.urlopen(url)
 				data_search =  yaml.load(response.read())
 
-				url_first = 'http://adslabs.org/adsabs/api/search/?q=first_author:%22{0},+{1}%22&filter=database:astronomy&filter=property:refereed&filter=year:[{2} TO 2015]&rows=1&sort=DATE+desc&dev_key=qsFHHv4pR6VMULMq'.format(author[0].encode('ascii','ignore'), author[1].encode('ascii','ignore'), year)
+				url_first = 'http://adslabs.org/adsabs/api/search/?q=first_author:%22{0},+{1}%22&filter=database:astronomy&filter=property:refereed&filter=year:[{2} TO 2015]&rows=1&sort=DATE+desc&dev_key={3}'.format(author[0].encode('ascii','ignore'), author[1].encode('ascii','ignore'), year, ADS_KEY)
 				response_first = urllib.urlopen(url_first)
 				data_search_first =  yaml.load(response_first.read())
 				if data_search_first["meta"]["hits"] ==0:
