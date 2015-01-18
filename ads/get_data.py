@@ -21,7 +21,7 @@ def pull_data(year=2003):
 		data_meta =  yaml.load(data)['meta']
 		if data_meta['count']:
 			print 'Writing ads_{0}_{1}.dat'.format(year,set)
-			out_file = open('../data/ads_{0}_{1}.dat'.format(year,set),'w')
+			out_file = open('/Users/selene/Documents/Career_study/ads_careers/data/ads_{0}_{1}.dat'.format(year,set),'w')
 			out_file.write(data)
 			out_file.close()		
 		
@@ -94,7 +94,57 @@ def parse_output(year=2002):
 	
 	out_file.close()
 	names_file.close()
-	print "Output file is {}".format(out_file.name)			
+	print "Output file is {}".format(out_file.name)		
+
+def get_missing_affil(bibcode=''):
+
+	"""
+	For a given bibcode, return publication institution
+	"""
+
+	import requests, bs4
+
+	affil = ''
+	response = requests.get('http://adsabs.harvard.edu/abs/{}'.format(bibcode))
+	soup = bs4.BeautifulSoup(response.text)
+	for line in soup.find_all('meta'):
+		if (line.has_key('name') and line['name'].startswith('dc.source')):
+			affil = line['content']
+
+	if affil:
+		if affil.lower().replace('.','').startswith('phd thesis,'):
+			try:
+				return affil.split('esis,')[1].strip()
+			except:
+				return affil
+		else:
+			return affil
+	else:
+		return 'None'
+
+
+def check_missing_affil(year=2002):
+
+	"""
+	Go through the PhD entries for a given year.
+	Find ones without affiliation.
+	Grab the ADS HTML page for that bibcode.
+	Get publication institution from there.
+	"""
+
+	files = glob.glob('/Users/selene/Documents/Career_study/ads_careers/data/ads_{}*.dat'.format(year))
+	out_file = open('/Users/selene/Documents/Career_study/ads_careers/data/missing_affil.dat','a')
+
+	for file in files:
+		data = open(file,'r')
+		data_j = yaml.load(data.readline())
+
+		for i in range(len(data_j["results"]["docs"])):
+			if data_j["results"]["docs"][i]["aff"] == ['-']:
+				#print 'Checking {}.'.format(data_j["results"]["docs"][i]['bibcode'])
+				affil = get_missing_affil(bibcode=data_j["results"]["docs"][i]['bibcode'])
+				out_file.write(affil.encode("utf-8")+'\n')
+
 
 def lookup_fa_pubs(year = 2002):
 			

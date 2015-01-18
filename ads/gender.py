@@ -96,7 +96,7 @@ def querry_genderize():
 	name_genders = read_name_genders()
 	d = dict((k,v) for k,v in name_genders.items() if v == 3)
 	test_names = d.keys()
-	#test_names = name_genders.keys()
+	test_names = name_genders.keys()
 
 	n_calls = int(len(test_names)/300)+1
 
