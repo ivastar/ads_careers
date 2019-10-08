@@ -51,7 +51,7 @@ def plot_number_phds_gender():
 	men = ax.bar(phds['year'], phds['men']/all, width, color='b', alpha=0.3, edgecolor='white', bottom=(phds['women']/all),align='center')	
 	nodata = ax.bar(phds['year'], nodata/all, width, color='0.5', bottom=((phds['men']+phds['women'])/all), alpha=0.5, edgecolor='white',align='center')	
 	
-	print phds['women']/all
+	print(phds['women']/all)
 	
 	ax.set_ylabel('Fraction of PhD Recipients per Year', fontsize=12)
 	ax.set_xlabel('Year', fontsize=12)
@@ -177,7 +177,7 @@ def plot_fa(year=1990):
 	n_med = np.median(pubs['npub'][recent]) # published within last 3 years, median n publications
 	n_ave = np.average(pubs['npub'][recent])
 	n_std = np.std(pubs['npub'][recent].data)
-	print n_med, n_ave, n_std
+	print(n_med, n_ave, n_std)
 
 	file_stats.write("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{:7.2f}\t{:7.2f}\t{:7.2f}\n".format(year, nn_all, nn_all_w, nn_all_m, nn_all_u, aa, aa_w, aa_m, aa_u, bb, bb_w, bb_m, bb_u, cc, cc_w, cc_m, cc_u, n_med, n_ave, n_std))
 	file_stats.close()
