@@ -1,8 +1,6 @@
-data/
 data_2011_2018/
 data_2015/
 data_2016/
 physics_data/
-plots/
 .ipynb_checkpoints/
 *.pyc
