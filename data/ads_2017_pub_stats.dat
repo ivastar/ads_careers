@@ -1,0 +1,273 @@
+n | name | university | phd_year | gender | fa_n_pubs_pre_phd | fa_n_pubs_prost_phd | fa_year_last | all_n_pubs_pre_phd | all_n_pubs_prost_phd | all_year_last |  fa_2012 | fa_2013 | fa_2014 | fa_2015 | fa_2016 |  all_2012 | all_2013 | all_2014 | all_2015 | all_2016 | foo
+1 | Williamson, Jacob | Ohio University | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 |
+2 | Post, Seth Aaron | The University of Texas at Arlington | 2017 | male | 2 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 2 |
+3 | Moore, Christopher Samuel | University of Colorado at Boulder | 2017 | male | 4 | 0 | 2018 | 10 | 0 | 2018 | 1 | 0 | 1 | 1 | 0 |  2 | 0 | 1 | 1 | 3 |
+4 | Bradshaw, Andrew Kenneth | University of California, Davis | 2017 | male | 2 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 |
+5 | Binder, Gary | University of California, Berkeley | 2017 | male | 1 | 0 | 2017 | 61 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 7 | 9 | 14 | 15 |
+6 | Schilling, Amanda | University of Arkansas | 2017 | female | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 0 | 0 |
+7 | Weerathunga, Thilina Shihan | The University of Texas at San Antonio | 2017 | None | 2 | 0 | 2017 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+8 | Ni, Peng | University of Michigan | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+9 | Watson, Andrew William | Temple University | 2017 | male | 2 | 0 | 2017 | 7 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 1 | 1 |
+10 | Truitt, Amanda R. | Arizona State University | 2017 | female | 3 | 0 | 2017 | 6 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 2 | 2 | 0 |
+11 | O'Connell, Julia E. | Texas Christian University | 2017 | female | 2 | 0 | 2017 | 9 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 2 | 1 | 1 | 2 |
+12 | French, Katheryn Decker | The University of Arizona | 2017 | female | 5 | 0 | 2018 | 9 | 0 | 2018 | 0 | 0 | 1 | 1 | 1 |  0 | 0 | 1 | 1 | 1 |
+13 | Grannan, Alexander Michael | University of California, Los Angeles | 2017 | male | 1 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 |
+14 | Hampel-Arias, Zigfried | The University of Wisconsin - Madison | 2017 | None | 1 | 0 | 2017 | 20 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 2 | 3 | 1 |
+15 | Ludovici, Dominic Alesio | The University of Iowa | 2017 | male | 2 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 1 | 1 |
+16 | Bae, Jaehan | University of Michigan | 2017 | male | 11 | 0 | 2018 | 14 | 0 | 2018 | 1 | 3 | 1 | 1 | 3 |  1 | 3 | 3 | 1 | 3 |
+17 | Wachter, Jeremy M. | Tufts University | 2017 | male | 4 | 0 | 2017 | 5 | 0 | 2018 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+18 | Rehnberg, Morgan | University of Colorado at Boulder | 2017 | male | 3 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  1 | 0 | 0 | 0 | 1 |
+19 | Ayala Solares, Hugo Alberto | Michigan Technological University | 2017 | male | 1 | 0 | 2017 | 20 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 2 | 3 | 1 |
+20 | Jero, Kyle Zachary | The University of Wisconsin - Madison | 2017 | male | 1 | 0 | 2017 | 63 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 9 | 10 | 13 | 15 |
+21 | Dasadia, Sarthak | The University of Alabama in Huntsville | 2017 | male | 3 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 2 |  0 | 0 | 0 | 0 | 2 |
+22 | Guth, Tina | New Mexico Institute of Mining and Technology | 2017 | female | 1 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 0 | 0 | 1 |
+23 | Betancourt-Martinez, Gabriele | University of Maryland, College Park | 2017 | male | 2 | 0 | 2018 | 2 | 0 | 2018 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+24 | Denes Couto, Jullianna | The Catholic University of America | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+25 | Schenck, Andrew Corey | The University of Texas at Arlington | 2017 | male | 4 | 0 | 2017 | 5 | 0 | 2017 | 0 | 0 | 1 | 0 | 2 |  0 | 1 | 1 | 0 | 2 |
+26 | Hoadley, Keri | University of Colorado at Boulder | 2017 | female | 3 | 0 | 2017 | 7 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  1 | 0 | 0 | 1 | 2 |
+27 | Rickert, Matthew | Northwestern University | 2017 | male | 1 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 1 | 0 |
+28 | Roy, Arpita | Penn State University | 2017 | female | 7 | 0 | 2018 | 46 | 0 | 2018 | 0 | 1 | 2 | 2 | 1 |  1 | 9 | 11 | 11 | 10 |
+29 | Kaplan, Kyle Franklin | The University of Texas at Austin | 2017 | male | 3 | 0 | 2017 | 16 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  2 | 1 | 0 | 1 | 7 |
+30 | Ballouz, Ronald | University of Maryland, College Park | 2017 | male | 4 | 0 | 2017 | 10 | 0 | 2018 | 0 | 0 | 1 | 1 | 0 |  0 | 0 | 3 | 1 | 1 |
+31 | Kounkel, Marina | University of Michigan | 2017 | female | 7 | 0 | 2018 | 15 | 0 | 2018 | 0 | 0 | 1 | 0 | 2 |  1 | 0 | 2 | 2 | 3 |
+32 | Pauly, Tyler Andrew | Cornell University | 2017 | male | 2 | 0 | 2018 | 7 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 2 | 1 | 2 |
+33 | Popkow, Alexis G. | University of California, Los Angeles | 2017 | male | 1 | 0 | 2017 | 48 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 6 | 11 | 9 | 11 |
+34 | Ekanayake, Gemunu | University of Kentucky | 2017 | male | 1 | 0 | 2018 | 1 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+35 | Jensen-Clem, Rebecca Marie | California Institute of Technology | 2017 | female | 3 | 0 | 2018 | 9 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 0 | 0 | 2 | 3 |
+36 | Villadsen, Jacqueline Rose | California Institute of Technology | 2017 | female | 1 | 0 | 2017 | 3 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 |
+37 | Godfrey, Paige | City University of New York Graduate Center | 2017 | female | 2 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+38 | Ford, John M. | Nova Southeastern University | 2017 | male | 1 | 0 | 2017 | 8 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 2 | 1 | 2 |
+39 | Munson, Charles D. | University of Michigan | 2017 | male | 2 | 0 | 2017 | 12 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 2 | 3 | 3 |
+40 | Oklopi'c, Antonija | California Institute of Technology | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+41 | Okada da Silva, Hector | The University of Mississippi | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+42 | Rajan, Abhijith | Arizona State University | 2017 | male | 4 | 0 | 2017 | 36 | 0 | 2018 | 0 | 0 | 0 | 2 | 0 |  1 | 2 | 3 | 11 | 10 |
+43 | Lake, Sean Earl | University of California, Los Angeles | 2017 | male | 4 | 0 | 2018 | 11 | 0 | 2018 | 1 | 0 | 0 | 0 | 1 |  4 | 2 | 1 | 0 | 1 |
+44 | Utomo, Dyas | University of California, Berkeley | 2017 | male | 4 | 0 | 2018 | 6 | 0 | 2018 | 0 | 0 | 1 | 1 | 0 |  0 | 0 | 1 | 1 | 0 |
+45 | Veale, Melanie R. | University of California, Berkeley | 2017 | female | 4 | 0 | 2018 | 6 | 0 | 2018 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 1 |
+46 | Hoq, Sadia | Boston University | 2017 | female | 4 | 0 | 2017 | 10 | 0 | 2017 | 0 | 1 | 0 | 1 | 0 |  0 | 4 | 1 | 3 | 0 |
+47 | Rosero Rueda, Viviana Andrea | New Mexico Institute of Mining and Technology | 2017 | None | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+48 | Kheirandish, Ali | The University of Wisconsin - Madison | 2017 | male | 1 | 0 | 2017 | 54 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 4 | 13 | 16 |
+49 | Coughlin, Michael William | Harvard University | 2017 | male | 17 | 0 | 2018 | 126 | 0 | 2018 | 1 | 0 | 6 | 3 | 4 |  13 | 8 | 21 | 13 | 35 |
+50 | Nagarajan, Satyakumar | The Ohio State University | 2017 | male | 1 | 0 | 2017 | 5 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 2 | 0 | 1 | 0 |
+51 | Douglass, Kelly Ann | Drexel University | 2017 | female | 3 | 0 | 2018 | 3 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+52 | Negar, Heidarian | The University of Toledo | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+53 | Ford, Alexander L. | University of Kansas | 2017 | male | 1 | 0 | 2018 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 |
+54 | Brorby, Matthew G. | The University of Iowa | 2017 | male | 5 | 0 | 2017 | 8 | 0 | 2017 | 0 | 0 | 1 | 1 | 1 |  0 | 0 | 1 | 2 | 2 |
+55 | Greenberg, Adam Hodge | University of California, Los Angeles | 2017 | male | 3 | 0 | 2017 | 5 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 1 | 0 |
+56 | Su, Ting | The Johns Hopkins University | 2017 | None | 2 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+57 | Weiner, Ori Michael | Columbia University | 2017 | male | 2 | 0 | 2017 | 14 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 2 | 7 |
+58 | Florian, Michael Kenneth | The University of Chicago | 2017 | male | 3 | 0 | 2017 | 13 | 0 | 2017 | 0 | 0 | 0 | 0 | 2 |  0 | 0 | 3 | 0 | 4 |
+59 | Fuller, Lindsay | The University of Texas at San Antonio | 2017 | female | 2 | 0 | 2017 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 1 |
+60 | Ryan, Geoffrey | New York University | 2017 | male | 4 | 0 | 2017 | 6 | 0 | 2018 | 0 | 1 | 0 | 1 | 0 |  1 | 1 | 0 | 2 | 0 |
+61 | Markert, Sean | New Mexico State University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+62 | Roberts, Shawn R. | University of Massachusetts Amherst | 2017 | male | 4 | 0 | 2017 | 11 | 0 | 2017 | 0 | 1 | 0 | 1 | 0 |  2 | 1 | 0 | 4 | 1 |
+63 | Druszkiewicz, Eryk Filip | University of Rochester | 2017 | male | 1 | 0 | 2017 | 12 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 3 | 1 | 1 | 2 |
+64 | Yamamoto, Takahiro | The University of Utah | 2017 | None | 6 | 0 | 2018 | 69 | 0 | 2018 | 2 | 2 | 0 | 0 | 1 |  18 | 8 | 12 | 23 | 4 |
+65 | Gong, Munan | Princeton University | 2017 | male | 3 | 0 | 2018 | 7 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  3 | 0 | 0 | 2 | 0 |
+66 | Kleer, Katherine Rebecca de | University of California, Berkeley | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+67 | Anderson, Christopher | The University of Wisconsin - Madison | 2017 | male | 12 | 0 | 2018 | 26 | 0 | 2018 | 3 | 3 | 1 | 1 | 3 |  6 | 3 | 1 | 5 | 3 |
+68 | Brooks, Jared C. | University of California, Santa Barbara | 2017 | male | 7 | 0 | 2017 | 12 | 0 | 2017 | 0 | 0 | 0 | 1 | 1 |  0 | 1 | 1 | 2 | 1 |
+69 | Huber, Jeremy | University of Kentucky | 2017 | male | 1 | 0 | 2018 | 1 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+70 | Mitchell, Julie | Arizona State University | 2017 | female | 5 | 0 | 2018 | 41 | 0 | 2018 | 0 | 1 | 1 | 1 | 1 |  2 | 6 | 4 | 3 | 6 |
+71 | Araujo, Derek C. | Columbia University | 2017 | male | 1 | 0 | 2017 | 10 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 2 | 3 | 1 |
+72 | Santos, Alison R. | The University of New Mexico | 2017 | female | 7 | 0 | 2018 | 14 | 0 | 2018 | 1 | 0 | 0 | 2 | 1 |  1 | 0 | 1 | 2 | 6 |
+73 | Kiminki, Megan Michelle | The University of Arizona | 2017 | female | 4 | 0 | 2018 | 8 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 0 | 0 | 3 | 1 |
+74 | McCord, Krista | The University of Alabama | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+75 | Moloney, Joshua | University of Colorado at Boulder | 2017 | male | 2 | 0 | 2017 | 5 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 2 | 1 | 0 |
+76 | Beroiz, Martin | The University of Texas at San Antonio | 2017 | male | 1 | 0 | 2017 | 8 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 3 |
+77 | McEvoy, Erica L. | The University of Arizona | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+78 | Schroeder, James William Ryan | The University of Iowa | 2017 | male | 2 | 0 | 2017 | 5 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 2 | 1 | 0 | 1 |
+79 | Freeman, William Robert | University of California, Riverside | 2017 | male | 2 | 0 | 2017 | 22 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 6 | 8 |
+80 | Loyd, R. O. Parke | University of Colorado at Boulder | 2017 | None | 4 | 0 | 2018 | 13 | 0 | 2018 | 0 | 0 | 1 | 0 | 1 |  0 | 0 | 3 | 0 | 4 |
+81 | Kwa, Anna | University of California, Irvine | 2017 | female | 1 | 0 | 2017 | 4 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 2 |
+82 | Sheffield, David G. | Rutgers The State University of New Jersey - New Brunswick | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 |
+83 | Archer, Gregory J. | University of Maryland, College Park | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+84 | Flynn, William F. | Rutgers The State University of New Jersey - New Brunswick | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+85 | Schmitt, Joseph R. | Yale University | 2017 | male | 8 | 0 | 2017 | 16 | 0 | 2018 | 1 | 0 | 2 | 2 | 1 |  3 | 2 | 2 | 4 | 3 |
+86 | Ferradas, Cristian P. | University of New Hampshire | 2017 | male | 4 | 0 | 2018 | 5 | 0 | 2018 | 0 | 0 | 0 | 1 | 2 |  0 | 0 | 0 | 2 | 2 |
+87 | Marsan, Zehra Cemile | Tufts University | 2017 | None | 3 | 0 | 2017 | 5 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 1 |
+88 | Sallum, Stephanie Elise | The University of Arizona | 2017 | female | 5 | 0 | 2017 | 7 | 0 | 2017 | 0 | 0 | 0 | 2 | 0 |  0 | 2 | 0 | 2 | 0 |
+89 | Tian, James Y. | University of California, San Diego | 2017 | male | 3 | 0 | 2017 | 4 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+90 | Hirsch, Michael | Boston University | 2017 | male | 1 | 0 | 2017 | 13 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  2 | 1 | 1 | 3 | 4 |
+91 | Esplin, Taran | The Pennsylvania State University | 2017 | None | 6 | 0 | 2018 | 12 | 0 | 2018 | 0 | 0 | 1 | 0 | 2 |  0 | 0 | 3 | 0 | 5 |
+92 | Zhu, Wei | The Ohio State University | 2017 | male | 16 | 0 | 2018 | 84 | 0 | 2018 | 0 | 1 | 4 | 3 | 3 |  1 | 11 | 12 | 13 | 19 |
+93 | Clark, Susan E. | Columbia University | 2017 | female | 7 | 0 | 2018 | 11 | 0 | 2018 | 1 | 0 | 1 | 1 | 1 |  1 | 0 | 2 | 2 | 3 |
+94 | Goodson, Matthew David | The University of North Carolina at Chapel Hill | 2017 | male | 4 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 2 |  0 | 0 | 0 | 0 | 2 |
+95 | Dingatantrige Perera, Jude Viranga | Arizona State University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+96 | Cosentino, Richard G. | New Mexico Institute of Mining and Technology | 2017 | male | 4 | 0 | 2017 | 32 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  1 | 2 | 4 | 9 | 3 |
+97 | Mohlabeng, Gopolang Mokoka | University of Kansas | 2017 | male | 2 | 0 | 2017 | 6 | 0 | 2018 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 2 | 2 |
+98 | Hansen, Damon | University of Pittsburgh | 2017 | male | 1 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 1 | 0 | 0 |
+99 | Posada-Aguirre, Nelson Camilo | University of South Carolina | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+100 | Wolf, William Michael | University of California, Santa Barbara | 2017 | male | 3 | 0 | 2018 | 9 | 0 | 2018 | 0 | 1 | 1 | 0 | 0 |  0 | 1 | 3 | 1 | 2 |
+101 | Davidovits, Seth | Princeton University | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+102 | Card, Alexander Harrison | University of Washington | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+103 | Devour, Brian M. | University of Michigan | 2017 | male | 3 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 1 |
+104 | Ashton, Peter C. | Northwestern University | 2017 | male | 1 | 0 | 2018 | 6 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 2 |
+105 | Viola, Donna | The University of Arizona | 2017 | female | 3 | 0 | 2018 | 4 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 1 | 0 |
+106 | Brondel, Brian J. | Indiana University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+107 | Stanford, Christopher J. | Princeton University | 2017 | male | 1 | 0 | 2017 | 4 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 1 | 1 |
+108 | Maher, Pamela A. | University of Nevada, Las Vegas | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+109 | Allred, Kory | Northern Illinois University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+110 | Evans, Michael Ellis | Texas A&amp;M University | 2017 | male | 5 | 0 | 2017 | 118 | 0 | 2018 | 1 | 1 | 2 | 0 | 0 |  18 | 9 | 19 | 9 | 28 |
+111 | Desai, Karna M. | Indiana University | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+112 | Corti, Claudio | University of Hawai'i at Manoa | 2017 | male | 2 | 0 | 2017 | 10 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 1 | 2 | 3 | 1 |
+113 | Pepper, James | The University of Alabama | 2017 | male | 1 | 0 | 2017 | 79 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 17 | 11 | 15 | 16 |
+114 | Kaplan, Steven M. | Rutgers The State University of New Jersey - New Brunswick | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 |
+115 | Lowitz, Amy E. | The University of Wisconsin - Madison | 2017 | female | 2 | 0 | 2017 | 3 | 0 | 2018 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 2 | 0 | 0 |
+116 | Wang, Xinwen | Baylor University | 2017 | None | 45 | 0 | 2018 | 205 | 0 | 2018 | 12 | 7 | 7 | 9 | 4 |  28 | 24 | 33 | 40 | 51 |
+117 | Finzell, Thomas Michael Broen | Michigan State University | 2017 | male | 2 | 0 | 2018 | 9 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 1 | 0 | 4 | 0 |
+118 | Soto, Emmaris | The Catholic University of America | 2017 | None | 2 | 0 | 2017 | 9 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 1 | 3 | 1 |
+119 | Camarota, Lawrence | The University of Arizona | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+120 | Zhang, Zhimeng | Cornell University | 2017 | None | 19 | 0 | 2018 | 85 | 0 | 2018 | 3 | 6 | 3 | 1 | 1 |  22 | 13 | 16 | 8 | 9 |
+121 | Stoltenberg, Henry | University of California, Davis | 2017 | male | 3 | 0 | 2018 | 4 | 0 | 2018 | 0 | 0 | 0 | 2 | 0 |  0 | 0 | 0 | 2 | 0 |
+122 | Mercer, Cameron Mark | Arizona State University | 2017 | male | 2 | 0 | 2017 | 6 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 1 | 0 | 0 |
+123 | Hagen, Alex | The Pennsylvania State University | 2017 | male | 6 | 0 | 2017 | 28 | 0 | 2018 | 0 | 0 | 1 | 1 | 2 |  0 | 3 | 5 | 9 | 4 |
+124 | Senno, Nicholas | The Pennsylvania State University | 2017 | male | 4 | 0 | 2018 | 5 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 0 | 0 | 1 | 2 |
+125 | Pienaar, Jacques | Purdue University | 2017 | male | 2 | 0 | 2017 | 16 | 0 | 2018 | 0 | 1 | 0 | 0 | 0 |  0 | 1 | 2 | 3 | 3 |
+126 | Madsen, Chad Allen | Boston University | 2017 | male | 3 | 0 | 2017 | 4 | 0 | 2018 | 0 | 0 | 1 | 1 | 0 |  0 | 0 | 1 | 1 | 1 |
+127 | Xue, Zinchao | Louisiana State University and Agricultural and Mechanical College | 2017 | None | 3 | 0 | 2017 | 13 | 0 | 2018 | 0 | 1 | 1 | 0 | 0 |  0 | 5 | 3 | 2 | 1 |
+128 | Maxwell, Janice R. | Colorado Technical University | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+129 | Galloway, Melanie A. | University of Minnesota | 2017 | female | 2 | 0 | 2017 | 15 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 2 | 4 |
+130 | Yang, Louis | University of California, Los Angeles | 2017 | male | 7 | 0 | 2017 | 62 | 0 | 2018 | 1 | 0 | 1 | 1 | 2 |  4 | 1 | 7 | 5 | 17 |
+131 | Hwang, Jason Ahern | Northwestern University | 2017 | male | 5 | 0 | 2018 | 19 | 0 | 2018 | 0 | 1 | 0 | 2 | 0 |  2 | 3 | 3 | 4 | 2 |
+132 | Harman, Chester E., Jr. | The Pennsylvania State University | 2017 | male | 3 | 0 | 2018 | 8 | 0 | 2018 | 0 | 1 | 0 | 1 | 0 |  0 | 2 | 1 | 1 | 3 |
+133 | Lungu, Marius | University of Pennsylvania | 2017 | male | 1 | 0 | 2017 | 14 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 4 | 4 | 2 |
+134 | Logsdon, Sarah Elizabeth | University of California, Los Angeles | 2017 | female | 1 | 0 | 2018 | 9 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 1 | 3 | 1 |
+135 | Lee, Eve Jihyun | University of California, Berkeley | 2017 | female | 11 | 0 | 2018 | 37 | 0 | 2018 | 1 | 0 | 2 | 3 | 3 |  8 | 3 | 7 | 5 | 8 |
+136 | Morgan, D. P. | Boston University | 2017 | None | 3 | 0 | 2017 | 23 | 0 | 2018 | 1 | 0 | 0 | 0 | 1 |  3 | 6 | 1 | 5 | 5 |
+137 | Elbert, Oliver D. | University of California, Irvine | 2017 | male | 2 | 0 | 2018 | 7 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 2 | 0 |
+138 | Vorobiev, Dmitry V. | Rochester Institute of Technology | 2017 | male | 1 | 0 | 2018 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+139 | Rudy, Alexander R. | University of California, Santa Cruz | 2017 | male | 2 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 2 | 0 |
+140 | Lowell, Alexander | University of California, Berkeley | 2017 | male | 4 | 0 | 2017 | 7 | 0 | 2017 | 1 | 0 | 0 | 0 | 0 |  1 | 0 | 1 | 1 | 0 |
+141 | Felli, Derek Sean | Brigham Young University | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 |
+142 | Manzotti, Alessandro | The University of Chicago | 2017 | male | 6 | 0 | 2018 | 10 | 0 | 2018 | 0 | 0 | 3 | 0 | 1 |  0 | 0 | 3 | 1 | 1 |
+143 | Allu Peddinti, Divya | Arizona State University | 2017 | female | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 |
+144 | Hahn, ChangHoon | New York University | 2017 | male | 6 | 0 | 2017 | 10 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 |
+145 | Godfrey, Paige A. | City University of New York | 2017 | female | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+146 | Simon, Joseph J. | The University of Wisconsin - Milwaukee | 2017 | male | 3 | 0 | 2017 | 7 | 0 | 2018 | 0 | 0 | 1 | 0 | 1 |  0 | 0 | 1 | 0 | 4 |
+147 | Brennan, Ryan | Rutgers The State University of New Jersey - New Brunswick | 2017 | male | 3 | 0 | 2018 | 4 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 |
+148 | Coleman, Matthew S. B. | University of California, Santa Barbara | 2017 | male | 3 | 0 | 2018 | 5 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 1 | 1 | 0 | 1 |
+149 | Szypryt, Paul | University of California, Santa Barbara | 2017 | male | 4 | 0 | 2017 | 10 | 0 | 2018 | 0 | 0 | 1 | 0 | 1 |  0 | 2 | 1 | 2 | 2 |
+150 | Banik, Nilanjan | University of Florida | 2017 | male | 7 | 0 | 2018 | 8 | 0 | 2018 | 0 | 1 | 0 | 1 | 2 |  0 | 1 | 0 | 1 | 2 |
+151 | Hatt, Dylan T. | The University of Chicago | 2017 | male | 2 | 0 | 2018 | 4 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 |
+152 | Hand, Nicholas A. | University of California, Berkeley | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+153 | Lund, Michael B. | Vanderbilt University | 2017 | male | 4 | 0 | 2017 | 33 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  3 | 1 | 0 | 4 | 8 |
+154 | Ngo, Henry Hoang Khoi | California Institute of Technology | 2017 | male | 4 | 0 | 2017 | 19 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  2 | 0 | 3 | 2 | 4 |
+155 | Batalha, Natasha E. | The Pennsylvania State University | 2017 | female | 6 | 0 | 2018 | 10 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 0 | 0 | 2 | 2 |
+156 | Cardenzana, Joshua Vincent | Iowa State University | 2017 | male | 1 | 0 | 2017 | 23 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 5 | 6 | 8 |
+157 | Mitchell, Carl J. | Rutgers The State University of New Jersey - New Brunswick | 2017 | male | 5 | 0 | 2018 | 6 | 0 | 2018 | 0 | 1 | 0 | 3 | 0 |  0 | 1 | 0 | 3 | 1 |
+158 | Ozsoy, Ogan | Syracuse University | 2017 | male | 1 | 0 | 2018 | 6 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 3 | 1 | 0 |
+159 | Stafford, Sam | The Ohio State University | 2017 | male | 1 | 0 | 2017 | 6 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 2 | 0 | 0 | 1 |
+160 | Cartier, Kimberly M. S. | The Pennsylvania State University | 2017 | female | 3 | 0 | 2017 | 7 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 2 | 1 |
+161 | Lee, Aaron Thomas | University of California, Berkeley | 2017 | male | 3 | 0 | 2017 | 69 | 0 | 2018 | 0 | 0 | 2 | 0 | 0 |  13 | 12 | 13 | 13 | 10 |
+162 | Jennings, Zachary Grove | University of California, Santa Cruz | 2017 | male | 6 | 0 | 2017 | 16 | 0 | 2017 | 1 | 0 | 2 | 1 | 1 |  1 | 0 | 5 | 5 | 4 |
+163 | McAdam, Margaret M. | University of Maryland, College Park | 2017 | female | 2 | 0 | 2018 | 3 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 1 | 0 |
+164 | Backus, Isaac | University of Washington | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 1 |
+165 | Bhattacharya, Aparna | University of Notre Dame | 2017 | female | 7 | 0 | 2018 | 49 | 0 | 2018 | 1 | 0 | 1 | 2 | 1 |  2 | 1 | 4 | 11 | 12 |
+166 | Boehle, Anna Lee | University of California, Los Angeles | 2017 | female | 2 | 0 | 2018 | 7 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  1 | 1 | 1 | 0 | 1 |
+167 | Follin, Brent Taylor | University of California, Davis | 2017 | male | 2 | 0 | 2018 | 4 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 1 | 1 | 1 | 0 |
+168 | Lame'e, Mohammad Mehdi | University of Minnesota | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+169 | Ozbek, Melih | Carnegie Mellon University | 2017 | male | 2 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 2 | 0 | 1 |
+170 | Medina Hernandez, Carlos Francisco | Colorado School of Mines | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+171 | Bahrami Taghanaki, Sina | Cornell University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+172 | Keane, James Tuttle | The University of Arizona | 2017 | male | 4 | 0 | 2017 | 11 | 0 | 2018 | 0 | 0 | 2 | 0 | 1 |  0 | 0 | 2 | 0 | 8 |
+173 | Vlasov, Andrey Dmitrievich | Columbia University | 2017 | male | 4 | 0 | 2017 | 6 | 0 | 2017 | 0 | 0 | 1 | 0 | 1 |  1 | 0 | 1 | 0 | 2 |
+174 | Goodrich, K. A. | University of Colorado at Boulder | 2017 | None | 4 | 0 | 2018 | 27 | 0 | 2018 | 0 | 0 | 0 | 1 | 2 |  0 | 0 | 0 | 3 | 16 |
+175 | Witte, Samuel Joseph | University of California, Los Angeles | 2017 | male | 3 | 0 | 2018 | 18 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  3 | 1 | 2 | 2 | 3 |
+176 | Knoche, Richard | University of Maryland, College Park | 2017 | male | 1 | 0 | 2017 | 8 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 1 | 1 | 2 |
+177 | Pineda, John Sebastian | California Institute of Technology | 2017 | male | 5 | 0 | 2018 | 13 | 0 | 2018 | 0 | 2 | 0 | 0 | 1 |  1 | 4 | 0 | 2 | 4 |
+178 | Mozdzen, Thomas J. | Arizona State University | 2017 | male | 4 | 0 | 2017 | 8 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 1 | 2 |
+179 | Gamble, Ronald | North Carolina Agricultural and Technical State University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+180 | Suh, Hyewon | University of Hawai'i at Manoa | 2017 | female | 3 | 0 | 2017 | 11 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 2 | 6 |
+181 | Coker, Carl Thomas | The Ohio State University | 2017 | male | 4 | 0 | 2018 | 10 | 0 | 2018 | 0 | 1 | 0 | 0 | 1 |  0 | 1 | 0 | 0 | 2 |
+182 | Fox, Valerie Kristen | Washington University in St. Louis | 2017 | female | 2 | 0 | 2017 | 5 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 1 | 2 | 1 |
+183 | Subedi, Prachanda | University of Delaware | 2017 | male | 3 | 0 | 2017 | 6 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 1 | 1 |
+184 | Bowen, Dennis B. | Rochester Institute of Technology | 2017 | male | 2 | 0 | 2018 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+185 | Murray, Claire Elizabeth | The University of Wisconsin - Madison | 2017 | female | 5 | 0 | 2018 | 12 | 0 | 2018 | 0 | 0 | 1 | 2 | 0 |  0 | 1 | 2 | 7 | 0 |
+186 | Caplan, Matthew E. | Indiana University | 2017 | male | 3 | 0 | 2018 | 6 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 2 | 1 |
+187 | Abrahams, Ryan Douglas | City University of New York | 2017 | male | 3 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  1 | 0 | 0 | 1 | 0 |
+188 | Schonfeld, Samuel Joseph | New Mexico State University | 2017 | male | 3 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 |
+189 | Smith, Krista Lynne | University of Maryland, College Park | 2017 | female | 5 | 0 | 2018 | 63 | 0 | 2018 | 1 | 0 | 1 | 1 | 1 |  6 | 12 | 16 | 16 | 7 |
+190 | Dima, Gabriel Ionel | University of Hawai'i at Manoa | 2017 | male | 2 | 0 | 2018 | 5 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  1 | 0 | 1 | 1 | 1 |
+191 | Azadi, Mojegan | University of California, San Diego | 2017 | None | 4 | 0 | 2018 | 11 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 3 | 2 |
+192 | Holoien, Thomas Warren-Son | The Ohio State University | 2017 | male | 10 | 0 | 2018 | 46 | 0 | 2018 | 0 | 0 | 2 | 0 | 3 |  0 | 0 | 6 | 3 | 13 |
+193 | Rust, Thomas Ludwell | Montana State University | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+194 | O'Malley, Erin Marie | Dartmouth College | 2017 | female | 6 | 0 | 2018 | 8 | 0 | 2018 | 0 | 1 | 0 | 1 | 0 |  0 | 2 | 0 | 1 | 0 |
+195 | Price, Sedona H. | University of California, Berkeley | 2017 | female | 5 | 0 | 2017 | 22 | 0 | 2018 | 1 | 0 | 1 | 0 | 1 |  2 | 0 | 2 | 6 | 5 |
+196 | Petri, Andrea | Columbia University | 2017 | female | 9 | 0 | 2017 | 14 | 0 | 2018 | 1 | 1 | 1 | 1 | 3 |  1 | 1 | 1 | 2 | 6 |
+197 | Ponder, Kara A. | University of Pittsburgh | 2017 | female | 2 | 0 | 2017 | 5 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 1 | 1 |
+198 | Toy, Vicki Louise | University of Maryland, College Park | 2017 | female | 3 | 0 | 2017 | 10 | 0 | 2017 | 0 | 0 | 0 | 0 | 2 |  0 | 0 | 1 | 2 | 3 |
+199 | Kunnawalkam Elayavalli, Raghav | Rutgers The State University of New Jersey - New Brunswick | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 |
+200 | Tremmel, Michael | University of Washington | 2017 | male | 4 | 0 | 2018 | 10 | 0 | 2018 | 0 | 1 | 0 | 1 | 0 |  0 | 3 | 0 | 2 | 0 |
+201 | Hagen, Lea May Zernow | The Pennsylvania State University | 2017 | female | 4 | 0 | 2017 | 9 | 0 | 2017 | 0 | 0 | 0 | 1 | 1 |  0 | 2 | 0 | 3 | 1 |
+202 | Fuqua, Heidi | University of California, Berkeley | 2017 | female | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 |
+203 | Mannino, Rachel Louise | Texas A&amp;M University | 2017 | female | 1 | 0 | 2017 | 12 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 3 | 1 | 1 | 2 |
+204 | Gerhartz, Cody James | The University of Toledo | 2017 | male | 1 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 |
+205 | Shivvers, Isaac Steven | University of California, Berkeley | 2017 | male | 7 | 0 | 2017 | 27 | 0 | 2018 | 0 | 1 | 1 | 1 | 1 |  1 | 4 | 3 | 4 | 3 |
+206 | Montet, Benjamin Tyler | California Institute of Technology | 2017 | male | 10 | 0 | 2017 | 27 | 0 | 2018 | 0 | 1 | 1 | 3 | 2 |  1 | 3 | 3 | 9 | 5 |
+207 | Waters, Timothy R. | University of Nevada, Las Vegas | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 1 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+208 | Slinker, Kyle Patrick | The University of North Carolina at Chapel Hill | 2017 | male | 1 | 0 | 2018 | 1 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+209 | Fulton, Benjamin J. | University of Hawai'i at Manoa | 2017 | male | 7 | 0 | 2018 | 83 | 0 | 2018 | 0 | 1 | 1 | 2 | 1 |  10 | 7 | 10 | 14 | 16 |
+210 | Wharton, Robert Stockton | Cornell University | 2017 | male | 2 | 0 | 2017 | 14 | 0 | 2018 | 1 | 0 | 0 | 0 | 0 |  1 | 0 | 1 | 1 | 2 |
+211 | Richardson, Matthew Douglas | Vanderbilt University | 2017 | male | 2 | 0 | 2017 | 7 | 0 | 2017 | 1 | 0 | 0 | 0 | 0 |  2 | 1 | 2 | 0 | 0 |
+212 | Fuchs, Joshua Thomas | The University of North Carolina at Chapel Hill | 2017 | male | 2 | 0 | 2017 | 16 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 1 | 1 | 2 | 3 |
+213 | Prakash, Abhishek | University of Pittsburgh | 2017 | male | 3 | 0 | 2017 | 14 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 1 | 0 | 3 | 6 |
+214 | Hadden, Samuel | Northwestern University | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+215 | Golkhou, Vahid Zachary | Arizona State University | 2017 | None | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 0 | 0 |
+216 | Richert, Alexander J. W. | The Pennsylvania State University | 2017 | male | 3 | 0 | 2018 | 9 | 0 | 2018 | 0 | 0 | 0 | 2 | 0 |  0 | 1 | 2 | 2 | 2 |
+217 | Tuyenbayev, Darkhan | The University of Texas at San Antonio | 2017 | male | 2 | 0 | 2017 | 59 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 26 |
+218 | Staudaher, Shawn M. | University of Wyoming | 2017 | male | 2 | 0 | 2017 | 9 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 4 | 2 | 2 |
+219 | Reuter, Cassie A. | Purdue University | 2017 | female | 1 | 0 | 2017 | 16 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 2 | 3 | 3 |
+220 | Spilker, Justin Scott | The University of Arizona | 2017 | male | 5 | 0 | 2018 | 22 | 0 | 2018 | 0 | 0 | 1 | 1 | 2 |  0 | 6 | 1 | 3 | 8 |
+221 | Stanley, Ethan C. | Purdue University | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 |
+222 | Philippov, Alexander A. | Princeton University | 2017 | male | 8 | 0 | 2018 | 19 | 0 | 2018 | 0 | 1 | 2 | 2 | 1 |  2 | 1 | 2 | 4 | 5 |
+223 | Byler, Eleanor Beryl | University of Washington | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+224 | MacDonald, Nicholas Roy | Boston University | 2017 | male | 5 | 0 | 2018 | 21 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  2 | 2 | 1 | 4 | 5 |
+225 | Deitrick, Russell J. | University of Washington | 2017 | male | 2 | 0 | 2018 | 5 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 2 | 0 |
+226 | Schaan, Emmanuel Sebastien | Princeton University | 2017 | male | 4 | 0 | 2018 | 12 | 0 | 2018 | 0 | 0 | 1 | 0 | 1 |  1 | 0 | 1 | 1 | 4 |
+227 | Baldridge, Sean P. | University of Missouri - Columbia | 2017 | male | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+228 | De La Rosa, Janie | The University of Texas at San Antonio | 2017 | female | 2 | 0 | 2017 | 5 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 |
+229 | Rane, Akshaya | West Virginia University | 2017 | female | 4 | 0 | 2017 | 6 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 1 | 0 | 2 |
+230 | Spinella, William M. | The Claremont Graduate University | 2017 | male | 2 | 0 | 2018 | 6 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 1 | 1 | 1 |
+231 | McKeever, Jean Marie | New Mexico State University | 2017 | male | 1 | 0 | 2017 | 8 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  2 | 3 | 0 | 0 | 2 |
+232 | Balokovic, Mislav | California Institute of Technology | 2017 | male | 1 | 0 | 2017 | 69 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  1 | 2 | 13 | 19 | 19 |
+233 | Mills, Sean Martin | The University of Chicago | 2017 | male | 6 | 0 | 2017 | 10 | 0 | 2018 | 0 | 1 | 0 | 0 | 1 |  1 | 1 | 0 | 1 | 2 |
+234 | Silsbee, Kedron | Princeton University | 2017 | male | 6 | 0 | 2018 | 8 | 0 | 2018 | 0 | 0 | 0 | 2 | 2 |  0 | 0 | 0 | 4 | 2 |
+235 | Mickol, Rebecca Lynne | University of Arkansas | 2017 | female | 3 | 0 | 2018 | 3 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+236 | Fausnaugh, Michael Martin | The Ohio State University | 2017 | male | 6 | 0 | 2018 | 29 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 1 | 1 | 7 | 6 |
+237 | Mutlu, Burcin | University of Minnesota | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+238 | Fogerty, Erica | University of Rochester | 2017 | female | 3 | 0 | 2017 | 6 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 3 | 0 | 1 |
+239 | Tilton, Evan M. | University of Colorado at Boulder | 2017 | male | 4 | 0 | 2017 | 11 | 0 | 2017 | 1 | 1 | 0 | 0 | 1 |  1 | 1 | 2 | 1 | 3 |
+240 | Barnes, Jennifer | University of California, Berkeley | 2017 | female | 10 | 0 | 2018 | 67 | 0 | 2018 | 1 | 1 | 2 | 1 | 2 |  11 | 13 | 14 | 5 | 8 |
+241 | Schneider, Evan Elizabeth | The University of Arizona | 2017 | male | 4 | 0 | 2018 | 11 | 0 | 2018 | 0 | 1 | 0 | 1 | 0 |  1 | 7 | 0 | 1 | 0 |
+242 | Shivaei, Irene | University of California, Riverside | 2017 | female | 5 | 0 | 2018 | 18 | 0 | 2018 | 0 | 0 | 0 | 2 | 1 |  0 | 0 | 0 | 8 | 5 |
+243 | Truong, Phuongmai N. | University of California, Berkeley | 2017 | female | 2 | 0 | 2017 | 3 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 |
+244 | Rotter, Benjamin J. | University of Hawai'i at Manoa | 2017 | male | 1 | 0 | 2017 | 12 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  2 | 0 | 0 | 1 | 4 |
+245 | Hunt, Lucas | West Virginia University | 2017 | male | 7 | 0 | 2017 | 78 | 0 | 2018 | 0 | 0 | 2 | 2 | 1 |  10 | 13 | 15 | 13 | 13 |
+246 | Lau, Marie Wingyee | University of California, Santa Cruz | 2017 | female | 2 | 0 | 2018 | 8 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 1 | 1 | 1 | 2 |
+247 | Arneson, Ryan Alan | University of Minnesota | 2017 | male | 3 | 0 | 2018 | 4 | 0 | 2018 | 1 | 0 | 0 | 0 | 0 |  2 | 0 | 0 | 0 | 0 |
+248 | Ansdell, Megan C. | University of Hawai'i at Manoa | 2017 | female | 9 | 0 | 2018 | 29 | 0 | 2018 | 1 | 0 | 1 | 2 | 3 |  2 | 3 | 3 | 2 | 7 |
+249 | Vander Vliet, Jacob Richard | New Mexico State University | 2017 | male | 1 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 |
+250 | Kao, Melodie Minyu | California Institute of Technology | 2017 | female | 2 | 0 | 2018 | 10 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  1 | 3 | 1 | 1 | 2 |
+251 | Golovich, Nathan Ryan | University of California, Davis | 2017 | male | 3 | 0 | 2017 | 11 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 2 | 2 |
+252 | Rajwade, Kaustubh | West Virginia University | 2017 | male | 6 | 0 | 2018 | 9 | 0 | 2018 | 0 | 0 | 0 | 0 | 2 |  0 | 0 | 0 | 0 | 3 |
+253 | Neeley, Jillian Rose | Iowa State University | 2017 | female | 4 | 0 | 2017 | 7 | 0 | 2018 | 0 | 0 | 1 | 1 | 0 |  0 | 0 | 2 | 2 | 1 |
+254 | Kanarek, Graham | Columbia University | 2017 | male | 3 | 0 | 2017 | 4 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 1 | 0 |
+255 | Zhao, Jianshi | The Pennsylvania State University | 2017 | male | 17 | 0 | 2018 | 72 | 0 | 2018 | 5 | 3 | 3 | 2 | 1 |  13 | 10 | 11 | 13 | 7 |
+256 | Booker, Joseph J. | The University of Toledo | 2017 | male | 1 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 |
+257 | Mudd, Dale Montaine | The Ohio State University | 2017 | male | 4 | 0 | 2018 | 10 | 0 | 2018 | 0 | 0 | 1 | 1 | 0 |  0 | 0 | 2 | 1 | 0 |
+258 | Youngblood, Allison | University of Colorado at Boulder | 2017 | female | 4 | 0 | 2018 | 13 | 0 | 2018 | 0 | 0 | 0 | 0 | 2 |  1 | 0 | 0 | 2 | 5 |
+259 | Wilkins, Ashlee | University of Maryland, College Park | 2017 | female | 3 | 0 | 2017 | 10 | 0 | 2017 | 0 | 0 | 1 | 0 | 0 |  2 | 3 | 3 | 0 | 0 |
+260 | Avara, Mark J. | University of Maryland, College Park | 2017 | male | 3 | 0 | 2017 | 5 | 0 | 2018 | 0 | 1 | 0 | 0 | 1 |  1 | 1 | 0 | 1 | 1 |
+261 | Gorski, Mark Daniel | The University of New Mexico | 2017 | male | 2 | 0 | 2018 | 2 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+262 | Morrison, Sarah Jane | The University of Arizona | 2017 | female | 3 | 0 | 2018 | 8 | 0 | 2018 | 0 | 0 | 0 | 1 | 1 |  0 | 1 | 2 | 2 | 1 |
+263 | Freeman, William Robert | University of California, Riverside | 2017 | male | 2 | 0 | 2017 | 22 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 6 | 8 |
+264 | Deibel, Alex Thomas | Michigan State University | 2017 | male | 6 | 0 | 2017 | 10 | 0 | 2018 | 0 | 0 | 1 | 1 | 2 |  0 | 0 | 2 | 1 | 3 |
+265 | Burns, Eric | The University of Alabama in Huntsville | 2017 | male | 2 | 0 | 2018 | 14 | 0 | 2018 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 8 |
+266 | Almeyda, Triana R. | Rochester Institute of Technology | 2017 | None | 2 | 0 | 2017 | 4 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 0 |
+267 | Fogerty, Shane | University of Rochester | 2017 | male | 2 | 0 | 2017 | 2 | 0 | 2017 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 1 |
+268 | Baldassare, Vivienne Francesca | University of Michigan | 2017 | None | 6 | 0 | 2018 | 11 | 0 | 2018 | 0 | 0 | 1 | 1 | 1 |  0 | 0 | 2 | 2 | 3 |
+269 | Hsu, Li-Yen | University of Hawai'i at Manoa | 2017 | female | 6 | 0 | 2017 | 27 | 0 | 2018 | 0 | 1 | 1 | 0 | 1 |  1 | 4 | 7 | 7 | 2 |
+270 | Duncan, Nicole | University of California, Berkeley | 2017 | female | 1 | 0 | 2017 | 1 | 0 | 2017 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 |
+271 | Foltz, Ryan Michael | University of California, Riverside | 2017 | male | 2 | 0 | 2018 | 8 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  0 | 1 | 0 | 2 | 1 |
+272 | Lockhart, Kelly E. | University of Hawai'i at Manoa | 2017 | female | 2 | 0 | 2018 | 5 | 0 | 2018 | 0 | 0 | 0 | 1 | 0 |  1 | 1 | 1 | 1 | 0 |

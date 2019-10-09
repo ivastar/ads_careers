@@ -1,0 +1,363 @@
+n | name | university | phd_year | gender | fa_n_pubs_pre_phd | fa_n_pubs_prost_phd | fa_year_last | all_n_pubs_pre_phd | all_n_pubs_prost_phd | all_year_last |  fa_2006 | fa_2007 | fa_2008 | fa_2009 | fa_2010 | fa_2011 | fa_2012 | fa_2013 | fa_2014 | fa_2015 | fa_2016 |  all_2006 | all_2007 | all_2008 | all_2009 | all_2010 | all_2011 | all_2012 | all_2013 | all_2014 | all_2015 | all_2016 | foo
+1 | Johnson, Megan C. | Georgia State University | 2011 | female | 2 | 5 | 2018 | 6 | 29 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 2 | 0 |  0 | 0 | 0 | 4 | 0 | 2 | 6 | 5 | 2 | 5 | 2 |
+2 | Perez-Giz, Gabriel | Columbia University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+3 | Tanaka, Takamitsu | Columbia University | 2011 | male | 12 | 14 | 2018 | 183 | 95 | 2018 | 1 | 1 | 0 | 3 | 3 | 4 | 4 | 4 | 2 | 0 | 2 |  7 | 9 | 11 | 54 | 67 | 35 | 39 | 16 | 6 | 15 | 10 |
+4 | de Messieres, Genevieve Escande | University of Notre Dame | 2011 | female | 1 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+5 | Anninos, Dionysios Theodoros | Harvard University | 2011 | male | 5 | 11 | 2018 | 5 | 11 | 2018 | 0 | 0 | 0 | 1 | 2 | 2 | 5 | 0 | 2 | 3 | 0 |  0 | 0 | 0 | 1 | 2 | 2 | 5 | 0 | 2 | 3 | 0 |
+6 | Fridriksson, Joel K. | Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology | 2011 | male | 5 | 1 | 2015 | 7 | 14 | 2018 | 0 | 0 | 1 | 0 | 1 | 3 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 0 | 2 | 4 | 2 | 3 | 2 | 4 | 2 |
+7 | Dulaney, Timothy R. | California Institute of Technology | 2011 | male | 5 | 0 | 2011 | 6 | 0 | 2011 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 2 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+8 | Ashley, James Warren | Arizona State University | 2011 | male | 2 | 2 | 2016 | 9 | 4 | 2017 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 1 |  0 | 0 | 1 | 1 | 3 | 4 | 2 | 0 | 0 | 0 | 1 |
+9 | Kazin, Eyal Ari | New York University | 2011 | male | 3 | 3 | 2014 | 10 | 17 | 2017 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 1 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 8 | 5 | 6 | 3 | 0 | 2 |
+10 | Zhao, Xinghai | University of Notre Dame | 2011 | None | 11 | 6 | 2017 | 28 | 26 | 2018 | 2 | 0 | 2 | 0 | 3 | 4 | 0 | 1 | 2 | 2 | 0 |  4 | 1 | 5 | 3 | 7 | 8 | 4 | 2 | 6 | 5 | 2 |
+11 | Nwankwo, Anthony Chukwuemeka | The University of Texas at Dallas | 2011 | male | 2 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |
+12 | Gauthier, Jean-Rene | The University of Chicago | 2011 | male | 5 | 3 | 2014 | 8 | 9 | 2018 | 1 | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 1 | 0 | 0 |  1 | 0 | 0 | 1 | 3 | 3 | 1 | 3 | 4 | 0 | 0 |
+13 | Shcherbakov, Roman V. | Harvard University | 2011 | male | 5 | 5 | 2014 | 7 | 8 | 2014 | 0 | 0 | 2 | 0 | 1 | 2 | 1 | 2 | 2 | 0 | 0 |  0 | 0 | 2 | 0 | 1 | 4 | 2 | 3 | 3 | 0 | 0 |
+14 | Rodriguez, Leo L. | The University of Iowa | 2011 | male | 6 | 2 | 2017 | 23 | 31 | 2018 | 0 | 0 | 1 | 2 | 1 | 2 | 0 | 0 | 0 | 0 | 1 |  3 | 0 | 3 | 7 | 4 | 6 | 4 | 2 | 5 | 3 | 9 |
+15 | Indriolo, Nicholas | University of Illinois at Urbana-Champaign | 2011 | male | 1 | 1 | 2012 | 1 | 9 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 | 2 | 0 | 1 |
+16 | Jacobs, Daniel C. | University of Pennsylvania | 2011 | male | 2 | 5 | 2017 | 4 | 40 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 0 | 1 | 1 |  0 | 0 | 0 | 0 | 2 | 2 | 3 | 6 | 6 | 11 | 11 |
+17 | Poppe, Andrew Reinhold | University of Colorado at Boulder | 2011 | male | 6 | 18 | 2018 | 8 | 47 | 2018 | 0 | 0 | 0 | 0 | 2 | 4 | 5 | 2 | 3 | 2 | 5 |  0 | 0 | 1 | 0 | 2 | 5 | 8 | 8 | 8 | 7 | 9 |
+18 | Patel, Pinkesh K. | California Institute of Technology | 2011 | male | 3 | 3 | 2017 | 55 | 21 | 2017 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 1 |  0 | 8 | 15 | 14 | 10 | 8 | 14 | 1 | 1 | 2 | 1 |
+19 | Cohen, Michael Isaac | California Institute of Technology | 2011 | male | 3 | 1 | 2012 | 46 | 8 | 2018 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |  4 | 6 | 3 | 3 | 22 | 8 | 2 | 2 | 1 | 1 | 2 |
+20 | Hasenkopf, Christa A. | University of Colorado at Boulder | 2011 | female | 3 | 0 | 2011 | 6 | 0 | 2011 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
+21 | Ali-Haimoud, Yacine | California Institute of Technology | 2011 | None | 1 | 0 | 2011 | 1 | 1 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 |
+22 | Pullen, Anthony R. | California Institute of Technology | 2011 | male | 5 | 7 | 2018 | 5 | 10 | 2018 | 0 | 2 | 0 | 0 | 1 | 2 | 0 | 2 | 2 | 1 | 2 |  0 | 2 | 0 | 0 | 1 | 2 | 0 | 2 | 5 | 1 | 2 |
+23 | Lopez, Laura | MIT | 2011 | female | 7 | 5 | 2018 | 18 | 24 | 2018 | 2 | 0 | 0 | 2 | 0 | 3 | 0 | 2 | 2 | 1 | 0 |  4 | 0 | 1 | 4 | 4 | 5 | 2 | 7 | 5 | 2 | 4 |
+24 | Yang, Soung-Chul | University of Florida | 2011 | male | 5 | 5 | 2018 | 26 | 35 | 2018 | 0 | 0 | 0 | 2 | 2 | 1 | 2 | 1 | 2 | 0 | 0 |  5 | 3 | 1 | 7 | 6 | 4 | 7 | 1 | 8 | 3 | 6 |
+25 | Zhu, Zhaohuan | University of Michigan | 2011 | None | 10 | 13 | 2018 | 31 | 73 | 2018 | 1 | 1 | 1 | 3 | 2 | 2 | 3 | 2 | 2 | 4 | 2 |  3 | 1 | 4 | 10 | 5 | 8 | 7 | 13 | 11 | 10 | 17 |
+26 | Zhang, Binbin | University of Nevada, Las Vegas | 2011 | male | 14 | 35 | 2018 | 116 | 100 | 2018 | 2 | 2 | 3 | 2 | 1 | 4 | 6 | 7 | 3 | 6 | 5 |  38 | 19 | 12 | 17 | 14 | 16 | 18 | 11 | 15 | 17 | 21 |
+27 | Adams, Joshua Jesse | The University of Texas at Austin | 2011 | male | 4 | 3 | 2014 | 61 | 96 | 2018 | 0 | 0 | 0 | 1 | 0 | 3 | 1 | 1 | 1 | 0 | 0 |  5 | 6 | 7 | 11 | 12 | 20 | 15 | 21 | 13 | 15 | 15 |
+28 | Boyles, Jason | West Virginia University | 2011 | male | 2 | 1 | 2013 | 4 | 15 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 2 | 3 | 4 | 4 | 1 | 1 |
+29 | Luketic, Stefan | University of Nevada, Las Vegas | 2011 | male | 2 | 0 | 2011 | 2 | 0 | 2011 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+30 | Vavilkin, Tatjana | Department of Physics &amp; Astronomy, Stony Brook University, Stony Brook, NY 11794-3800, USA | 2011 | None | 1 | 0 | 2011 | 11 | 7 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 1 | 2 | 2 | 4 | 3 | 3 | 0 | 0 | 0 |
+31 | Kuo, Cheng-Yu | University of Virginia | 2011 | male | 3 | 3 | 2018 | 5 | 15 | 2018 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 1 | 1 | 1 | 0 |  0 | 0 | 2 | 0 | 1 | 2 | 0 | 4 | 2 | 3 | 3 |
+32 | Baillie, Kevin | University of Central Florida | 2011 | male | 1 | 0 | 2011 | 2 | 5 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 1 | 2 | 1 |
+33 | Tremblay, Grant Russell | Rochester Institute of Technology | 2011 | male | 5 | 5 | 2018 | 12 | 30 | 2018 | 1 | 1 | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 1 | 1 |  1 | 1 | 1 | 2 | 5 | 2 | 5 | 3 | 5 | 3 | 10 |
+34 | Case, Anthony W. | Boston University | 2011 | male | 3 | 1 | 2013 | 5 | 8 | 2017 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 2 | 2 | 2 | 1 | 0 | 1 | 2 |
+35 | Guidoni, Silvina Esther | Montana State University | 2011 | female | 3 | 2 | 2016 | 5 | 4 | 2017 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 1 | 1 |  0 | 0 | 0 | 1 | 1 | 3 | 0 | 0 | 0 | 1 | 2 |
+36 | Duffin, Robert Thomas | George Mason University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+37 | Hogan, Brandon Scott | Purdue University | 2011 | male | 2 | 0 | 2011 | 2 | 2 | 2016 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 1 |
+38 | Ernst, Scott | University of Oregon | 2011 | male | 1 | 0 | 2011 | 1 | 1 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 |
+39 | Fritts, Matthew Christopher | University of Minnesota | 2011 | male | 1 | 0 | 2011 | 8 | 5 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 2 | 4 | 0 | 3 | 0 | 1 | 0 |
+40 | Michael, Scott | Indiana University | 2011 | male | 3 | 1 | 2012 | 7 | 3 | 2013 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |  2 | 2 | 0 | 0 | 1 | 2 | 1 | 2 | 0 | 0 | 0 |
+41 | Fondy, Susan R. E. | The University of Texas Medical Branch Graduate School of Biomedical Sciences | 2011 | female | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+42 | Bosch, James Francis | University of California, Davis | 2011 | male | 3 | 0 | 2018 | 3 | 5 | 2018 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 3 | 1 |
+43 | Sironi, Lorenzo | Princeton University | 2011 | male | 9 | 11 | 2017 | 9 | 34 | 2018 | 1 | 1 | 0 | 3 | 1 | 3 | 1 | 2 | 2 | 4 | 1 |  1 | 1 | 0 | 3 | 1 | 3 | 2 | 9 | 5 | 6 | 4 |
+44 | Backovic, Mihailo | University of Kansas | 2011 | male | 1 | 0 | 2011 | 2 | 3 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 0 |
+45 | Tao, Ted | University of California, Santa Barbara | 2011 | male | 2 | 1 | 2013 | 2 | 1 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
+46 | Tilvi, Vithal | Arizona State University | 2011 | male | 4 | 3 | 2016 | 4 | 27 | 2018 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 1 | 1 | 0 | 1 |  0 | 0 | 0 | 1 | 1 | 2 | 2 | 4 | 7 | 7 | 4 |
+47 | Milligan, Michael Bryce | University of Minnesota | 2011 | male | 1 | 0 | 2011 | 2 | 1 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+48 | Tremblay, Steven Edgar | The University of New Mexico | 2011 | male | 4 | 2 | 2016 | 7 | 15 | 2018 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 1 |  0 | 2 | 1 | 1 | 2 | 1 | 1 | 1 | 1 | 6 | 2 |
+49 | Zhao, Liang | University of Michigan | 2011 | male | 11 | 21 | 2018 | 29 | 49 | 2018 | 1 | 3 | 1 | 3 | 0 | 3 | 0 | 6 | 3 | 5 | 1 |  3 | 5 | 7 | 6 | 3 | 5 | 4 | 11 | 8 | 8 | 4 |
+50 | Johnson-McDaniel, Nathan Kieran | The Pennsylvania State University | 2011 | male | 2 | 7 | 2015 | 2 | 26 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 2 | 3 | 1 | 1 | 0 |  0 | 0 | 0 | 1 | 0 | 1 | 2 | 5 | 3 | 2 | 8 |
+51 | Zalamea, Ivan | Columbia University | 2011 | male | 4 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+52 | Chen, Lunjin | University of California, Los Angeles | 2011 | male | 15 | 24 | 2018 | 53 | 123 | 2018 | 3 | 1 | 4 | 2 | 2 | 3 | 8 | 3 | 3 | 3 | 4 |  11 | 5 | 9 | 8 | 6 | 14 | 13 | 19 | 21 | 18 | 26 |
+53 | Hao, Heng | Harvard University | 2011 | male | 4 | 2 | 2014 | 16 | 8 | 2017 | 0 | 1 | 0 | 0 | 1 | 2 | 0 | 1 | 1 | 0 | 0 |  2 | 2 | 0 | 3 | 4 | 5 | 3 | 2 | 1 | 0 | 1 |
+54 | Atlee, David W. | The Ohio State University | 2011 | male | 5 | 1 | 2012 | 19 | 6 | 2014 | 0 | 1 | 0 | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  4 | 3 | 2 | 5 | 3 | 2 | 3 | 0 | 3 | 0 | 0 |
+55 | DeWitt, Curtis | University of Florida | 2011 | male | 2 | 1 | 2013 | 6 | 7 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |  2 | 0 | 2 | 0 | 1 | 1 | 0 | 2 | 0 | 2 | 2 |
+56 | Belikov, Alexander | The University of Chicago | 2011 | male | 6 | 6 | 2016 | 8 | 10 | 2016 | 0 | 0 | 1 | 1 | 1 | 3 | 2 | 2 | 1 | 0 | 1 |  1 | 0 | 1 | 2 | 1 | 3 | 4 | 4 | 1 | 0 | 1 |
+57 | Kadala, Roger H. K. | University of Hawai'i at Manoa | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+58 | Redman, Stephen L. | The Pennsylvania State University | 2011 | male | 3 | 2 | 2014 | 6 | 4 | 2014 | 0 | 0 | 0 | 1 | 0 | 2 | 1 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 1 | 2 | 2 | 2 | 0 | 2 | 0 | 0 |
+59 | Almaraz Calderon, Sergio Jesus | University of Notre Dame | 2011 | male | 1 | 0 | 2011 | 1 | 11 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 3 | 1 | 3 | 3 | 0 |
+60 | Barrow, Daniel J. | University of Florida | 2011 | male | 2 | 2 | 2013 | 2 | 3 | 2013 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 0 |
+61 | Sorathia, Kareem | University of Maryland, College Park | 2011 | male | 2 | 4 | 2018 | 3 | 5 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 1 | 2 | 1 | 0 | 0 |
+62 | Zugger, Michael E. | The Pennsylvania State University | 2011 | male | 4 | 0 | 2011 | 4 | 1 | 2014 | 0 | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 1 | 0 | 0 |
+63 | Banerjee, Projjwal | University of Minnesota | 2011 | male | 4 | 2 | 2018 | 5 | 3 | 2018 | 0 | 0 | 2 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 1 |  0 | 0 | 2 | 1 | 0 | 2 | 0 | 1 | 0 | 1 | 1 |
+64 | Manning, Anna M. | The University of Alabama | 2011 | female | 1 | 0 | 2011 | 2 | 4 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 0 |
+65 | Gawande, Rohit Sudhir | University of Virginia | 2011 | male | 2 | 1 | 2012 | 2 | 3 | 2013 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 0 |
+66 | Chuang, Chia-Hsun | The University of Oklahoma | 2011 | female | 2 | 10 | 2017 | 2 | 62 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 2 | 3 | 0 | 2 | 1 |  0 | 0 | 1 | 0 | 0 | 1 | 3 | 6 | 6 | 8 | 17 |
+67 | Kaleida, Catherine | Arizona State University | 2011 | female | 2 | 0 | 2011 | 4 | 7 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 1 | 2 |
+68 | Fogel, Jeffrey K. J. | University of Michigan | 2011 | male | 2 | 0 | 2011 | 13 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  2 | 1 | 1 | 1 | 2 | 6 | 0 | 0 | 0 | 0 | 0 |
+69 | Sherman, Reid A. | The University of Chicago | 2011 | male | 3 | 1 | 2012 | 3 | 7 | 2017 | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 0 | 0 | 1 | 4 | 2 | 0 | 0 | 0 |
+70 | Ponce C., Marcelo | Rochester Institute of Technology | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+71 | Peterson, Courtney Marie | Harvard University | 2011 | female | 3 | 1 | 2013 | 3 | 3 | 2016 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 3 | 0 | 1 | 1 | 0 | 1 |
+72 | Thyagarajan, Nithyanandan | Columbia University | 2011 | male | 2 | 6 | 2018 | 2 | 23 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 2 | 1 |  0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 4 | 12 |
+73 | Soderlund, Krista Marie | University of California, Los Angeles | 2011 | female | 1 | 5 | 2015 | 4 | 12 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 1 | 0 |  0 | 0 | 1 | 0 | 1 | 2 | 1 | 2 | 3 | 3 | 1 |
+74 | Peterson, William M. | The University of Iowa | 2011 | male | 3 | 0 | 2011 | 4 | 4 | 2018 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 3 | 0 |
+75 | Sayre, Daniel B. | Ohio University | 2011 | male | 1 | 1 | 2012 | 1 | 2 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+76 | Oksala, Mary Elizabeth | University of Delaware | 2011 | female | 2 | 5 | 2018 | 5 | 28 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 1 | 0 | 2 | 0 |  0 | 0 | 0 | 0 | 2 | 3 | 6 | 4 | 2 | 9 | 2 |
+77 | Thorman, Paul | The University of New Mexico | 2011 | male | 1 | 0 | 2011 | 3 | 6 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 3 | 2 | 1 | 1 | 1 | 0 |
+78 | Wolf, Joseph | University of California, Irvine | 2011 | male | 1 | 1 | 2018 | 7 | 8 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 2 | 2 | 0 | 1 | 2 | 1 | 2 | 0 | 1 | 0 |
+79 | Jordan, Andrew P. | Boston University | 2011 | male | 3 | 4 | 2018 | 3 | 8 | 2018 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 1 | 1 | 1 | 0 |  0 | 0 | 0 | 1 | 0 | 2 | 1 | 1 | 1 | 1 | 2 |
+80 | Lundberg, Erik | School : University of South Florida | 2011 | male | 1 | 2 | 2012 | 3 | 3 | 2012 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0 | 0 | 0 |
+81 | Wilson-Ewing, Edward | The Pennsylvania State University | 2011 | male | 2 | 8 | 2018 | 9 | 21 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 0 | 1 | 2 |  0 | 0 | 1 | 2 | 3 | 3 | 3 | 2 | 5 | 3 | 4 |
+82 | Tu, Weichao | University of Colorado at Boulder | 2011 | None | 5 | 4 | 2014 | 7 | 15 | 2018 | 0 | 0 | 0 | 1 | 1 | 3 | 1 | 1 | 2 | 0 | 0 |  0 | 0 | 0 | 2 | 1 | 4 | 2 | 2 | 4 | 1 | 3 |
+83 | Dormody, Michael Harry | University of California, Santa Cruz | 2011 | male | 2 | 0 | 2011 | 38 | 1 | 2012 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 1 | 15 | 14 | 7 | 1 | 0 | 0 | 0 | 0 |
+84 | Devin, Michael J. | Baylor University | 2011 | male | 2 | 1 | 2014 | 2 | 1 | 2014 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+85 | Scott, Michael | Indiana University | 2011 | male | 1 | 1 | 2014 | 10 | 11 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  2 | 1 | 0 | 1 | 1 | 5 | 4 | 1 | 3 | 2 | 0 |
+86 | Whitmore, Jonathan | University of California, San Diego | 2011 | male | 2 | 1 | 2015 | 3 | 8 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 0 | 2 | 1 | 0 | 3 | 3 | 2 | 0 |
+87 | Jahangeer, Muffarah | George Mason University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+88 | Tassev, Svetlin Valentinov | Harvard University | 2011 | None | 3 | 7 | 2017 | 5 | 9 | 2018 | 0 | 0 | 1 | 0 | 0 | 2 | 3 | 1 | 2 | 0 | 0 |  0 | 0 | 1 | 2 | 0 | 2 | 3 | 1 | 2 | 0 | 1 |
+89 | Kuehn, Charles A., III | Michigan State University | 2011 | male | 4 | 3 | 2016 | 12 | 11 | 2017 | 0 | 0 | 2 | 0 | 0 | 2 | 1 | 1 | 0 | 0 | 1 |  3 | 1 | 3 | 1 | 2 | 2 | 2 | 3 | 1 | 2 | 2 |
+90 | Gomez, Roman G. | Rice University | 2011 | male | 1 | 1 | 2016 | 9 | 7 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |  0 | 1 | 2 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 5 |
+91 | Prieskorn, Zachary Ryan | The University of Iowa | 2011 | male | 2 | 3 | 2014 | 3 | 5 | 2016 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 1 | 0 | 0 |  0 | 1 | 0 | 0 | 0 | 2 | 1 | 1 | 1 | 1 | 1 |
+92 | Grossman, Rebecca | Columbia University | 2011 | female | 2 | 2 | 2013 | 3 | 2 | 2013 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
+93 | Hughes, Anna Louise Haugsjaa | University of Colorado at Boulder | 2011 | female | 6 | 1 | 2018 | 18 | 21 | 2018 | 1 | 1 | 1 | 0 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 | 3 | 3 | 3 | 7 | 1 | 1 | 2 | 2 | 6 | 6 |
+94 | Hood, Carol Elizabeth | University of California, Irvine | 2011 | female | 1 | 1 | 2017 | 2 | 2 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 |
+95 | LaMassa, Stephanie M. | The Johns Hopkins University | 2011 | female | 5 | 15 | 2017 | 10 | 38 | 2018 | 0 | 0 | 1 | 1 | 1 | 2 | 2 | 3 | 1 | 1 | 4 |  0 | 0 | 3 | 2 | 1 | 4 | 2 | 3 | 6 | 6 | 11 |
+96 | Milisavljevic, Dan | Dartmouth College | 2011 | male | 5 | 10 | 2018 | 11 | 73 | 2018 | 0 | 0 | 2 | 1 | 1 | 1 | 1 | 3 | 1 | 3 | 0 |  0 | 0 | 2 | 1 | 6 | 2 | 7 | 10 | 16 | 13 | 16 |
+97 | Shiri, Shahram | The George Washington University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+98 | Craig, Jonathan P. | University of Arkansas | 2011 | male | 2 | 2 | 2013 | 6 | 10 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 |  0 | 0 | 1 | 3 | 1 | 1 | 1 | 6 | 2 | 1 | 0 |
+99 | Afshar, Maziar Mohseney | University of California, Davis | 2011 | male | 2 | 0 | 2011 | 2 | 0 | 2011 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+100 | Halstead, Evan Mark | State University of New York at Buffalo | 2011 | male | 1 | 1 | 2013 | 3 | 1 | 2013 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
+101 | Pekowsky, Larne | Syracuse University | 2011 | None | 1 | 2 | 2013 | 19 | 83 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 |  0 | 0 | 0 | 5 | 6 | 8 | 16 | 5 | 1 | 4 | 28 |
+102 | Perrine, Randall Patrick | University of Maryland, College Park | 2011 | male | 2 | 1 | 2012 | 4 | 1 | 2012 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |
+103 | Malone, Christopher Michael | State University of New York at Stony Brook | 2011 | male | 2 | 2 | 2014 | 4 | 9 | 2016 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 2 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 3 | 0 | 2 | 4 | 2 | 1 |
+104 | Savransky, Dmitry | Princeton University | 2011 | male | 4 | 3 | 2016 | 8 | 27 | 2018 | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 1 | 0 | 1 | 1 |  3 | 0 | 0 | 0 | 3 | 2 | 1 | 1 | 2 | 5 | 10 |
+105 | Comess, Max D. | University of California, Santa Cruz | 2011 | male | 1 | 1 | 2013 | 1 | 3 | 2016 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 |
+106 | Jasim, Riznia Jenifa | University of Houston | 2011 | None | 1 | 0 | 2011 | 1 | 1 | 2014 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+107 | Ren, Guoqin | University of New Hampshire | 2011 | male | 2 | 0 | 2011 | 2 | 0 | 2011 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+108 | Markakis, Charalampos | The University of Wisconsin - Milwaukee | 2011 | male | 1 | 2 | 2017 | 6 | 23 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 2 | 1 | 2 | 0 | 1 | 3 | 1 | 0 |
+109 | Christensen, Charlotte R. | University of Washington | 2011 | female | 2 | 4 | 2018 | 4 | 23 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 0 | 1 |  0 | 0 | 0 | 2 | 1 | 1 | 5 | 1 | 8 | 3 | 2 |
+110 | Choi, Ami | University of California, Davis | 2011 | female | 2 | 2 | 2016 | 2 | 26 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 |  0 | 0 | 1 | 0 | 0 | 1 | 2 | 0 | 0 | 7 | 7 |
+111 | Ma, Qianyu | Baylor University | 2011 | female | 1 | 11 | 2018 | 2 | 35 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 2 | 2 |  1 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 4 | 5 | 7 |
+112 | Bunker, Raymond A., III | University of California, Santa Barbara | 2011 | male | 1 | 0 | 2011 | 13 | 11 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  2 | 2 | 0 | 2 | 3 | 4 | 0 | 3 | 2 | 4 | 0 |
+113 | Mei, Yuan | Rice University | 2011 | male | 1 | 5 | 2018 | 7 | 18 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 2 | 1 |  0 | 0 | 0 | 0 | 1 | 6 | 3 | 2 | 3 | 3 | 3 |
+114 | Fereres-Rapoport, Sonya M. | University of California, Berkeley | 2011 | female | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+115 | Mardon, Jeremy | University of California, Berkeley | 2011 | male | 3 | 0 | 2011 | 3 | 6 | 2018 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 0 | 1 | 2 | 0 | 1 | 1 | 1 |
+116 | Dooley, Katherine Laird | University of Florida | 2011 | female | 1 | 1 | 2016 | 35 | 108 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |  1 | 0 | 4 | 13 | 8 | 9 | 17 | 7 | 16 | 7 | 29 |
+117 | Devaraj, Kiruthika | Georgia Institute of Technology | 2011 | female | 3 | 1 | 2014 | 3 | 3 | 2017 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 1 |
+118 | Alizadeh, Esfandiar | University of Illinois at Urbana-Champaign | 2011 | male | 3 | 1 | 2012 | 4 | 2 | 2015 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 1 | 0 |
+119 | Ilie, Cosmin | University of Michigan | 2011 | male | 3 | 1 | 2012 | 4 | 3 | 2018 | 0 | 0 | 0 | 1 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | 1 | 0 |
+120 | Virgili, Francisco Javier | University of Nevada, Las Vegas | 2011 | male | 4 | 2 | 2013 | 8 | 12 | 2017 | 0 | 0 | 0 | 1 | 0 | 3 | 1 | 1 | 0 | 0 | 0 |  0 | 2 | 0 | 2 | 0 | 4 | 1 | 3 | 4 | 3 | 0 |
+121 | Lin, Pei-Ying | Arizona State University | 2011 | female | 1 | 1 | 2014 | 2 | 2 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 1 | 0 | 0 |
+122 | Carlberg, Joleen Karen | University of Virginia | 2011 | female | 4 | 6 | 2018 | 6 | 18 | 2018 | 0 | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 1 | 1 | 2 |  0 | 0 | 0 | 1 | 2 | 3 | 1 | 2 | 2 | 2 | 8 |
+123 | Smolinski, Jason P. | Michigan State University | 2011 | male | 3 | 0 | 2011 | 6 | 1 | 2017 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 | 0 |
+124 | Strelcov, Evgheni | Southern Illinois University at Carbondale | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+125 | Capano, Collin D. | Syracuse University | 2011 | male | 1 | 3 | 2017 | 16 | 104 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 |  0 | 0 | 0 | 2 | 6 | 8 | 16 | 7 | 14 | 7 | 29 |
+126 | Gabor, Jared M. | The University of Arizona | 2011 | male | 4 | 6 | 2016 | 11 | 17 | 2017 | 0 | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 2 | 1 | 1 |  0 | 1 | 1 | 4 | 2 | 3 | 2 | 4 | 4 | 3 | 1 |
+127 | Hosclaw, Tracy | University of California, Santa Cruz | 2011 | female | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+128 | Taylor, Matthew F. | Wayne State University | 2011 | male | 2 | 0 | 2011 | 11 | 9 | 2017 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 3 | 1 | 4 | 2 | 1 | 0 | 0 | 3 | 4 |
+129 | Gralla, Megan B. | The University of Chicago | 2011 | female | 3 | 1 | 2014 | 4 | 34 | 2018 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 3 | 7 | 12 | 5 | 4 | 2 |
+130 | Ji, Jun | University of Michigan | 2011 | male | 3 | 2 | 2015 | 4 | 13 | 2018 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |  1 | 0 | 0 | 2 | 0 | 1 | 0 | 4 | 0 | 4 | 4 |
+131 | Finkel, Hal Joshua | Yale University | 2011 | male | 1 | 0 | 2011 | 3 | 11 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 1 | 1 | 1 | 1 | 3 | 4 |
+132 | Westlake, Joseph H. | The University of Texas at San Antonio | 2011 | male | 2 | 6 | 2016 | 13 | 27 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 2 | 0 | 2 |  0 | 1 | 1 | 3 | 4 | 4 | 5 | 0 | 4 | 3 | 12 |
+133 | Trotter, Adam Somers | The University of North Carolina at Chapel Hill | 2011 | male | 1 | 1 | 2017 | 2 | 6 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 2 |
+134 | Dumoulin, Robert Nicolas | Columbia University | 2011 | male | 1 | 0 | 2011 | 2 | 3 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 1 | 0 |
+135 | Ramadhan, Handhika Satrio | Tufts University | 2011 | male | 1 | 3 | 2018 | 3 | 7 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 0 | 1 | 2 |
+136 | Landon, Jonathan C. | Brigham Young University | 2011 | male | 2 | 0 | 2011 | 3 | 0 | 2011 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+137 | Thomas, Nicholas Evan | University of Miami | 2011 | male | 8 | 3 | 2018 | 54 | 134 | 2018 | 0 | 1 | 1 | 0 | 1 | 5 | 1 | 0 | 0 | 1 | 0 |  1 | 8 | 2 | 13 | 19 | 11 | 11 | 7 | 13 | 29 | 39 |
+138 | Liang, Zhuohan | The Johns Hopkins University | 2011 | None | 1 | 2 | 2013 | 3 | 7 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 1 | 2 | 1 | 2 | 1 | 1 |
+139 | Herbert-Fort, Stephane | The University of Arizona | 2011 | male | 5 | 1 | 2012 | 11 | 3 | 2012 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |  2 | 0 | 4 | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 0 |
+140 | Brizius, Alison Rebecca | The University of Chicago | 2011 | female | 1 | 0 | 2011 | 2 | 3 | 2013 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 0 |
+141 | Featherstone, Nicholas Andrew | University of Colorado at Boulder | 2011 | male | 5 | 3 | 2016 | 5 | 6 | 2018 | 0 | 1 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 1 | 2 |  0 | 1 | 0 | 1 | 0 | 3 | 1 | 0 | 0 | 2 | 3 |
+142 | Wannawichian, Suwicha | Boston University | 2011 | None | 3 | 2 | 2015 | 6 | 2 | 2018 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 0 |  0 | 0 | 2 | 2 | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
+143 | Lanza, Nina | The University of New Mexico | 2011 | female | 3 | 4 | 2016 | 7 | 41 | 2018 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 1 | 1 | 1 |  0 | 0 | 1 | 1 | 3 | 2 | 4 | 8 | 11 | 8 | 3 |
+144 | Christy, Brian John | University of Maryland, College Park | 2011 | male | 2 | 1 | 2014 | 43 | 59 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  1 | 4 | 6 | 7 | 11 | 14 | 11 | 18 | 12 | 15 | 3 |
+145 | Hartl, Alexandre E. | North Carolina State University | 2011 | male | 2 | 0 | 2011 | 3 | 1 | 2012 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |
+146 | Wall, Aron Clark | University of Maryland, College Park | 2011 | male | 4 | 8 | 2017 | 7 | 27 | 2018 | 0 | 0 | 0 | 1 | 2 | 1 | 2 | 3 | 1 | 1 | 0 |  0 | 1 | 0 | 1 | 3 | 2 | 3 | 6 | 5 | 5 | 5 |
+147 | Yakunin, Konstantin | Florida Atlantic University | 2011 | male | 2 | 1 | 2015 | 2 | 5 | 2016 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 2 | 2 |
+148 | Parashare, Chaitali Ravindra | University of Virginia | 2011 | female | 1 | 0 | 2011 | 3 | 2 | 2012 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 2 | 0 | 0 | 0 | 0 |
+149 | Sumner, Matthew Casey | California Institute of Technology | 2011 | male | 1 | 0 | 2011 | 6 | 1 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  2 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+150 | Dvorkin, Cora | The University of Chicago | 2011 | female | 8 | 3 | 2014 | 10 | 24 | 2018 | 0 | 0 | 1 | 2 | 2 | 3 | 0 | 1 | 2 | 0 | 0 |  0 | 0 | 1 | 3 | 2 | 4 | 2 | 4 | 5 | 5 | 5 |
+151 | Sullivan, Ian Sorensen | California Institute of Technology | 2011 | male | 2 | 1 | 2012 | 10 | 23 | 2018 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  1 | 3 | 1 | 1 | 3 | 1 | 2 | 5 | 0 | 4 | 10 |
+152 | Dumm, Jonathan P. | The University of Wisconsin - Madison | 2011 | male | 1 | 0 | 2011 | 45 | 101 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 4 | 6 | 8 | 11 | 15 | 18 | 17 | 12 | 15 | 21 |
+153 | Klida, Michael M. | Boston University | 2011 | male | 1 | 0 | 2011 | 1 | 1 | 2012 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+154 | O Murchadha, Aongus | The University of Wisconsin - Madison | 2011 | male | 1 | 0 | 2011 | 20 | 89 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 2 | 2 | 1 | 3 | 12 | 11 | 18 | 10 | 14 | 17 |
+155 | Bose, Maitrayee | Washington University in St. Louis | 2011 | female | 2 | 3 | 2017 | 5 | 8 | 2017 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 0 |  0 | 0 | 1 | 1 | 2 | 1 | 1 | 1 | 2 | 2 | 0 |
+156 | Hansen, Matthew | University of California, Santa Barbara | 2011 | male | 4 | 2 | 2012 | 6 | 9 | 2018 | 2 | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 |  2 | 0 | 0 | 1 | 0 | 3 | 3 | 2 | 2 | 1 | 1 |
+157 | Prested, Christina | Boston University | 2011 | female | 3 | 0 | 2011 | 7 | 1 | 2013 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 3 | 1 | 2 | 0 | 1 | 0 | 0 | 0 |
+158 | Haque, Sheikh Shajid | The University of Wisconsin - Madison | 2011 | male | 2 | 1 | 2017 | 5 | 5 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  2 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 0 |
+159 | Boggs, William Darian | University of Maryland, College Park | 2011 | male | 1 | 0 | 2011 | 11 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 2 | 3 | 2 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
+160 | Andeen, Karen Grace | The University of Wisconsin - Madison | 2011 | female | 2 | 0 | 2011 | 45 | 48 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  3 | 4 | 6 | 7 | 11 | 14 | 11 | 10 | 3 | 2 | 7 |
+161 | Jameson, Graef | Columbia University | 2011 | None | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+162 | Corliss, Jason B. | The University of Wisconsin - Madison | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+163 | Parker, Daryl Gray | University of California, Los Angeles | 2011 | male | 1 | 0 | 2011 | 6 | 2 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 0 | 2 | 2 | 1 | 0 | 0 | 1 | 0 |
+164 | Arnold, Charles William | The University of North Carolina at Chapel Hill | 2011 | male | 1 | 1 | 2012 | 1 | 2 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+165 | Lessa, Andre | The University of Oklahoma | 2011 | male | 1 | 0 | 2011 | 7 | 5 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 6 | 2 | 1 | 1 | 1 | 0 |
+166 | Papai, Peter | University of Hawai'I at Manoa | 2011 | male | 1 | 0 | 2011 | 4 | 1 | 2013 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 0 |
+167 | Barton, Sean A. | The Florida State University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+168 | Cesaratto, John Michael | The University of North Carolina at Chapel Hill | 2011 | male | 2 | 1 | 2013 | 4 | 3 | 2015 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 3 | 1 | 1 | 1 | 0 | 1 | 0 |
+169 | Barcikowski, Elliott L. | The University of Utah | 2011 | male | 1 | 0 | 2011 | 2 | 18 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 | 1 | 4 | 4 | 2 | 5 | 1 |
+170 | Kryukova, Erin E. | The University of Toledo | 2011 | female | 1 | 2 | 2014 | 3 | 5 | 2016 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 3 | 0 | 1 | 0 | 1 |
+171 | Christopher, Grant E. | New York University | 2011 | male | 1 | 0 | 2011 | 3 | 7 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 0 | 1 | 3 | 1 | 2 | 1 | 0 |
+172 | Kite, Edwin Stephen | University of California, Berkeley | 2011 | male | 7 | 12 | 2018 | 9 | 21 | 2018 | 0 | 1 | 0 | 2 | 0 | 4 | 0 | 3 | 1 | 2 | 3 |  0 | 1 | 1 | 3 | 0 | 4 | 3 | 4 | 1 | 3 | 6 |
+173 | Niehof, Jonathan | Boston University | 2011 | male | 3 | 0 | 2011 | 4 | 6 | 2016 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 2 | 1 | 0 | 2 | 1 | 1 | 2 |
+174 | Fattoyev, Farrooh | The Florida State University | 2011 | male | 4 | 7 | 2018 | 5 | 13 | 2018 | 0 | 0 | 0 | 0 | 3 | 1 | 2 | 2 | 2 | 0 | 0 |  0 | 0 | 1 | 0 | 3 | 1 | 2 | 2 | 3 | 4 | 1 |
+175 | Mchunu, Basil Menzi | University of Missouri - Columbia | 2011 | male | 1 | 0 | 2011 | 2 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+176 | Cummings, Jeff | Indiana University | 2011 | male | 1 | 0 | 2011 | 38 | 19 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  10 | 5 | 9 | 4 | 3 | 7 | 3 | 3 | 7 | 2 | 2 |
+177 | Lemaux, Brian Clark | University of California, Davis | 2011 | male | 3 | 5 | 2018 | 11 | 56 | 2018 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 2 | 0 | 0 |  0 | 0 | 2 | 5 | 1 | 3 | 5 | 4 | 10 | 6 | 9 |
+178 | Yencho, Brian | The University of Wisconsin - Madison | 2011 | male | 3 | 0 | 2011 | 4 | 0 | 2011 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+179 | Isensee, Karl | University of Minnesota | 2011 | male | 2 | 1 | 2012 | 4 | 1 | 2012 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |
+180 | Barrentine, Emily Margaret | The University of Wisconsin - Madison | 2011 | female | 3 | 0 | 2011 | 3 | 2 | 2015 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 |
+181 | Reyes, Reinabelle | Princeton University | 2011 | None | 6 | 1 | 2012 | 7 | 10 | 2017 | 0 | 0 | 2 | 0 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 3 | 0 | 2 | 2 | 2 | 1 | 4 | 1 | 0 |
+182 | Shepherd, William Madsen | University of California, Irvine | 2011 | male | 2 | 0 | 2011 | 6 | 10 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 4 | 1 | 2 | 3 | 3 | 0 |
+183 | Guedes, Javiera M. | University of California, Santa Cruz | 2011 | female | 6 | 1 | 2013 | 6 | 13 | 2015 | 0 | 0 | 2 | 1 | 0 | 3 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 2 | 1 | 0 | 3 | 1 | 5 | 3 | 4 | 0 |
+184 | Sterenborg, Michael Glenn | Harvard University | 2011 | male | 3 | 0 | 2011 | 3 | 0 | 2011 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+185 | Hicks, Elizabeth Peele | The University of Chicago | 2011 | female | 1 | 2 | 2015 | 6 | 3 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |  0 | 0 | 1 | 0 | 1 | 4 | 0 | 1 | 0 | 2 | 0 |
+186 | Kanner, Jonah Brian | University of Maryland, College Park | 2011 | male | 2 | 3 | 2016 | 35 | 109 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 |  0 | 0 | 5 | 13 | 9 | 8 | 17 | 8 | 13 | 8 | 31 |
+187 | Hernandez, Audra Kathleen | University of Florida | 2011 | female | 3 | 3 | 2015 | 6 | 11 | 2018 | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 1 | 0 | 1 | 0 |  0 | 0 | 0 | 0 | 2 | 4 | 1 | 2 | 2 | 4 | 1 |
+188 | Blum, Jennifer L. | University of Michigan | 2011 | female | 4 | 2 | 2015 | 18 | 38 | 2018 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 0 |  1 | 1 | 1 | 6 | 4 | 5 | 5 | 2 | 5 | 8 | 10 |
+189 | Schindhelm, Eric Robert | University of Colorado at Boulder | 2011 | male | 1 | 3 | 2015 | 2 | 26 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 4 | 3 | 3 | 5 | 9 |
+190 | Oakley, Phillip Henry Howard | University of Colorado at Boulder | 2011 | male | 3 | 0 | 2011 | 3 | 1 | 2014 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | 0 | 0 |
+191 | Lee, Shiu-Hang | Stanford University | 2011 | female | 6 | 13 | 2018 | 67 | 62 | 2018 | 2 | 0 | 1 | 0 | 0 | 3 | 2 | 3 | 2 | 3 | 2 |  3 | 2 | 1 | 12 | 26 | 23 | 21 | 12 | 5 | 10 | 7 |
+192 | Flaherty, Kevin | The University of Arizona | 2011 | male | 5 | 7 | 2018 | 7 | 29 | 2018 | 0 | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 1 | 1 | 2 |  0 | 1 | 1 | 2 | 1 | 2 | 2 | 4 | 4 | 7 | 7 |
+193 | Guha Niyogi, Suklima | University of Missouri - Columbia | 2011 | None | 3 | 1 | 2014 | 3 | 1 | 2014 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 0 |
+194 | Fox, James Lewis | Montana State University | 2011 | male | 7 | 0 | 2011 | 14 | 10 | 2018 | 1 | 3 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  2 | 3 | 3 | 0 | 1 | 5 | 0 | 4 | 1 | 5 | 0 |
+195 | Pitts, Mark A. | University of Hawai'i at Manoa | 2011 | male | 1 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |
+196 | Essey, Warren James | University of California, Los Angeles | 2011 | male | 5 | 2 | 2014 | 6 | 5 | 2014 | 0 | 0 | 0 | 0 | 2 | 3 | 1 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 4 | 2 | 2 | 1 | 0 | 0 |
+197 | Kruger, Andrew James | University of California, Davis | 2011 | male | 2 | 2 | 2013 | 4 | 4 | 2013 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 1 | 2 | 2 | 2 | 0 | 0 | 0 |
+198 | Stringer, Christopher Bayard | The University of North Carolina at Chapel Hill | 2011 | male | 1 | 0 | 2011 | 2 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+199 | Reines, Amy Ellen | University of Virginia | 2011 | female | 5 | 7 | 2016 | 8 | 22 | 2018 | 0 | 0 | 2 | 0 | 1 | 2 | 1 | 1 | 2 | 1 | 2 |  0 | 1 | 2 | 1 | 2 | 2 | 1 | 1 | 4 | 5 | 7 |
+200 | Teguia, Alberto Mokak | Duke University | 2011 | male | 1 | 0 | 2011 | 3 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+201 | Davis, Andrew James | Yale University | 2011 | male | 4 | 2 | 2014 | 21 | 12 | 2018 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 2 | 0 | 0 |  1 | 1 | 6 | 3 | 6 | 4 | 3 | 3 | 3 | 0 | 1 |
+202 | Gobeille, Doug B. P. | Brandeis University | 2011 | male | 1 | 0 | 2011 | 1 | 2 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 |
+203 | Young, Monica | Boston University | 2011 | female | 8 | 8 | 2016 | 14 | 19 | 2018 | 0 | 0 | 1 | 2 | 3 | 2 | 3 | 1 | 0 | 3 | 1 |  0 | 2 | 1 | 4 | 3 | 4 | 6 | 5 | 0 | 4 | 3 |
+204 | Shaw, John David | University of Delaware | 2011 | male | 2 | 0 | 2011 | 18 | 3 | 2017 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  4 | 6 | 3 | 1 | 2 | 2 | 1 | 1 | 0 | 0 | 0 |
+205 | Ubaldi, Lorenzo | University of California, Santa Cruz | 2011 | male | 1 | 0 | 2011 | 6 | 6 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 2 | 3 | 0 | 4 | 1 | 1 | 0 |
+206 | Antonini, Fabio | Rochester Institute of Technology | 2011 | male | 6 | 13 | 2018 | 6 | 24 | 2018 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 2 | 2 | 2 | 3 |  0 | 0 | 1 | 1 | 2 | 2 | 3 | 2 | 4 | 6 | 5 |
+207 | Wang, Qian | Iowa State University | 2011 | female | 14 | 16 | 2018 | 85 | 88 | 2018 | 3 | 0 | 1 | 2 | 4 | 4 | 5 | 3 | 4 | 0 | 3 |  15 | 9 | 13 | 15 | 15 | 18 | 15 | 14 | 15 | 14 | 14 |
+208 | Leisenring, Jarron Michael | University of Virginia | 2011 | male | 2 | 0 | 2011 | 11 | 21 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 2 | 2 | 2 | 4 | 2 | 2 | 5 | 6 | 3 |
+209 | Pan, Danny C. | Drexel University | 2011 | male | 1 | 1 | 2012 | 1 | 5 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 2 | 0 |
+210 | Klein, Beth L. | University of California, Los Angeles | 2011 | female | 4 | 1 | 2012 | 19 | 40 | 2018 | 1 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |  4 | 1 | 3 | 1 | 6 | 4 | 5 | 6 | 2 | 6 | 9 |
+211 | Henning, Wade Garrett | Harvard University | 2011 | None | 2 | 1 | 2014 | 3 | 6 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 2 | 1 |
+212 | Shirokoff, Erik D. | University of California, Berkeley | 2011 | male | 3 | 0 | 2011 | 19 | 42 | 2018 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 2 | 7 | 9 | 11 | 11 | 7 | 7 | 4 |
+213 | Jackson, Aaron Perry | State University of New York at Stony Brook | 2011 | male | 3 | 2 | 2014 | 11 | 13 | 2018 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 2 | 0 | 0 |  2 | 1 | 1 | 2 | 4 | 1 | 2 | 3 | 4 | 1 | 2 |
+214 | Bejjani, Micheline | Texas Christian University | 2011 | female | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+215 | Zickefoose, James | University of Connecticut | 2011 | male | 1 | 0 | 2018 | 1 | 0 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+216 | Parker, Charles Walter | Boston University | 2011 | male | 1 | 0 | 2011 | 1 | 3 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+217 | Statham, Shannon M. | Georgia Institute of Technology | 2011 | female | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+218 | Atri, Dimitra | University of Kansas | 2011 | female | 6 | 6 | 2017 | 7 | 13 | 2017 | 0 | 0 | 0 | 0 | 1 | 5 | 0 | 1 | 2 | 0 | 2 |  0 | 0 | 0 | 0 | 2 | 5 | 0 | 2 | 2 | 3 | 5 |
+219 | Stone, Jennifer Mary | The University of Wisconsin - Madison | 2011 | female | 4 | 0 | 2011 | 12 | 7 | 2018 | 0 | 0 | 0 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  2 | 2 | 2 | 3 | 1 | 2 | 2 | 0 | 0 | 2 | 2 |
+220 | Olmedo, Oscar | George Mason University | 2011 | male | 3 | 2 | 2013 | 4 | 8 | 2014 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 2 | 1 | 3 | 3 | 2 | 0 | 0 |
+221 | Shet Tilvi, Vithal | Arizona State University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+222 | Loer, Ben Michael | Princeton University | 2011 | male | 1 | 0 | 2011 | 8 | 18 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 1 | 1 | 4 | 3 | 4 | 4 | 6 | 0 |
+223 | Bierman, Evan M. | University of California, San Diego | 2011 | male | 2 | 0 | 2011 | 5 | 3 | 2014 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 2 | 2 | 0 | 1 | 2 | 0 | 0 |
+224 | Ellinger, Carola I. | Arizona State University | 2011 | female | 2 | 1 | 2012 | 3 | 4 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | 0 |
+225 | Hong, Sungryong | University of Massachusetts Amherst | 2011 | None | 3 | 5 | 2016 | 20 | 12 | 2018 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 1 | 2 | 1 | 1 |  2 | 5 | 4 | 2 | 4 | 3 | 1 | 4 | 3 | 1 | 2 |
+226 | Hilton, Eric J. | University of Washington | 2011 | male | 4 | 0 | 2011 | 8 | 19 | 2016 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 1 | 2 | 2 | 2 | 7 | 7 | 3 | 0 | 2 |
+227 | Lever, Edward Lawrence | University of California, San Diego | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+228 | Schwamb, Megan E. | California Institute of Technology | 2011 | female | 3 | 4 | 2018 | 17 | 31 | 2018 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 2 | 0 | 0 |  2 | 0 | 3 | 5 | 6 | 1 | 7 | 6 | 5 | 2 | 6 |
+229 | Kamiya, Kaoru | University of California, Riverside | 2011 | male | 1 | 2 | 2018 | 26 | 8 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 3 | 6 | 8 | 7 | 4 | 0 | 0 | 0 | 0 |
+230 | Gill, Michael A. | University of Maryland, College Park | 2011 | male | 2 | 0 | 2011 | 4 | 2 | 2016 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 1 |
+231 | Krusberg, Zosia Anna Celina | The University of Chicago | 2011 | None | 2 | 0 | 2011 | 4 | 0 | 2011 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+232 | Joner, Michael D. | Brigham Young University | 2011 | male | 5 | 10 | 2018 | 12 | 37 | 2018 | 1 | 1 | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 5 | 4 |  2 | 1 | 3 | 2 | 0 | 4 | 2 | 3 | 2 | 7 | 7 |
+233 | Barber DeGraaff, Regina G. | Washington State University | 2011 | female | 1 | 0 | 2011 | 3 | 1 | 2014 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 |
+234 | Zhu, Guangtun | New York University | 2011 | None | 7 | 5 | 2017 | 17 | 38 | 2018 | 1 | 0 | 0 | 2 | 1 | 3 | 0 | 2 | 1 | 1 | 0 |  3 | 1 | 2 | 2 | 3 | 6 | 4 | 7 | 4 | 11 | 5 |
+235 | Walsh, Jonelle L. | University of California, Irvine | 2011 | female | 4 | 5 | 2017 | 16 | 25 | 2018 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 |  0 | 2 | 3 | 2 | 6 | 3 | 5 | 2 | 2 | 4 | 5 |
+236 | Tun, Samuel D. | New Jersey Institute of Technology | 2011 | male | 2 | 1 | 2013 | 2 | 1 | 2013 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
+237 | Bellm, Eric Christopher | University of California, Berkeley | 2011 | male | 4 | 5 | 2017 | 12 | 38 | 2018 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 2 | 0 | 2 |  1 | 1 | 4 | 2 | 2 | 2 | 0 | 7 | 8 | 4 | 9 |
+238 | Liu, Guilin | University of Massachusetts Amherst | 2011 | male | 8 | 8 | 2016 | 17 | 30 | 2018 | 1 | 0 | 3 | 1 | 1 | 2 | 0 | 5 | 1 | 1 | 1 |  1 | 0 | 5 | 3 | 3 | 5 | 4 | 10 | 3 | 3 | 3 |
+239 | Essinger-Hileman, Thomas | Princeton University | 2011 | male | 1 | 2 | 2016 | 14 | 15 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 3 | 11 | 4 | 3 | 1 | 2 | 5 |
+240 | Zimmerman, Neil Thomas | Columbia University | 2011 | male | 3 | 1 | 2016 | 13 | 25 | 2018 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 1 |  1 | 2 | 2 | 0 | 3 | 5 | 3 | 5 | 1 | 5 | 8 |
+241 | Hess, Kelley M. | The University of Wisconsin - Madison | 2011 | female | 2 | 4 | 2017 | 4 | 15 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 |  0 | 0 | 0 | 1 | 0 | 3 | 2 | 4 | 0 | 4 | 3 |
+242 | Marcus, Robert Andrew | Harvard University | 2011 | male | 5 | 0 | 2011 | 6 | 1 | 2013 | 0 | 0 | 0 | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 3 | 2 | 0 | 1 | 0 | 0 | 0 |
+243 | Rafelski, Marc Alexander | University of California, San Diego | 2011 | male | 4 | 4 | 2016 | 9 | 45 | 2018 | 0 | 1 | 0 | 1 | 0 | 2 | 1 | 0 | 1 | 1 | 1 |  1 | 2 | 1 | 1 | 1 | 3 | 2 | 7 | 7 | 9 | 14 |
+244 | D'Aloisio, Anson | Yale University | 2011 | male | 5 | 5 | 2018 | 7 | 10 | 2018 | 0 | 1 | 0 | 1 | 0 | 3 | 0 | 2 | 1 | 1 | 0 |  0 | 1 | 0 | 1 | 1 | 4 | 0 | 4 | 1 | 2 | 2 |
+245 | Mendygral, Peter John | University of Minnesota | 2011 | male | 2 | 2 | 2017 | 3 | 5 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 0 | 2 | 1 | 0 | 1 | 0 | 0 |
+246 | Ryan, Erin Lee | University of Minnesota | 2011 | female | 4 | 2 | 2017 | 9 | 8 | 2018 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |  0 | 0 | 0 | 3 | 2 | 4 | 0 | 0 | 1 | 3 | 2 |
+247 | Strycker, Paul Douglas | New Mexico State University | 2011 | male | 2 | 1 | 2013 | 2 | 1 | 2013 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |
+248 | Briggs, Andrew O'Banion | University of Houston | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+249 | Shi, Jianming | University of Virginia | 2011 | male | 12 | 7 | 2018 | 56 | 53 | 2018 | 0 | 2 | 1 | 3 | 1 | 5 | 2 | 0 | 2 | 2 | 0 |  10 | 4 | 15 | 11 | 5 | 11 | 5 | 4 | 10 | 15 | 13 |
+250 | Ionita, Florin | The University of Chicago | 2011 | male | 1 | 0 | 2011 | 23 | 12 | 2013 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 4 | 3 | 6 | 9 | 11 | 1 | 0 | 0 | 0 |
+251 | Crockett, Christopher James | University of California, Los Angeles | 2011 | male | 2 | 1 | 2012 | 9 | 6 | 2016 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 4 | 0 | 0 | 0 | 5 | 1 | 0 | 1 | 2 | 2 |
+252 | Todd, Elizabeth | The University of Arizona | 2011 | female | 1 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+253 | Raskin, Cody | Arizona State University | 2011 | male | 5 | 5 | 2016 | 6 | 7 | 2018 | 0 | 0 | 1 | 2 | 1 | 1 | 1 | 1 | 1 | 0 | 2 |  0 | 0 | 1 | 2 | 2 | 1 | 1 | 1 | 2 | 0 | 3 |
+254 | Stockton, James Curtis | New Mexico State University | 2011 | male | 2 | 0 | 2011 | 3 | 2 | 2013 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 3 | 0 | 2 | 0 | 0 | 0 |
+255 | Maderak, Ryan Michael | Indiana University | 2011 | male | 2 | 2 | 2015 | 3 | 5 | 2017 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |  0 | 1 | 0 | 0 | 1 | 1 | 2 | 1 | 0 | 1 | 0 |
+256 | Hui, Chiumun Michelle | The University of Utah | 2011 | None | 2 | 0 | 2011 | 42 | 29 | 2018 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 5 | 14 | 8 | 15 | 4 | 1 | 2 | 3 | 4 |
+257 | Rutledge, Douglas Lowery | The Pennsylvania State University | 2011 | male | 1 | 0 | 2011 | 45 | 15 | 2014 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  4 | 4 | 5 | 7 | 11 | 14 | 11 | 3 | 1 | 0 | 0 |
+258 | Henisey, Kenneth B. | University of California, Santa Barbara | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+259 | Coy, Benjamin | Drexel University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+260 | Sabancilar, Eray | Tufts University | 2011 | male | 2 | 0 | 2011 | 4 | 13 | 2017 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 2 | 5 | 2 | 2 | 1 | 1 |
+261 | Fernandez Rocha, Bautista | University of California, Santa Cruz | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+262 | Redl, Peter Christian | University of Maryland, College Park | 2011 | male | 1 | 0 | 2011 | 36 | 63 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 2 | 7 | 11 | 15 | 11 | 21 | 12 | 17 | 1 |
+263 | Owusu, Haile | Rutgers The State University of New Jersey - New Brunswick | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+264 | Dookayka, Kamlesh | University of California, Irvine | 2011 | male | 2 | 0 | 2011 | 3 | 1 | 2015 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |
+265 | Bacha, Tulu | Howard University | 2011 | None | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+266 | Martinez, Gregory David | University of California, Irvine | 2011 | male | 3 | 1 | 2015 | 11 | 15 | 2018 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 1 | 0 |  0 | 1 | 2 | 1 | 3 | 4 | 0 | 3 | 2 | 2 | 2 |
+267 | Christie, Duncan | University of Illinois at Urbana-Champaign | 2011 | male | 1 | 3 | 2017 | 4 | 7 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 |  0 | 0 | 0 | 2 | 1 | 1 | 0 | 1 | 0 | 0 | 2 |
+268 | Hoke, Monica Renee Theilen | University of Colorado at Boulder | 2011 | female | 3 | 1 | 2014 | 4 | 1 | 2014 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 1 | 0 | 0 |
+269 | Durak, Nurcan | University of Louisville | 2011 | female | 2 | 0 | 2011 | 2 | 0 | 2011 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
+270 | Keremedjiev, Mark Stanley | University of Florida | 2011 | male | 3 | 0 | 2011 | 3 | 0 | 2011 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
+271 | Jin, Kejian | Washington University in St. Louis | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+272 | Rodriguez, Douglas Chase | The University of Utah | 2011 | male | 3 | 0 | 2011 | 25 | 27 | 2018 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  3 | 4 | 8 | 2 | 4 | 4 | 4 | 7 | 4 | 7 | 2 |
+273 | Baldner, Charles S. | Yale University | 2011 | male | 7 | 3 | 2013 | 13 | 7 | 2018 | 0 | 0 | 1 | 1 | 1 | 4 | 1 | 2 | 0 | 0 | 0 |  0 | 0 | 1 | 2 | 4 | 6 | 3 | 3 | 0 | 1 | 0 |
+274 | West, Brent Frederick | George Mason University | 2011 | male | 1 | 2 | 2017 | 2 | 2 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+275 | Newman, Seth Aaron | University of South Carolina | 2011 | male | 1 | 0 | 2011 | 8 | 10 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 1 | 0 | 0 | 0 | 6 | 2 | 5 | 1 | 1 | 0 |
+276 | Szydagis, Matthew Mark | The University of Chicago | 2011 | male | 1 | 1 | 2013 | 3 | 15 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 0 | 2 | 2 | 3 | 2 | 2 | 3 |
+277 | Wolfram, Kenneth Deane | George Mason University | 2011 | male | 1 | 0 | 2011 | 1 | 2 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+278 | Tomita, Hidefumi | Boston University | 2011 | male | 1 | 0 | 2018 | 8 | 3 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 2 | 0 | 1 | 4 | 1 | 0 | 0 | 0 | 1 |
+279 | Magkotsios, Georgios | University of Notre Dame | 2011 | male | 3 | 0 | 2011 | 4 | 3 | 2016 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 1 | 2 | 0 | 0 | 1 | 1 | 1 |
+280 | Roy, Anindya | Rutgers The State University of New Jersey - New Brunswick | 2011 | male | 3 | 2 | 2018 | 13 | 24 | 2018 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 0 |  0 | 1 | 3 | 0 | 6 | 3 | 0 | 6 | 5 | 5 | 5 |
+281 | Milbury, Colleen Adriann Eleanor | University of California, Los Angeles | 2011 | female | 3 | 2 | 2015 | 3 | 8 | 2018 | 0 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 0 |  0 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 2 | 1 |
+282 | Jaeggli, Sarah A. | University of Hawai'i at Manoa | 2011 | female | 1 | 3 | 2018 | 4 | 16 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |  0 | 3 | 0 | 0 | 0 | 1 | 1 | 0 | 10 | 3 | 2 |
+283 | Movit, Steven Michael | The Pennsylvania State University | 2011 | male | 2 | 0 | 2011 | 47 | 19 | 2014 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  4 | 5 | 5 | 8 | 11 | 14 | 11 | 7 | 1 | 0 | 0 |
+284 | Watson, Linda Ceva | The Ohio State University | 2011 | female | 4 | 3 | 2017 | 13 | 12 | 2017 | 0 | 1 | 1 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 1 |  0 | 1 | 5 | 3 | 2 | 2 | 1 | 2 | 0 | 4 | 2 |
+285 | Keenan, Ryan C. | The University of Wisconsin - Madison | 2011 | male | 4 | 3 | 2014 | 6 | 4 | 2014 | 0 | 0 | 0 | 0 | 2 | 2 | 1 | 1 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 4 | 2 | 2 | 1 | 1 | 0 | 0 |
+286 | Bender, Amy Nicole | University of Colorado at Boulder | 2011 | female | 1 | 1 | 2016 | 7 | 11 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 1 | 3 | 1 | 2 | 1 | 1 | 0 | 3 | 5 |
+287 | Howley, Kirsten M. | University of California, Santa Cruz | 2011 | female | 2 | 1 | 2013 | 2 | 4 | 2016 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 1 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 1 |
+288 | Calvez, Antoine | University of California, Los Angeles | 2011 | male | 4 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |
+289 | Hadley, Kathryn Z. | University of Oregon | 2011 | female | 2 | 2 | 2015 | 2 | 2 | 2015 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 0 |  0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 0 |
+290 | Gerstner, Candice Rockell | Old Dominion University | 2011 | female | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+291 | Morzinski, Katie M. | University of California, Santa Cruz | 2011 | female | 2 | 1 | 2015 | 4 | 52 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 |  1 | 0 | 0 | 1 | 1 | 1 | 1 | 3 | 8 | 18 | 10 |
+292 | Tobin, John J. | The University of Michigan | 2011 | male | 8 | 13 | 2018 | 21 | 72 | 2018 | 0 | 1 | 1 | 1 | 2 | 3 | 2 | 4 | 0 | 4 | 3 |  1 | 2 | 1 | 4 | 9 | 4 | 6 | 11 | 9 | 11 | 21 |
+293 | Looper, Dagny Lauren | University of Hawai'i at Manoa | 2011 | female | 7 | 0 | 2011 | 21 | 5 | 2018 | 0 | 2 | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 3 | 5 | 2 | 6 | 5 | 0 | 1 | 2 | 1 | 0 |
+294 | Pulliam, Robin Leigh | The University of Arizona | 2011 | male | 3 | 1 | 2012 | 4 | 1 | 2012 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |
+295 | Mielke, Charlotte | State University of New York at Stony Brook | 2011 | female | 1 | 1 | 2013 | 1 | 1 | 2013 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
+296 | Fragkos, Anastasios | Northwestern University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+297 | Zolotov, Adi | New York University | 2011 | male | 5 | 2 | 2015 | 6 | 10 | 2017 | 0 | 0 | 0 | 1 | 1 | 3 | 1 | 0 | 0 | 1 | 0 |  0 | 0 | 1 | 1 | 1 | 3 | 2 | 2 | 4 | 1 | 0 |
+298 | Miner, Jesse | The University of North Carolina at Chapel Hill | 2011 | male | 2 | 0 | 2011 | 4 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+299 | Hasler, Nicole | The University of Alabama in Huntsville | 2011 | female | 1 | 1 | 2012 | 7 | 3 | 2012 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 1 | 0 | 1 | 2 | 3 | 3 | 0 | 0 | 0 | 0 |
+300 | Nielsen, Eric Ludwig | The University of Arizona | 2011 | male | 7 | 5 | 2017 | 22 | 41 | 2018 | 1 | 3 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 |  3 | 9 | 3 | 1 | 4 | 2 | 1 | 5 | 4 | 9 | 12 |
+301 | Kennedy, Catherine R. | Michigan State University | 2011 | female | 2 | 1 | 2014 | 5 | 6 | 2016 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 0 | 0 |  1 | 0 | 0 | 0 | 1 | 3 | 1 | 2 | 2 | 0 | 1 |
+302 | Juneau, Stephanie | The University of Arizona | 2011 | female | 3 | 3 | 2017 | 17 | 43 | 2018 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 1 | 1 | 0 | 0 |  1 | 2 | 1 | 3 | 0 | 10 | 5 | 3 | 5 | 12 | 9 |
+303 | Silverman, Jeffrey Michael | University of California, Berkeley | 2011 | male | 4 | 12 | 2017 | 84 | 121 | 2018 | 0 | 0 | 1 | 1 | 0 | 2 | 5 | 4 | 1 | 1 | 0 |  2 | 8 | 10 | 23 | 14 | 27 | 32 | 24 | 21 | 18 | 19 |
+304 | Bandura, Kevin | Carnegie Mellon University | 2011 | male | 1 | 2 | 2016 | 2 | 7 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 2 |  0 | 0 | 0 | 0 | 1 | 1 | 0 | 4 | 0 | 0 | 2 |
+305 | Araya-Arguedas, Miguel A. | Purdue University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+306 | Schlaufman, Kevin C. | University of California, Santa Cruz | 2011 | male | 8 | 6 | 2018 | 10 | 11 | 2018 | 0 | 0 | 0 | 2 | 3 | 3 | 1 | 1 | 2 | 1 | 1 |  2 | 0 | 0 | 2 | 3 | 3 | 1 | 1 | 3 | 2 | 1 |
+307 | Sagiv, Ilan Shai | University of Minnesota | 2011 | male | 1 | 2 | 2014 | 1 | 6 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 2 | 1 |
+308 | Skemer, Andrew | The University of Arizona | 2011 | male | 7 | 4 | 2016 | 10 | 44 | 2018 | 0 | 0 | 1 | 1 | 1 | 4 | 1 | 0 | 1 | 0 | 2 |  0 | 1 | 1 | 1 | 2 | 5 | 5 | 8 | 8 | 10 | 9 |
+309 | Ukwatta, Tilan N. | The George Washington University | 2011 | None | 3 | 5 | 2016 | 16 | 30 | 2018 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 4 |  0 | 1 | 2 | 2 | 4 | 7 | 3 | 5 | 2 | 4 | 6 |
+310 | Schlieder, Joshua Edward | State University of New York at Stony Brook | 2011 | male | 2 | 6 | 2016 | 3 | 62 | 2018 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 0 | 1 | 0 | 2 |  1 | 0 | 0 | 0 | 1 | 1 | 4 | 4 | 9 | 9 | 14 |
+311 | Childress, Michael Joseph | University of California, Berkeley | 2011 | male | 2 | 9 | 2017 | 9 | 53 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 | 1 | 1 |  0 | 0 | 0 | 1 | 1 | 7 | 4 | 10 | 9 | 12 | 12 |
+312 | Maxham, Amanda | University of Nevada, Las Vegas | 2011 | female | 3 | 0 | 2011 | 5 | 0 | 2011 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |
+313 | Robbins, Stuart James | University of Colorado at Boulder | 2011 | male | 6 | 8 | 2018 | 26 | 27 | 2018 | 1 | 0 | 0 | 0 | 1 | 4 | 2 | 2 | 3 | 0 | 0 |  8 | 6 | 5 | 0 | 1 | 6 | 3 | 4 | 5 | 2 | 9 |
+314 | Downs, Cooper James | University of Hawai'i at Manoa | 2011 | male | 3 | 3 | 2016 | 5 | 21 | 2018 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 1 | 0 | 0 | 1 |  0 | 0 | 0 | 0 | 2 | 3 | 2 | 6 | 3 | 1 | 6 |
+315 | Suchy, Slawomir | University of California, San Diego | 2011 | male | 3 | 1 | 2012 | 17 | 4 | 2013 | 0 | 0 | 1 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 1 | 2 | 0 | 4 | 10 | 2 | 2 | 0 | 0 | 0 |
+316 | Lacki, Brian Cameron | The Ohio State University | 2011 | male | 10 | 9 | 2015 | 11 | 11 | 2015 | 0 | 0 | 0 | 1 | 5 | 4 | 1 | 3 | 4 | 1 | 0 |  0 | 0 | 0 | 1 | 5 | 5 | 2 | 4 | 4 | 1 | 0 |
+317 | Lagattuta, David James | University of California, Davis | 2011 | male | 3 | 4 | 2017 | 4 | 20 | 2018 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 2 | 1 | 4 | 1 | 1 | 1 | 5 |
+318 | Zarauz, Jorge V. | Saint Louis University | 2011 | male | 1 | 0 | 2011 | 1 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+319 | Penney, Robert B. | The Florida State University | 2011 | male | 1 | 1 | 2014 | 1 | 1 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+320 | Dong, Hui | University of Massachusetts Amherst | 2011 | female | 7 | 9 | 2018 | 20 | 16 | 2018 | 0 | 4 | 1 | 0 | 0 | 2 | 2 | 0 | 1 | 2 | 1 |  1 | 4 | 2 | 2 | 6 | 5 | 4 | 1 | 1 | 4 | 2 |
+321 | Korngut, Phillip M. | University of Pennsylvania | 2011 | male | 2 | 1 | 2013 | 8 | 11 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 2 | 1 | 5 | 1 | 2 | 1 | 3 | 1 |
+322 | Koss, Michael J. | University of Maryland, College Park | 2011 | male | 5 | 7 | 2018 | 12 | 74 | 2018 | 0 | 0 | 0 | 0 | 2 | 3 | 1 | 1 | 1 | 1 | 2 |  0 | 1 | 1 | 0 | 6 | 4 | 1 | 5 | 13 | 17 | 15 |
+323 | Yuan, Yuan | New Jersey Institute of Technology | 2011 | male | 5 | 5 | 2015 | 25 | 24 | 2018 | 0 | 0 | 0 | 0 | 2 | 3 | 2 | 1 | 0 | 2 | 0 |  2 | 3 | 4 | 4 | 6 | 6 | 6 | 2 | 3 | 4 | 4 |
+324 | Richey, Christina R. | The University of Alabama at Birmingham | 2011 | female | 1 | 2 | 2013 | 1 | 3 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
+325 | Perley, Daniel Alan | University of California, Berkeley | 2011 | male | 7 | 12 | 2017 | 49 | 105 | 2018 | 0 | 0 | 2 | 2 | 1 | 2 | 1 | 2 | 1 | 1 | 4 |  7 | 3 | 5 | 12 | 10 | 12 | 10 | 11 | 17 | 17 | 23 |
+326 | Sussman, Michael Gideon | New Mexico State University | 2011 | male | 2 | 0 | 2011 | 3 | 1 | 2013 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
+327 | Price, Charles Aaron | Tufts University | 2011 | male | 1 | 1 | 2015 | 5 | 5 | 2015 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 |  1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 3 | 1 | 0 |
+328 | Blackburn, David Garrison | University of Arkansas | 2011 | male | 4 | 0 | 2011 | 5 | 8 | 2016 | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 3 | 1 | 3 | 2 | 1 | 1 |
+329 | Bovill, Mia Sauda | University of Maryland, College Park | 2011 | female | 4 | 1 | 2016 | 4 | 2 | 2018 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 0 | 1 |  0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 0 | 1 |
+330 | Dolence, Joshua Cody | University of Illinois at Urbana-Champaign | 2011 | male | 3 | 3 | 2015 | 6 | 18 | 2018 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 |  0 | 1 | 1 | 2 | 0 | 2 | 5 | 4 | 0 | 2 | 3 |
+331 | Martin, Damien | University of California, Davis | 2011 | male | 4 | 7 | 2018 | 85 | 35 | 2018 | 0 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 2 | 2 |  10 | 36 | 7 | 10 | 9 | 13 | 7 | 7 | 7 | 6 | 4 |
+332 | D'Andrea, Christopher Brian | University of Pennsylvania | 2011 | male | 3 | 0 | 2011 | 5 | 68 | 2018 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 1 | 0 | 2 | 1 | 0 | 1 | 14 | 28 |
+333 | Strubbe, Linda Elisabeth | University of California, Berkeley | 2011 | female | 4 | 1 | 2015 | 7 | 3 | 2016 | 1 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 1 | 0 |  1 | 0 | 1 | 1 | 1 | 3 | 1 | 0 | 0 | 1 | 1 |
+334 | Johnson, Ryan | Dartmouth College | 2011 | male | 11 | 3 | 2018 | 138 | 42 | 2018 | 3 | 0 | 2 | 1 | 3 | 2 | 1 | 0 | 0 | 1 | 1 |  17 | 14 | 17 | 42 | 36 | 12 | 13 | 11 | 4 | 6 | 3 |
+335 | Donehew, Brian | Clemson University | 2011 | male | 2 | 0 | 2011 | 3 | 0 | 2011 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |
+336 | O'Brien, David | Georgia State University | 2011 | male | 8 | 2 | 2018 | 27 | 42 | 2018 | 2 | 1 | 0 | 2 | 0 | 3 | 0 | 0 | 2 | 0 | 0 |  4 | 3 | 2 | 5 | 5 | 8 | 12 | 10 | 8 | 6 | 5 |
+337 | Barbary, Kyle Harris | University of California, Berkeley | 2011 | male | 2 | 2 | 2012 | 13 | 14 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 0 |  0 | 1 | 2 | 6 | 2 | 2 | 4 | 2 | 2 | 4 | 0 |
+338 | Virani, Shanil | James Madison University | 2011 | male | 2 | 0 | 2011 | 19 | 0 | 2011 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  2 | 3 | 3 | 5 | 5 | 1 | 0 | 0 | 0 | 0 | 0 |
+339 | McGregor, Sarah Lynn | Boston University | 2011 | female | 4 | 1 | 2014 | 7 | 4 | 2018 | 0 | 0 | 1 | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 0 |  0 | 0 | 2 | 0 | 0 | 5 | 1 | 0 | 1 | 1 | 1 |
+340 | Peterson, Bradley Wayne | Iowa State University | 2011 | male | 2 | 1 | 2018 | 5 | 4 | 2018 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |  1 | 1 | 0 | 2 | 0 | 1 | 1 | 1 | 0 | 1 | 0 |
+341 | Bovy, Jo | New York University | 2011 | male | 10 | 20 | 2018 | 16 | 75 | 2018 | 0 | 0 | 1 | 4 | 3 | 2 | 6 | 2 | 2 | 2 | 5 |  0 | 0 | 1 | 5 | 4 | 6 | 12 | 12 | 9 | 15 | 13 |
+342 | Hodges-Kluck, Edmund | University of Maryland, College Park | 2011 | male | 5 | 6 | 2018 | 7 | 11 | 2018 | 0 | 0 | 0 | 1 | 2 | 2 | 2 | 1 | 1 | 0 | 2 |  0 | 2 | 0 | 1 | 2 | 2 | 2 | 1 | 1 | 1 | 3 |
+343 | Neilsen, Joseph | Harvard | 2011 | male | 5 | 7 | 2018 | 7 | 22 | 2018 | 0 | 0 | 1 | 2 | 0 | 2 | 3 | 1 | 1 | 1 | 1 |  0 | 0 | 1 | 3 | 1 | 2 | 6 | 4 | 1 | 3 | 4 |
+344 | Rhoden, Alyssa Rose | University of California, Berkeley | 2011 | female | 3 | 5 | 2017 | 3 | 9 | 2018 | 0 | 0 | 0 | 0 | 1 | 2 | 1 | 1 | 0 | 2 | 0 |  0 | 0 | 0 | 0 | 1 | 2 | 1 | 1 | 1 | 3 | 1 |
+345 | West, Eric J. | Syracuse University | 2011 | male | 1 | 0 | 2011 | 3 | 1 | 2016 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+346 | Lynch, Ryan Sean | University of Virginia | 2011 | male | 5 | 6 | 2018 | 12 | 118 | 2018 | 1 | 1 | 0 | 0 | 0 | 3 | 2 | 1 | 0 | 2 | 0 |  2 | 3 | 0 | 1 | 2 | 4 | 5 | 9 | 13 | 16 | 36 |
+347 | Wu, Jian | The Pennsylvania State University | 2011 | male | 20 | 14 | 2018 | 127 | 110 | 2018 | 2 | 3 | 3 | 1 | 4 | 7 | 6 | 1 | 0 | 0 | 1 |  17 | 12 | 43 | 15 | 16 | 24 | 13 | 18 | 12 | 14 | 17 |
+348 | Wallace, Colin S. | University of Colorado at Boulder | 2011 | male | 4 | 7 | 2018 | 5 | 9 | 2018 | 0 | 0 | 0 | 0 | 1 | 3 | 4 | 1 | 0 | 0 | 2 |  0 | 0 | 0 | 1 | 1 | 3 | 5 | 2 | 0 | 0 | 2 |
+349 | McMahon, Jay W. | University of Colorado at Boulder | 2011 | male | 3 | 3 | 2018 | 3 | 18 | 2018 | 0 | 0 | 0 | 0 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |  0 | 0 | 0 | 0 | 2 | 1 | 3 | 1 | 3 | 3 | 5 |
+350 | Steinfadt, Justin D. | University of California, Santa Barbara | 2011 | male | 5 | 1 | 2012 | 6 | 3 | 2014 | 0 | 0 | 2 | 0 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 0 | 3 | 1 | 2 | 0 | 1 | 0 | 0 |
+351 | Pei, Yezhe | The Ohio State University | 2011 | None | 1 | 1 | 2017 | 3 | 1 | 2017 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+352 | Sutter, Paul M. | University of Illinois at Urbana-Champaign | 2011 | male | 5 | 14 | 2015 | 7 | 41 | 2016 | 1 | 0 | 2 | 0 | 1 | 1 | 5 | 0 | 6 | 3 | 0 |  1 | 0 | 2 | 1 | 1 | 2 | 6 | 4 | 15 | 10 | 6 |
+353 | Gaspar, Andras | The University of Arizona | 2011 | male | 1 | 0 | 2011 | 11 | 5 | 2018 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  3 | 0 | 4 | 2 | 0 | 2 | 0 | 0 | 0 | 1 | 3 |
+354 | Besla, Gurtina | Harvard University | 2011 | None | 5 | 3 | 2018 | 11 | 25 | 2018 | 0 | 2 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 1 |  0 | 2 | 3 | 2 | 2 | 2 | 3 | 4 | 0 | 4 | 6 |
+355 | Kasliwal, Mansi M. | California Institute of Technology | 2011 | female | 8 | 7 | 2017 | 60 | 121 | 2018 | 0 | 0 | 3 | 0 | 1 | 4 | 2 | 0 | 1 | 0 | 1 |  6 | 3 | 10 | 6 | 11 | 24 | 21 | 16 | 17 | 15 | 25 |
+356 | Mehner, Andrea | University of Minnesota | 2011 | female | 5 | 7 | 2017 | 7 | 24 | 2018 | 0 | 0 | 0 | 0 | 2 | 3 | 1 | 1 | 1 | 1 | 2 |  0 | 0 | 0 | 1 | 3 | 3 | 2 | 3 | 4 | 4 | 8 |
+357 | McDonald, Michael | University of Maryland, College Park | 2011 | male | 9 | 14 | 2018 | 18 | 70 | 2018 | 0 | 0 | 0 | 3 | 1 | 5 | 3 | 2 | 3 | 2 | 2 |  0 | 1 | 0 | 3 | 3 | 11 | 9 | 8 | 7 | 16 | 14 |
+358 | Stockett, Mark H. | The University of Wisconsin - Madison | 2011 | male | 2 | 0 | 2011 | 4 | 3 | 2016 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 2 |
+359 | May, Branyon Manning | The University of Alabama | 2011 | None | 1 | 0 | 2011 | 2 | 1 | 2013 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 |
+360 | Hansen, Charles Edward | University of California, Berkeley | 2011 | male | 2 | 1 | 2012 | 6 | 10 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 |  0 | 1 | 1 | 1 | 0 | 3 | 4 | 0 | 1 | 0 | 0 |
+361 | Visinelli, Luca | The University of Utah | 2011 | male | 4 | 6 | 2018 | 4 | 8 | 2018 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 3 | 2 |  0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 1 | 3 | 2 |
+362 | Baker, Michael Francis | The University of Wisconsin - Madison | 2011 | male | 2 | 0 | 2011 | 39 | 51 | 2018 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |  0 | 0 | 1 | 8 | 12 | 18 | 11 | 26 | 12 | 2 | 0 |

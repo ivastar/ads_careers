@@ -1,0 +1,264 @@
+n | name | university | phd_year | gender | fa_n_pubs_pre_phd | fa_n_pubs_prost_phd | fa_year_last | all_n_pubs_pre_phd | all_n_pubs_prost_phd | all_year_last | hubble_host | hubble_year | foo
+## Joshua Carter | Smithsonian Astrophysical Observatory | 2010 | 
+# Caitlin Casey | University of Hawaii, Institute for Astronomy | 2010 |
+16 | Cooper, Michael Caldwell | University of California, Berkeley | 2007 | male | 5 | 8 | 2012 | 48 | 112 | 2017 | University of California, Irvine | 2010 |
+# Selma de Mink | Space Telescope Science Institute | 2010 |
+94 | Dupuy, Trent J. | University of Hawai'i at Manoa | 2010 | male | 6 | 9 | 2016 | 17 | 46 | 2017 | Smithsonian Astrophysical Observatory | 2010 |
+165 | Fabrycky, Daniel Clark | Princeton University | 2007 | male | 4 | 5 | 2014 | 7 | 103 | 2017 | University of California, Santa Cruz | 2010 |
+21 | Gilbert, Karoline M. | University of California, Santa Cruz | 2008 | female | 5 | 4 | 2014 | 16 | 47 | 2016 | University of Washington | 2010 |
+208 | Hsieh, Henry H. | University of Hawai'i at Manoa | 2007 | male | 4 | 18 | 2016 | 8 | 37 | 2016 | University of Hawaii, Institute for Astronomy | 2010 |
+33 | Keisler, Ryan Scott | The University of Chicago | 2010 | male | 2 | 3 | 2015 | 11 | 57 | 2016 | University of Chicago | 2010 |
+241 | Keres, Dusan | University of Massachusetts Amherst | 2007 | male | 2 | 0 | 2007 | 6 | 61 | 2017 | University of California, Berkeley | 2010 |
+235 | Modjaz, Maryam | Harvard University | 2007 | female | 3 | 9 | 2016 | 10 | 52 | 2017 | Columbia University | 2010 |
+# Pascal Oesch | University of California, Santa Cruz | 2010 |
+173 | Quadri, Ryan F. | Yale University | 2007 | male | 4 | 3 | 2012 | 13 | 60 | 2017 | Observatories of the Carnegie Institute of Washington | 2010 |
+333 | Reid, Beth Ann | Princeton University | 2008 | female | 2 | 11 | 2016 | 5 | 51 | 2017 | Lawrence Berkeley National Laboratory | 2010 |
+404 | Schlichting, Hilke Elisabeth | California Institute of Technology | 2009 | female | 6 | 7 | 2015 | 7 | 17 | 2017 | University of California, Los Angeles | 2010 |
+# Debora Sijacki | Harvard College Observatory | 2010 |
+138 | Walker, Matthew G. | University of Michigan | 2007 | male | 6 | 14 | 2016 | 12 | 125 | 2017 | Harvard College Observatory | 2010 |
+184 | Ammons, Stephen Mark | University of California, Santa Cruz | 2009 | male | 3 | 3 | 2014 | 10 | 35 | 2017 | University of Arizona | 2009 |
+270 | Bentz, Misty C. | The Ohio State University | 2007 | female | 7 | 12 | 2016 | 18 | 59 | 2017 | University of California, Irvine | 2009 |
+334 | Boyajian, Tabetha S. | Georgia State University | 2009 | female | 7 | 9 | 2016 | 13 | 62 | 2017 | Georgia State University | 2009 |
+200 | Covey, Kevin R. | University of Washington, Washington, USA | 2006 | male | 5 | 6 | 2016 | 26 | 79 | 2017 | Cornell University | 2009 |
+188 | Finlator, Kristian Markwart | The University of Arizona | 2009 | male | 6 | 7 | 2017 | 9 | 33 | 2017 | University of California, Santa Barbara | 2009 |
+301 | Juric, Mario | Princeton University | 2006 | male | 1 | 0 | 2006 | 27 | 41 | 2016 | Harvard University | 2009 |
+209 | Kirby, Evan N. | University of California, Santa Cruz | 2009 | male | 5 | 20 | 2017 | 14 | 55 | 2017 | California Institute of Technology | 2009 |
+78 | Kraus, Adam L. | California Institute of Technology | 2010 | male | 11 | 11 | 2017 | 35 | 87 | 2017 | University of Hawaii | 2009 |
+63 | Leroy, Adam Kirby | University of California, Berkeley | 2006 | male | 3 | 16 | 2017 | 10 | 127 | 2017 | National Radio Astronomy Observatory | 2009 |
+89 | Marrone, Daniel Patrick | Harvard University | 2006 | male | 3 | 4 | 2012 | 14 | 126 | 2017 | University of Chicago | 2009 |
+# Karin Oberg | Smithsonian Astrophysical Observatory | 2009 |
+48 | Prieto Katunaric, Jose Luis | The Ohio State University | 2009 | male | 1 | 0 | 2009 | 35 | 74 | 2017 | Observatories of the Carnegie Institute of Washington Pasadena | 2009 |
+125 | Robertson, Brant Edward | Harvard University, Massachusetts, USA | 2006 | male | 6 | 14 | 2015 | 23 | 66 | 2017 | California Institute of Technology | 2009 |
+229 | Winter, Lisa M. | University of Maryland, College Park | 2008 | female | 5 | 12 | 2016 | 12 | 36 | 2016 | University of Colorado Boulder | 2009 |
+160 | Wise, John H. | Stanford University | 2007 | male | 5 | 8 | 2014 | 9 | 45 | 2017 | Princeton University | 2009 |
+249 | Wright, Shelley Adams | University of California, Los Angeles | 2008 | female | 3 | 2 | 2010 | 14 | 22 | 2016 | University of California, Berkeley | 2009 |
+84 | Younger, Joshua Daniel | Harvard University | 2009 | male | 14 | 2 | 2011 | 21 | 10 | 2011 | Princeton, Institute for Advanced Study | 2009 |
+223 | Bundy, Kevin | California Institute of Technology | 2006 | male | 4 | 7 | 2015 | 9 | 104 | 2017 | University of California, Berkeley | 2008 |
+# Julio Chaname | Carnegie DTM | 2008 |
+360 | Cool, Richard Jacob | The University of Arizona | 2008 | male | 7 | 2 | 2013 | 27 | 31 | 2017 | Princeton Unversity | 2008 |
+# Elena Gallo | Massachusetts Institute of Technology | 2008 |
+21 | Gezari, Suvi T. K. | Columbia University, New York, USA | 2005 | female | 5 | 12 | 2017 | 7 | 36 | 2017 | The Johns Hopkins University | 2008 |
+288 | Kelly, Brandon C. | The University of Arizona | 2008 | male | 9 | 10 | 2014 | 14 | 47 | 2017 | Smithsonian Astrophysical Observatory | 2008 |
+45 | Law, David R. | Caltech | 2008 | male | 6 | 11 | 2016 | 15 | 50 | 2017 | University of California, Los Angeles | 2008 |
+426 | Law, David R. | California Institute of Technology | 2009 | male | 8 | 8 | 2016 | 19 | 44 | 2017 | University of California, Los Angeles | 2008 |
+66 | Mesinger, Andrei | Columbia University | 2006 | male | 7 | 15 | 2016 | 8 | 69 | 2017 | Princeton University | 2008 |
+74 | Reddy, Naveen A. | California Institute of Technology | 2006 | male | 6 | 9 | 2016 | 24 | 73 | 2017 | National Optical Astronomy Observatory | 2008 |
+# Emily L. Schaller | University of Hawaii | 2008 |
+231 | Strigari, Louis E. | The Ohio State University, Ohio, USA | 2005 | male | 3 | 17 | 2017 | 5 | 71 | 2017 | Stanford University | 2008 |
+77 | Woo, Jong-Hak | Yale University, Connecticut, USA | 2005 | male | 8 | 12 | 2017 | 12 | 86 | 2017 | University of California, Los Angeles | 2008 |
+67 | Andrews, Sean M. | University of Hawai'i at Manoa | 2007 | male | 7 | 13 | 2016 | 11 | 103 | 2017 | Smithsonian Astrophysical Observatory | 2007 |
+68 | Biller, Beth Alison | The University of Arizona | 2007 | female | 7 | 9 | 2015 | 16 | 51 | 2017 | University of Hawaii, Institute for Astronomy | 2007 |
+# Judd D Bowman | California Institute of Technology | 2007 |
+# Marusa Bradac | University of California, Santa Barbara | 2007 |
+30 | Kaplan, David L. | Massachusetts Institute of Technology | 2004 | male | 14 | 29 | 2016 | 19 | 150 | 2017 | Massachusetts Institute of Technology Kavli Institute | 2007 |
+187 | Kaplan, David L. | California Institute of Technology | 2004 | male | 14 | 29 | 2016 | 19 | 150 | 2017 | Massachusetts Institute of Technology Kavli Institute | 2007 |
+236 | Kasen, Daniel Nathan | University of California, rkeley, California, USA | 2004 | male | 4 | 16 | 2016 | 10 | 85 | 2017 | University of California, Santa Cruz | 2007 |
+## Ivo F L Labbe | Carnegie Observatories | 2007 |
+188 | Lopez-Morales, Mercedes | THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL | 2004 | female | 1 | 1 | 2016 | 2 | 88 | 2017 | Carnegie DTM | 2007 |
+257 | Pritchard, Jonathan Robin | California Institute of Technology | 2007 | male | 6 | 8 | 2015 | 14 | 37 | 2016 | Harvard University | 2007 |
+# Dominik A Riechers | California Institute of Technology | 2007 |
+296 | Soderberg, Alicia | California Institute of Technology | 2007 | female | 14 | 5 | 2012 | 47 | 110 | 2017 | Princeton University | 2007 |
+136 | Strader, Jay | University of California, Santa Cruz | 2007 | male | 11 | 15 | 2016 | 38 | 148 | 2017 | Harvard University | 2007 |
+# Niccolo Bucciantini | University of California, Berkeley | 2006 |
+#Jurg Diemand | University of California, Santa Cruz | 2006 |
+82 | Ford, Eric Cassel | COLUMBIA UNIVERSITY | 1997 | male | 5 | 9 | 2000 | 16 | 31 | 2016 | Center for Astrophysics | 2006 |
+134 | Ford, Eric B. | PRINCETON UNIVERSITY | 2003 | male | 7 | 19 | 2014 | 11 | 138 | 2017 | Center for Astrophysics | 2006 |
+300 | Greene, Jenny Emma | Harvard University, Massachusetts, USA | 2006 | female | 10 | 24 | 2016 | 18 | 136 | 2017 | Princeton University | 2006 |
+77 | Kollmeier, Juna A. | The Ohio State University | 2006 | female | 4 | 7 | 2014 | 11 | 39 | 2017 | Observatories of the Carnegie Institute of Washington | 2006 |
+## Janice Lee | National Optical Astronomy Observatory | 2006 |
+194 | Mandelbaum, Rachel | Princeton University | 2006 | female | 8 | 13 | 2016 | 11 | 89 | 2017 | Princeton, Institute for Advanced Study | 2006 |
+250 | Padmanabhan, Nikhil | Princeton University | 2006 | male | 7 | 9 | 2016 | 22 | 83 | 2017 | Lawrence Berkeley National Laboratory | 2006 |
+# Klaus Pontoppidan | California Institute of Technology | 2006 |
+# Glenn van de Ven | Institute for Advanced Study | 2006 |
+2 | Coil, Alison Laurel | University of California, rkeley, California, USA | 2004 | female | 7 | 9 | 2017 | 22 | 138 | 2017 | University of Arizona | 2005 |
+127 | Darling, Jeremiah Kane | CORNELL UNIVERSITY | 2002 | male | 1 | 1 | 2009 | 1 | 16 | 2016 | University of Colorado | 2005 |
+# Michael Gladders | Carnegie Observatories | 2005 |
+# Jasonjot Kalirai | University of California, Santa Cruz | 2005 |
+209 | Krumholz, Mark Reuben | University of California, Berkeley, California, USA | 2005 | male | 6 | 44 | 2017 | 6 | 126 | 2017 | Princeton University | 2005 |
+258 | Lee, Jeong-Eun | The University of Texas at Austin, Texas, USA | 2005 | female | 6 | 20 | 2016 | 20 | 175 | 2017 | University of California, Los Angeles | 2005 |
+## Milos Milosavljevic | California Institute of Technology | 2005 |
+104 | Osten, Rachel Ann | UNIVERSITY OF COLORADO AT BOULDER | 2002 | female | 5 | 17 | 2016 | 12 | 38 | 2017 | University of Washington | 2005 |
+67 | Redfield, Seth Laurens | UNIVERSITY OF COLORADO AT BOULDER | 2003 | male | 6 | 13 | 2017 | 13 | 60 | 2017 | University of Texas | 2005 |
+121 | Sigurdson, Kris | California Institute of Technology | 2005 | male | 7 | 3 | 2006 | 8 | 40 | 2017 | Princeton, Institute for Advanced Study | 2005 |
+38 | Sigurdson, Kris | California Institute of Technology | 2006 | male | 9 | 0 | 2006 | 12 | 35 | 2017 | Princeton, Institute for Advanced Study | 2005 |
+106 | Tremonti, Christina Ann | THE JOHNS HOPKINS UNIVERSITY | 2003 | female | 1 | 0 | 2003 | 2 | 18 | 2016 | University of Arizona | 2005 |
+# Gaspar Bakos | Smithsonian Astrophysical Observatory | 2004 |
+295 | Berger, Edo | California Institute of Technology | 2004 | male | 14 | 28 | 2014 | 47 | 180 | 2017 | Carnegie Institute of Washington | 2004 |
+## Joseph Hennawi | University of California, Berkeley | 2004 |
+260 | Johnson, Kelsey E. | University of Colorado at Boulder | 2001 | female | 6 | 8 | 2015 | 8 | 71 | 2017 | University of Wisconsin - Madison | 2004 |
+# Lisa Kewley | University of Hawaii | 2004 |
+96 | Mukadam, Anjum Shagufta | THE UNIVERSITY OF TEXAS AT AUSTIN | 2004 | male | 6 | 9 | 2016 | 19 | 42 | 2017 | University of Washington | 2004 |
+# Masami Ouchi | Space Telescope Science Institute | 2004 |
+79 | Peiris, Hiranya Vajramani | PRINCETON UNIVERSITY | 2003 | male | 5 | 8 | 2013 | 9 | 100 | 2017 | University of Chicago | 2004 |
+183 | Sheppard, Scott S. | UNIVERSITY OF HAWAI'I | 2004 | male | 7 | 17 | 2016 | 15 | 43 | 2017 | Carnegie Institute of Washington | 2004 |
+17 | Socrates, Aristotle | University of California, nta Barbara, California, USA | 2004 | male | 2 | 10 | 2013 | 5 | 19 | 2015 | Princeton University | 2004 |
+## Joshua Winn | Harvard College Observatory | 2004 |
+291 | Zheng, Zheng | THE OHIO STATE UNIVERSITY | 2004 | male | 12 | 27 | 2017 | 18 | 115 | 2017 | Princeton, Institute for Advanced Study | 2004 |
+# Avishay Gal-Yam | California Institute of Technology | 2003 |
+227 | Geha, Marla | UNIVERSITY OF CALIFORNIA, SANTA CRUZ | 2003 | female | 5 | 9 | 2015 | 26 | 79 | 2017 | Carnegie | 2003 |
+282 | Harris, Jason Robert | University of California, Santa Cruz | 2000 | male | 3 | 12 | 2014 | 8 | 89 | 2015 | University of Arizona | 2003 |
+141 | Ho, Wynn | Cornell University | 2003 | male | 7 | 23 | 2017 | 11 | 48 | 2017 | Stanford University | 2003 |
+228 | Kuchner, Marc Jason | California Institute of Technology | 2001 | male | 5 | 12 | 2017 | 9 | 79 | 2017 | Princeton University | 2003 |
+# Darren Madgwick | Lawrence Berkeley National Laboratory | 2003 |
+90 | Muno, Michael Patrick | MASSACHUSETTS INSTITUTE OF TECHNOLOGY | 2002 | male | 9 | 21 | 2009 | 18 | 45 | 2014 | University of California, Los Angles | 2003 |
+249 | Newman, Jeffrey Allen | UNIVERSITY OF CALIFORNIA, BERKELEY | 2000 | male | 4 | 7 | 2015 | 7 | 163 | 2017 | Lawrence Berkeley National Laboratory | 2003 |
+11 | Smith, Nathan I. | UNIVERSITY OF MINNESOTA | 2002 | male | 19 | 78 | 2017 | 39 | 203 | 2017 | University of Colorado | 2003 |
+# Tommaso Treu | University of California, Los Angles | 2003 |
+139 | Wechsler, Risa H. | UNIVERSITY OF CALIFORNIA, SANTA CRUZ | 2001 | female | 3 | 3 | 2006 | 4 | 170 | 2017 | University of Chicago | 2003 |
+165 | Yu, Qingjuan | PRINCETON UNIVERSITY | 2002 | female | 9 | 14 | 2016 | 14 | 32 | 2016 | University of California, Berkeley | 2003 |
+13 | Bullock, James Steven | UNIVERSITY OF CALIFORNIA, SANTA CRUZ | 1999 | male | 3 | 11 | 2010 | 6 | 148 | 2017 | Center for Astrophysics | 2002 |
+270 | Chen, Hsiao-Wen | STATE UNIVERSITY OF NEW YORK AT STONY BROOK | 1999 | female | 9 | 39 | 2016 | 16 | 178 | 2017 | Massachusetts Institute of Technology | 2002 |
+218 | Dalal, Neal | UNIVERSITY OF CALIFORNIA, SAN DIEGO | 2002 | male | 8 | 8 | 2010 | 16 | 40 | 2017 | Princeton, Institute for Advanced Study | 2002 |
+# Jarrod Hurley | American Museum of Natural History | 2002 |
+# Robert Hynes | University of Texas | 2002 |
+## Inese Ivans | California Institute of Technology | 2002 |
+272 | Liu, Michael C. | University of California, Berkeley | 2000 | male | 7 | 22 | 2016 | 22 | 168 | 2017 | University of Hawaii | 2002 |
+178 | Macri, Lucas Matias | Harvard University | 2001 | male | 8 | 7 | 2016 | 32 | 62 | 2017 | National Optical Astronomy Observatory | 2002 |
+265 | Metcalf, Robert Benton | UNIVERSITY OF CALIFORNIA, BERKELEY | 1999 | male | 7 | 17 | 2014 | 7 | 44 | 2017 | University of California, Santa Cruz | 2002 |
+# Barbara Mochejska | Center for Astrophysics | 2002 |
+71 | Ozel, Feryal | HARVARD UNIVERSITY | 2002 | female | 1 | 0 | 2002 | 8 | 83 | 2017 | Princeton, Institute for Advanced Study | 2002 |
+173 | Thompson, Todd Alan | THE UNIVERSITY OF ARIZONA | 2002 | male | 4 | 18 | 2016 | 5 | 103 | 2017 | University of California, Berkeley | 2002 |
+299 | Barth, Aaron Jordan | UNIVERSITY OF CALIFORNIA, BERKELEY | 1998 | male | 6 | 27 | 2016 | 20 | 117 | 2017 | California Institute of Technology | 2001 |
+207 | Barton, Elizabeth Jean | HARVARD UNIVERSITY | 1999 | female | 4 | 9 | 2009 | 7 | 46 | 2016 | University of Arizona | 2001 |
+# Martin Bureau | Columbia University | 2001 |
+68 | Burgasser, Adam J. | Department of Physics, California Institute of Technology | 2001 | male | 5 | 53 | 2016 | 14 | 167 | 2017 | University of California, Los Angeles | 2001 |
+139 | Burgasser, Adam Jonathan | CALIFORNIA INSTITUTE OF TECHNOLOGY | 2002 | male | 9 | 49 | 2016 | 20 | 161 | 2017 | University of California, Los Angeles | 2001 |
+275 | Cumming, Andrew William | University of California, Berkeley | 2000 | male | 4 | 17 | 2017 | 6 | 219 | 2017 | University of California, Santa Cruz | 2001 |
+243 | Hamuy, Mario Andres | The University of Arizona | 2001 | male | 9 | 9 | 2011 | 22 | 117 | 2017 | Observatories of the Carnegie Institute of Washington | 2001 |
+# Andrew Hopkins | University of Pittsburgh | 2001 |
+48 | Keeton, Charles Randy, II | HARVARD UNIVERSITY | 1998 | male | 5 | 21 | 2011 | 8 | 97 | 2017 | University of Chicago | 2001 |
+83 | Prochaska, Jason Xavier | UNIVERSITY OF CALIFORNIA, SAN DIEGO | 1998 | male | 5 | 52 | 2017 | 7 | 331 | 2017 | Observatories of the Carnegie Institute of Washington | 2001 |
+195 | Rockosi, Constance Mary | The University of Chicago | 2001 | female | 1 | 1 | 2002 | 17 | 97 | 2016 | University of Washington | 2001 |
+144 | Stassun, Keivan Guadalupe | University of Wisconsin, 475 N. Charter St., Madison, WI, 53706, USA | 2000 | male | 3 | 18 | 2017 | 5 | 210 | 2017 | University of Wisconsin | 2001 |
+# J. Stuart Wyithe | Center for Astrophysics | 2001 |
+47 | Chiang, Eugene | CALIFORNIA INSTITUTE OF TECHNOLOGY | 2000 | male | 7 | 20 | 2013 | 8 | 81 | 2017 | Princeton, Institute for Advanced Study | 2000 |
+282 | Dave, Romeel S. | UNIVERSITY OF CALIFORNIA, SANTA CRUZ | 1998 | male | 2 | 0 | 1998 | 3 | 14 | 2010 | University of Arizona | 2000 |
+43 | Finkbeiner, Douglas Paul | UNIVERSITY OF CALIFORNIA, BERKELEY | 1999 | male | 3 | 16 | 2016 | 5 | 110 | 2017 | University of California, Berkeley | 2000 |
+214 | Miller, Amber Dawn | Princeton University | 2000 | female | 4 | 3 | 2015 | 17 | 60 | 2017 | University of Chicago | 2000 |
+# Mary Putman | University of Colorado | 2000 |
+104 | Reichart, Daniel Eric | THE UNIVERSITY OF CHICAGO | 2000 | male | 9 | 6 | 2006 | 11 | 115 | 2017 | California Institute of Technology | 2000 |
+# Amy Barger | University of Hawaii | 1999 |
+15 | Eisenstein, Daniel James | HARVARD UNIVERSITY. | 1996 | male | 4 | 22 | 2011 | 5 | 289 | 2017 | University of Chicago | 1999 |
+53 | Haiman, Zoltan | HARVARD UNIVERSITY | 1998 | male | 10 | 35 | 2016 | 12 | 196 | 2017 | Princeton University | 1999 |
+95 | Hansen, Bradley Miles Stougaard | CALIFORNIA INSTITUTE OF TECHNOLOGY. | 1996 | male | 1 | 9 | 2017 | 2 | 29 | 2017 | Princeton University | 1999 |
+199 | Kravtsov, Andrey V. | NEW MEXICO STATE UNIVERSITY | 1999 | male | 4 | 11 | 2013 | 14 | 126 | 2017 | The Ohio State University | 1999 |
+277 | Oppenheimer, Ben R. | CALIFORNIA INSTITUTE OF TECHNOLOGY | 1999 | male | 6 | 7 | 2013 | 11 | 76 | 2017 | University of California, Berkeley | 1999 |
+239 | Richards, Eric A. | UNIVERSITY OF VIRGINIA | 1999 | male | 5 | 4 | 2007 | 12 | 16 | 2015 | Arizona State University | 1999 |
+## Krzysztof Stanek | Center for Astrophysics | 1999 |
+140 | Trager, Scott Charles | UNIVERSITY OF CALIFORNIA, SANTA CRUZ | 1997 | male | 4 | 7 | 2009 | 5 | 67 | 2017 | Observatories of the Carnegie Institute of Washington | 1999 |
+# Pieter van Dokkum | California Institute of Technology | 1999 |
+# Joanne C. Baker | University of California, Berkeley | 1998 |
+## Greg Bryan | Massachusetts Institute of Technology | 1998 |
+# Marcio Catelan | Goddard Space Flight Center - University of Virginia (yrs 2-3) | 1998 |
+# Roelof de Jong | University of Arizona | 1998 |
+# Bryan Gaensler | Massachusetts Institute of Technology | 1998 |
+# Eva K. Grebel | University of Washington | 1998 |
+# Christian Knigge | Columbia University | 1998 |
+148 | Lin, Huan | HARVARD UNIVERSITY. | 1995 | male | 3 | 15 | 2017 | 9 | 226 | 2017 | University of Arizona | 1998 |
+242 | Malhotra, Sangeeta | PRINCETON UNIVERSITY. | 1994 | female | 3 | 16 | 2017 | 4 | 129 | 2017 | Kitt Peak National Observatory  The Johns Hopkins University | 1998 |
+# Simon Portegies Zwart | Boston University of - Massachusetts Institute of Technology | 1998 |
+# Chris Reynolds | University of Colorado, JILA | 1998 |
+# Gordon Squires | California Institute of Technology | 1998 |
+362 | Wiseman, Jennifer Janean | HARVARD UNIVERSITY. | 1995 | female | 4 | 4 | 2002 | 5 | 6 | 2008 | The Johns Hopkins University | 1998 |
+## Matias Zaldarriaga | Princeton, Institute for Advanced Study | 1998 |
+214 | Bernstein, Rebecca Ann | CALIFORNIA INSTITUTE OF TECHNOLOGY | 1998 | female | 1 | 5 | 2007 | 2 | 68 | 2017 | Observatories of the Carnegie Institute of Washington | 1997 |
+145 | Dey, Arjun | UNIVERSITY OF CALIFORNIA, BERKELEY. | 1994 | male | 2 | 11 | 2016 | 7 | 187 | 2017 | The Johns Hopkins University  Kitt Peak National Observatory (yr 2) | 1997 |
+136 | Gebhardt, Karl | RUTGERS THE STATE UNIVERSITY OF NEW JERSEY - NEW BRUNSWICK. | 1994 | male | 3 | 20 | 2011 | 5 | 156 | 2017 | University of California, Santa Cruz | 1997 |
+238 | Grundy, William Macintyre | THE UNIVERSITY OF ARIZONA. | 1995 | male | 4 | 31 | 2016 | 8 | 103 | 2017 | Lowell Observatory | 1997 |
+# Rafael Guzman | Yale University | 1997 |
+144 | Hogg, David Wardell | CALIFORNIA INSTITUTE OF TECHNOLOGY | 1998 | male | 11 | 18 | 2016 | 21 | 168 | 2017 | Princeton, Institute for Advanced Study | 1997 |
+235 | Kobulnicky, Henry A. | UNIVERSITY OF MINNESOTA | 1997 | male | 8 | 23 | 2016 | 13 | 78 | 2017 | University of California, Santa Cruz  University of Wisconsin | 1997 |
+113 | Lubin, Lori Maxine | PRINCETON UNIVERSITY. | 1995 | female | 8 | 13 | 2009 | 17 | 76 | 2017 | California Institute of Technology | 1997 |
+300 | Marzke, Ronald Oscar | HARVARD UNIVERSITY. | 1994 | male | 3 | 4 | 1998 | 7 | 49 | 2011 | Observatories of the Carnegie Institute of Washington | 1997 |
+310 | McLaughlin, Dean E. | MCMASTER UNIVERSITY (CANADA) | 1997 | male | 11 | 11 | 2008 | 16 | 37 | 2016 | University of California, Berkeley | 1997 |
+## Michael R. Meyer | University of Arizona | 1997 |
+261 | Pahre, Michael Andrew | CALIFORNIA INSTITUTE OF TECHNOLOGY | 1998 | male | 8 | 5 | 2004 | 19 | 37 | 2012 | Center for Astrophysics | 1997 |
+## Michael W. Regan | Dept. Terrest. Magn. | 1997 |
+# Marco Spaans | Center for Astrophysics | 1997 |
+# Frank C. van den Bosch | University of Washington | 1997 |
+# Marcella Carollo | The Johns Hopkins University | 1996 |
+189 | Chaboyer, Brian Charles | YALE UNIVERSITY. | 1993 | male | 7 | 24 | 2017 | 9 | 85 | 2017 | University of Arizona | 1996 |
+80 | Ferrarese, Laura | THE JOHNS HOPKINS UNIVERSITY. | 1996 | female | 5 | 16 | 2016 | 17 | 146 | 2017 | California Institute of Technology | 1996 |
+22 | Layden, Andrew Choisy | Yale University. | 1993 | male | 3 | 17 | 2013 | 3 | 43 | 2015 | University of Michigan  Bowling Green State University of | 1996 |
+## Crystal Martin | Space Telescope Science Institute | 1996 |
+## Max Tegmark | Princeton, Institute for Advanced Study | 1996 |
+# Lifan Wang | University of Texas | 1996 |
+306 | Wilner, David James | UNIVERSITY OF CALIFORNIA, BERKELEY. | 1993 | male | 2 | 21 | 2012 | 5 | 264 | 2017 | Center for Astrophysics | 1996 |
+257 | Zabludoff, Ann I. | HARVARD UNIVERSITY. | 1993 | female | 7 | 7 | 2000 | 9 | 95 | 2017 | University of California, Santa Cruz | 1996 |
+74 | Blum, Robert David | THE OHIO STATE UNIVERSITY. | 1995 | male | 8 | 16 | 2015 | 10 | 66 | 2017 | JILA, University of Colorado | 1995 |
+55 | Eracleous, Michael | COLUMBIA UNIVERSITY. | 1992 | male | 3 | 21 | 2012 | 3 | 149 | 2017 | University of California, Berkeley | 1995 |
+85 | Fischer, Philippe | MCMASTER UNIVERSITY (CANADA). | 1993 | male | 9 | 13 | 2017 | 16 | 32 | 2017 | University of Michigan | 1995 |
+29 | Frank, Adam | UNIVERSITY OF WASHINGTON. | 1992 | male | 3 | 28 | 2017 | 8 | 154 | 2017 | University of Minnesota | 1995 |
+# Mauro Giavalisco | Observatories of the Carnegie Institute of Washington | 1995 |
+305 | Hanson, Margaret Murray | UNIVERSITY OF COLORADO AT BOULDER. | 1995 | female | 6 | 9 | 2010 | 12 | 51 | 2017 | University of Arizona | 1995 |
+# Inger Jorgensen | University of Texas | 1995 |
+6 | Mihos, James Christopher | THE UNIVERSITY OF MICHIGAN. | 1992 | male | 3 | 23 | 2017 | 3 | 73 | 2017 | The Johns Hopkins University Case Western University | 1995 |
+# Michael Rauch | California Institute of Technology | 1995 |
+47 | Roth, Katherine Carol | NORTHWESTERN UNIVERSITY. | 1992 | female | 1 | 6 | 1999 | 6 | 45 | 2016 | University of Hawaii | 1995 |
+274 | Sarajedini, Ata | YALE UNIVERSITY. | 1992 | male | 5 | 32 | 2012 | 9 | 182 | 2017 | Kitt Peak National Observatory  San Francisco State University of | 1995 |
+201 | Vogeley, Michael Scott | HARVARD UNIVERSITY. | 1993 | male | 3 | 2 | 1996 | 6 | 85 | 2017 | Space Telescope Science Institute  Princeton University | 1995 |
+165 | Brown, Michael Lee | UNIVERSITY OF CALIFORNIA, LOS ANGELES. | 1990 | male | 2 | 13 | 2015 | 3 | 104 | 2017 | California Institute of Technology | 1994 |
+227 | Brown, Michael Edwards | UNIVERSITY OF CALIFORNIA, BERKELEY. | 1994 | male | 7 | 51 | 2016 | 8 | 177 | 2017 | California Institute of Technology | 1994 |
+304 | Brown, Michael Richard | THE UNIVERSITY OF UTAH. | 1994 | male | 2 | 9 | 2015 | 3 | 49 | 2016 | California Institute of Technology | 1994 |
+261 | Dalcanton, Julianne | PRINCETON UNIVERSITY. | 1995 | female | 3 | 19 | 2015 | 3 | 187 | 2017 | Observatories of the Carnegie Institute of Washington | 1994 |
+174 | Henry, Todd Jackson | THE UNIVERSITY OF ARIZONA. | 1991 | male | 3 | 11 | 2006 | 10 | 103 | 2017 | Space Telescope Science Institute | 1994 |
+192 | Hibbard, John Eugene | COLUMBIA UNIVERSITY. | 1995 | male | 3 | 8 | 2005 | 4 | 49 | 2017 | University of Hawaii | 1994 |
+8 | Hillenbrand, Lynne Anne | University of California; Department of Astronomy; 601 Campbell Hall; Berkeley, CA 94720 | 1995 | female | 4 | 14 | 2015 | 6 | 218 | 2017 | University of California, Berkeley | 1994 |
+## Victoria Kaspi | Jet Propulsion Laboratory Massachusetts Institute of Technology | 1994 |
+237 | Lu, Limin | UNIVERSITY OF PITTSBURGH. | 1991 | male | 4 | 17 | 2015 | 14 | 97 | 2017 | California Institute of Technology | 1994 |
+237 | Staggs, Suzanne Therese | PRINCETON UNIVERSITY. | 1993 | female | 1 | 3 | 1996 | 1 | 77 | 2017 | University of Chicago/Fermi Institute | 1994 |
+317 | Thorburn, Julie A. | THE UNIVERSITY OF CHICAGO. | 1993 | female | 4 | 3 | 2003 | 9 | 26 | 2010 | University of Chicago/Yerkes Observatory | 1994 |
+# Roeland van der Marel | Princeton, Institute for Advanced Study | 1994 |
+2 | Worthey, Guy | UNIVERSITY OF CALIFORNIA, SANTA CRUZ. | 1992 | male | 2 | 20 | 2015 | 2 | 61 | 2017 | University of Michigan | 1994 |
+56 | Deliyannis, Constantine Plato | YALE UNIVERSITY. | 1990 | male | 5 | 12 | 2002 | 5 | 78 | 2017 | Yale University | 1993 |
+97 | Ferguson, Henry Closson | THE JOHNS HOPKINS UNIVERSITY. | 1990 | male | 6 | 16 | 2004 | 6 | 332 | 2017 | Space Telescope Science Institute | 1993 |
+17 | Herbig, Thomas | CALIFORNIA INSTITUTE OF TECHNOLOGY. | 1994 | male | 2 | 1 | 1995 | 4 | 8 | 2002 | Princeton University | 1993 |
+31 | Jannuzi, Buell Tomasson | THE UNIVERSITY OF ARIZONA. | 1990 | male | 3 | 10 | 2004 | 5 | 182 | 2017 | Princeton, Institute for Advanced Study | 1993 |
+244 | King, Jeremy R. | UNIVERSITY OF HAWAII. | 1993 | male | 7 | 30 | 2010 | 10 | 99 | 2017 | University of Texas | 1993 |
+93 | Lada, Elizabeth Anne | THE UNIVERSITY OF TEXAS AT AUSTIN. | 1990 | female | 2 | 11 | 2004 | 6 | 70 | 2016 | University of Maryland | 1993 |
+190 | Lowenthal, James Daniel | THE UNIVERSITY OF ARIZONA. | 1991 | male | 3 | 7 | 2009 | 4 | 44 | 2017 | University of California, Santa Cruz | 1993 |
+311 | McCullough, Peter Rankin | UNIVERSITY OF CALIFORNIA, BERKELEY. | 1993 | male | 3 | 15 | 2014 | 6 | 58 | 2017 | University of Illinois | 1993 |
+# Dimitar Sasselov | Center for Astrophysics | 1993 |
+178 | Saumon, Didier | THE UNIVERSITY OF ROCHESTER. | 1990 | male | 3 | 17 | 2014 | 4 | 91 | 2016 | University of Arizona, Lunar and Planetary Laboratory | 1993 |
+293 | Shields, Joseph Charles | UNIVERSITY OF CALIFORNIA, BERKELEY. | 1991 | male | 8 | 17 | 2012 | 11 | 110 | 2017 | University of Arizona/Steward Observatory | 1993 |
+# Marten van Kerwijk | California Institute of Technology | 1993 |
+116 | Voit, Gerard Mark | UNIVERSITY OF COLORADO AT BOULDER. | 1990 | male | 5 | 31 | 2015 | 6 | 97 | 2017 | The Johns Hopkins University | 1993 |
+317 | Zepf, Stephen Edward | THE JOHNS HOPKINS UNIVERSITY. | 1992 | male | 5 | 18 | 2008 | 6 | 114 | 2017 | University of California, Berkeley | 1993 |
+70 | Bershady, Matthew Alec | THE UNIVERSITY OF CHICAGO. | 1994 | male | 4 | 16 | 2011 | 11 | 99 | 2017 | University of California, Santa Cruz | 1992 |
+# Yong-Ik Byun | University of Hawaii | 1992 |
+197 | Green, Paul Jonathan | UNIVERSITY OF WASHINGTON. | 1992 | male | 7 | 21 | 2013 | 28 | 100 | 2017 | Center for Astrophysics | 1992 |
+166 | Ghez, Andrea Mia | Steward Observatory, University of Arizona, Tucson, AZ, 85721, USA; | 1993 | female | 4 | 13 | 2008 | 10 | 117 | 2016 | University of Arizona | 1992 |
+53 | Garnett, Donald Roy | THE UNIVERSITY OF TEXAS AT AUSTIN. | 1989 | male | 6 | 24 | 2004 | 10 | 43 | 2013 | University of Minnesota | 1992 |
+# Coel Hellier | University of Texas | 1992 |
+168 | Luu, Jane | MASSACHUSETTS INSTITUTE OF TECHNOLOGY. | 1990 | female | 6 | 17 | 2003 | 9 | 44 | 2006 | University of California, Berkeley | 1992 |
+## Steven R. Majewski | Observatories of the Carnegie Institute of Washington | 1992 |
+292 | Rasio, Frederic Armand | CORNELL UNIVERSITY. | 1991 | male | 7 | 19 | 2013 | 7 | 149 | 2017 | Princeton, Institute for Advanced Study | 1992 |
+17 | Sembach, Kenneth Russell | Wisconsin Univ., Madison. | 1992 | male | 3 | 25 | 2004 | 9 | 165 | 2017 | Massachusetts Institute of Technology | 1992 |
+176 | Veilleux, Sylvain | UNIVERSITY OF CALIFORNIA, SANTA CRUZ. | 1989 | male | 4 | 41 | 2016 | 8 | 202 | 2017 | Kitt Peak National Observatory | 1992 |
+247 | Womble, Donna Suzanne | UNIVERSITY OF CALIFORNIA, SAN DIEGO. | 1992 | female | 3 | 1 | 1993 | 5 | 13 | 1999 | California Institute of Technology | 1992 |
+# Marijn Franx | Center for Astrophysics | 1991 |
+239 | Hawley, Suzanne Louise | THE UNIVERSITY OF TEXAS AT AUSTIN. | 1989 | female | 4 | 14 | 2014 | 11 | 143 | 2017 | Lawrence Livermore National Laboratory | 1991 |
+302 | Hui, Xiaohui | BOSTON UNIVERSITY. | 1992 | male | 1 | 4 | 1995 | 2 | 8 | 1999 | California Institute of Technology | 1991 |
+# Konrad H. Kuijken | Center for Astrophysics | 1991 |
+114 | Lanzetta, Kenneth M. | Pittsburgh Univ., PA. | 1988 | male | 3 | 16 | 2002 | 3 | 59 | 2007 | University of California, San Diego | 1991 |
+27 | McCarthy, Patrick Joseph | UNIVERSITY OF CALIFORNIA, BERKELEY. | 1988 | male | 6 | 21 | 2009 | 17 | 183 | 2017 | Observatories of the Carnegie Institute of Washington | 1991 |
+# Heather L. Morrison | Kitt Peak National Observatory | 1991 |
+279 | Rix, Hans-Walter Reinhard | THE UNIVERSITY OF ARIZONA. | 1991 | male | 2 | 1 | 1995 | 2 | 1 | 1995 | Princeton, Institute for Advanced Study | 1991 |
+# Sean G. Ryan | University of Texas | 1991 |
+19 | Vacca, William Donald | Colorado Univ., Boulder. | 1992 | male | 4 | 12 | 2015 | 8 | 97 | 2017 | University of California, Berkeley | 1991 |
+14 | Zaritsky, Dennis Fabian | THE UNIVERSITY OF ARIZONA. | 1991 | male | 7 | 52 | 2017 | 7 | 229 | 2017 | Observatories of the Carnegie Institute of Washington | 1991 |
+# Pawel Artymowicz | University of California, Santa Cruz | 1990 |
+120 | Baum, Stefi Alison | UNIVERSITY OF MARYLAND COLLEGE PARK. | 1987 | female | 2 | 19 | 2014 | 6 | 224 | 2017 | The Johns Hopkins University | 1990 |
+106 | Bolte, Michael John | UNIVERSITY OF WASHINGTON. | 1987 | male | 6 | 12 | 1995 | 10 | 95 | 2016 | University of California, Santa Cruz | 1990 |
+# Paul Callanan | Center for Astrophysics | 1990 |
+9 | Danly, Laura | THE UNIVERSITY OF WISCONSIN - MADISON. | 1987 | female | 1 | 5 | 1993 | 1 | 13 | 1997 | Space Telescope Science Institute | 1990 |
+238 | Fruchter, Andrew Steven | PRINCETON UNIVERSITY. | 1989 | male | 4 | 18 | 2011 | 10 | 173 | 2017 | University of California, Berkeley | 1990 |
+131 | Katz, Neal Steven | PRINCETON UNIVERSITY. | 1989 | male | 5 | 13 | 1999 | 9 | 147 | 2017 | Massachusetts Institute of Technology | 1990 |
+132 | Lee, Young-Wook | YALE UNIVERSITY. | 1989 | male | 4 | 31 | 2016 | 4 | 204 | 2017 | Yale University | 1990 |
+# Peter Lundqvist | University of Virginia | 1990 |
+109 | Mateo, Mario Luis | UNIVERSITY OF WASHINGTON. | 1987 | male | 12 | 23 | 2008 | 23 | 200 | 2017 | Observatories of the Carnegie Institute of Washington | 1990 |
+114 | Steidel, Charles Colville | CALIFORNIA INSTITUTE OF TECHNOLOGY. | 1990 | male | 9 | 33 | 2016 | 17 | 213 | 2017 | University of California, Berkeley | 1990 |
+# Rene Walterbos | New Mexico State University | 1990 |
+## Qinde Wang | University of Colorado | 1990 |
+# Janet Wood | University of Texas | 1990 |
+## Brian Yanny | Princeton, Institute for Advanced Study | 1990 |

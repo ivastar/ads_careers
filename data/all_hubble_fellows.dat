@@ -1,0 +1,377 @@
+Name    |  phd_institution  | host_institution  | hubble_year |
+Rachael Beaton    |    University of Virginia    |    Princeton University    |   2017  |
+Ivan Cabrera Ziri Castro    |    Liverpool John Moores University    |    Harvard College Observatory    |   2017  |
+Ena Choi    |    Princeton University    |    Columbia University    |   2017  |
+Susan Clark    |    Columbia University    |    Institute for Advanced Study    |   2017  |
+Wen-fai Fong    |    Harvard University    |    Northwestern University    |   2017  |
+Katheryn Decker French    |    University of Arizona    |    Carnegie Observatories    |   2017  |
+Anne Jaskot    |    University of Michigan    |    University of Massachusetts    |   2017  |
+Alexander Ji    |    Massachusetts Institute of Technology    |    Carnegie Observatories    |   2017  |
+Sebastiaan Krijt    |    Leiden University    |    University of Chicago    |   2017  |
+Sarah Loebman    |    University of Washington, Seattle    |    University of California, Davis    |   2017  |
+Brett McGuire    |    California Institute of Technology    |    National Radio Astronomy Observatory    |   2017  |
+Evan Schneider    |    University of Arizona    |    Princeton University    |   2017  |
+Jordan Stone    |    University of Arizona    |    University of Arizona    |   2017  |
+Johanna Teske    |    University of Arizona    |    Carnegie Institution    |   2017  |
+Siyao Xu    |    Peking University    |    University of Wisconsin Madison    |   2017  |
+Ke Zhang    |    California Institute of Technology    |    University of Michigan    |   2017  |
+George Zhou    |    Australian National University    |    Smithsonian Astrophysical Observatory    |   2017  |
+Brendan Bowler    |    University of Hawaii    |    University of Texas at Austin    |  2016  |
+Zheng Cai    |    Steward Observatory    |    UCO/Lick Observatory, University of California    |  2016  |
+Diana Dragomir    |    University of British Columbia    |    Massachusetts Institute of Technology    |  2016  |
+Maria Drout    |    Harvard University    |    Carnegie Observatories    |  2016  |
+Jean-Baptiste Fouvry    |    Universite Pierre et Marie Curie, France    |    Institute of Advanced Study, Princeton    |  2016  |
+Sean Johnson    |    University of Chicago    |    Princeton University    |  2016  |
+Michael McCourt    |    University of California, Berkeley    |    University of California, Santa Barbara    |  2016  |
+Anne Medling    |    University of California, Santa Cruz    |    California Institute of Technology    |  2016  |
+Maxwell Millar-Blanchaer    |    University of Toronto    |    Jet Propulsion Laboratory    |  2016  |
+Marcel Sven Pawlowski    |    University of Bonn, Germany    |    University of California, Irvine    |  2016  |
+Paola Pinilla    |    Heidelberg University    |    University of Arizona    |  2016  |
+Sarah Sadavoy    |    University of Victoria    |    Smithsonian Astrophysical Observatory    |  2016  |
+Josiah Schwab    |    University of California, Berkeley    |    University of California, Santa Cruz    |  2016  |
+Daniel Scolnic    |    Johns Hopkins University    |    University of Chicago    |  2016  |
+Paul Torrey    |    Harvard University    |    Massachusetts Institute of Technology    |  2016  |
+Katherine Alatalo    |    University of California, Berkeley - 2012    |    Carnegie Observatories/Pasadena    |  2015  |
+Peter Behroozi    |    Stanford University - 2012    |    University of California, Berkeley    |  2015  |
+Rongmon Bordoloi     |    ETH Zurich - 2013    |    Massachusetts Institute of Technology    |  2015  |
+Elodie Choquet    |    University of Paris Diderot - 2013    |    Jet Propulsion Laboratory    |  2015  |
+Lauren Ilsedore Cleeves    |    University of Michigan - 2015    |    Smithsonian Astrophysical Observatory    |  2015  |
+James Hermes    |    University of Texas at Austin - 2013    |    University of North Carolina, Chapel Hill    |  2015  |
+Yashar Hezaveh    |    McGill University - 2013    |    Stanford University    |  2015  |
+Tucker Jones    |    California Institute of Technology - 2012    |    University of Hawaii at Manoa    |  2015  |
+Erin Kara    |    University of Cambridge - 2015    |    University of Maryland, College Park    |  2015  |
+Khee-Gan Lee    |    Princeton University - 2012    |    Lawrence Berkeley National Laboratory    |  2015  |
+Michael Line    |    California Institute of Technology - 2013    |    NASA Ames Research Center    |  2015  |
+Adrian Liu    |    Massachusetts Institute of Technology - 2012    |    University of California, Berkeley    |  2015  |
+Andrew Mann    |    University of Hawaii at Manoa - 2013    |    University of Texas at Austin     |  2015  |
+Erik Petigura    |    University of California, Berkeley - 2015    |    California Institute of Technology    |  2015  |
+Timothy Rodigas    |    University of Arizona - 2013    |    Carnegie Institute of Washington, DTM    |  2015  |
+Edward Ford Schlafly    |    Harvard University - 2012    |    Lawrence Berkeley National Laboratory    |  2015  |
+Katherine Whitaker    |    Yale University - 2012    |    University of Massachusetts, Amherst    |  2015  |
+Fabienne Bastien    |    Vanderbilt University - 2014    |    Pennsylvania State University |  2014  |
+Matteo Brogi    |    Leiden University - 2014    |    University of Colorado    |  2014  |
+Michelle Collins    |    Institute of Astronomy, Cambridge - 2011    |    Yale University    |  2014  |
+Ryan Cooke    |    University of Cambridge - 2011    |    University of California, Santa Cruz    |  2014  |
+Cora Dvorkin    |    University of Chicago - 2011    |    Harvard University    |  2014  |
+Shy Genel    |    Ludwig Maximilians University, Munich - 2011    |    Columbia University    |  2014  |
+Laura Lopez    |    University of California, Santa Cruz - 2011    |    Harvard University    |  2014  |
+Joseph Neilsen    |    Harvard University - 2011    |    Massachusetts Institute of Technology    |  2014  |
+Evan O'Connor    |    California Institute of Technology - 2012    |    North Carolina State University    |  2014  |
+Georgiana Ogrean    |    University of Hamburg - 2013    |    Smithsonian Astrophysical Observatory    |  2014  |
+James Owen    |    University of Cambridge - 2011    |    Institute for Advanced Study    |  2014  |
+Amy Reines    |    University of Virginia - 2011    |    University of Michigan    |  2014  |
+Benjamin Shappee    |    Ohio State University - 2014    |    Carnegie Observatories    |  2014  |
+Andrew Skemer    |    University of Arizona - 2011    |    University of Arizona    |  2014  |
+Sjoert Van Velzen    |    Radboud University Nijmegen - 2014    |    Johns Hopkins University    |  2014  |
+Guangtun Zhu    |    New York University - 2011    |    Johns Hopkins University    |  2014  |
+Rachel Bezanson           |    Yale University - 2013                          |    University of Arizona    |  2013  |
+Francesca DeMeo           |    Observatoire de Paris - 2010                    |    Harvard College Observatory    |  2013  |
+Ruobing Dong              |    Princeton University - 2013                     |    Lawrence Berkeley National Laboratory    |  2013  |
+Jacqueline Faherty        |    University of New York, Stony Brook - 2010      |    Carnegie Institution of Washington    |  2013  |
+Renyu Hu                  |    Massachusetts Institute of Technology - 2013    |    Jet Propulsion Laboratory    |  2013  |
+Andreas Kuepper           |    University of Bonn - 2011                       |    Columbia University    |  2013  |
+Emily Levesque            |    University of Hawaii - 2010                     |    University of Colorado, Boulder    |  2013  |
+Adam Miller               |    University of California, Berkeley - 2013       |    Jet Propulsion Laboratory    |  2013  |
+Philip Muirhead           |    Cornell University - 2011                       |    Boston University    |  2013  |
+Ondrej Pejcha             |    The Ohio State University - 2013                |    Princeton University    |  2013  |
+Joseph Richards           |    Carnegie Mellon University - 2010               |    Lawrence Berkeley National Laboratory    |  2013  |
+Pier-Emmanuel Tremblay    |    University of Montreal - 2011                   |    Space Telescope Science Institute    |  2013  |
+Jonathan Trump            |    University of Arizona - 2010                    |    The Pennsylvania State University    |  2013  |
+Daniel Weisz              |    University of Minnesota - 2010                  |    University of California, Santa Cruz    |  2013  |
+Jessica Werk              |    University of Michigan - 2010                   |    University of California, Santa Cruz    |  2013  |
+Zhaohuan Zhu              |    University of Michigan - 2011                   |    Princeton University    |  2013  |  2013  |
+Adi Zitrin                |    Tel Aviv University - 2012                      |    California Institute of Technology    |  2013  |
+Xuening Bai           |    Princeton University - 2012                           |    Smithsonian Astrophysical Observatory    |  2012  |
+Alis Deason           |    University of Cambridge - 2012                        |    University of California, Santa Cruz    |  2012  |
+Jennifer Donley       |    University of Arizona - 2009                          |    Los Alamos National Laboratory    |  2012  |
+Robert Feldmann       |    Eidgenossiche Technische Hochschule, Zurich - 2010    |    University of California, Berkeley    |  2012  |
+Michele Fumagalli     |    University of California, Santa Cruz - 2012           |    Observatories of the Carnegie Institute of Washington    |  2012  |
+Kaitlin Kratter       |    University of Toronto - 2010                          |    University of Colorado    |  2012  |
+Xin Liu               |    Princeton University - 2010                           |    University of California, Los Angeles    |  2012  |
+Michael McDonald      |    University of Maryland - 2011                         |    Massachusetts Institute of Technology    |  2012  |
+Matthew McQuinn       |    Harvard University - 2009                             |    University of California, Berkeley    |  2012  |
+Kohta Murase          |    Kyoto University, Japan - 2010                        |    Princeton, Institute for Advanced Study    |  2012  |
+Stella Offner         |    University of California, Berkeley - 2009             |    Yale University    |  2012  |
+Steven Rodney         |    University of Hawaii - 2010                           |    The Johns Hopkins University    |  2012  |
+Leslie Rogers         |    Massachusetts Institute of Technology - 2012          |    California Institute of Technology    |  2012  |
+Yue Shen              |    Princeton University - 2009                           |    Observatories of the Carnegie Institute of Washington    |  2012  |
+James Steiner         |    Harvard University - 2012                             |    Smithsonian Astrophysical Observatory    |  2012  |
+Erik Tollerud         |    University of California, Irvine - 2012               |    Yale University     |  2012  |
+Mark Vogelsberger     |    MPI/LMU, Germany - 2010                               |    Harvard College Observatories    |  2012  |
+Gurtina Besla    |    Harvard University - 2011    |    Columbia University    |  2011  |
+Jo Bovy    |    New York University - 2011    |    Princeton, Institute for Advanced Study    |  2011  |
+Sean Couch    |    University of Texas, Austin 2010    |    University of Chicago    |  2011  |
+Nathalie Degenaar    |    Amsterdam NL 2010    |    University of Michigan    |  2011  |
+Steven Finkelstein    |    Arizona State - 2008    |    University of Texas, Austin    |  2011  |
+Evehenii Gaburov    |    Amsterdam NL 2008    |    Northwestern University    |  2011  |
+Markus Janson    |    MPI-DE 2008    |    Princeton University    |  2011  |
+Linhua Jiang    |    University of Arizona - 2008    |    Arizona State University    |  2011  |
+Jeyhan Kartaltepe    |    University of Hawaii 2009    |    National Optical Astronomy Observatory  Tucson    |  2011  |
+Mansi Kasliwal    |    California Institute of Technology - 2011    |    Carnegie    |  2011  |
+Christiaan Ormel    |    Groningen NL 2008    |    University of California, Berkeley    |  2011  |
+Joshua Peek    |    UCS    |    Columbia University    |  2011  |
+Daniel Perley    |    University of California, Berkeley - 2011    |    California Institute of Technology    |  2011  |
+Ralph Schoenrich    |    NPI-DE 2011    |    The Ohio State University    |  2011  |
+Roman Shcherbakov    |    Harvard  University - 2011    |    University of Maryland    |  2011  |
+Daniel Stark    |    California Institute of Technology - 2008    |    University of Arizona    |  2011  |
+John Tobin    |    University of Michigan 2011    |    National Radio Astronomy Observatory    |  2011  |
+
+Joshua Carter     |    Massachusetts Institute of Technology - 2009     |    Smithsonian Astrophysical Observatory     |  2010  |
+Caitlin Casey     |    University of Cambridge - 2010     |    University of Hawaii, Institute for Astronomy     |  2010  |
+Michael Cooper     |    University of California, Berkeley - 2007     |    University of California, Irvine     |  2010  |
+Selma de Mink     |    Utrecht University - 2010     |    Space Telescope Science Institute     |  2010  |
+Trent Dupuy     |    University of Hawaii - 2010     |    Smithsonian Astrophysical Observatory     |  2010  |
+Daniel Fabrycky     |    Princeton University - 2007     |    University of California, Santa Cruz     |  2010  |
+Karoline Gilbert     |    University of California, Santa Cruz - 2008     |    University of Washington     |  2010  |
+Henry Hsieh     |    University of Hawaii - 2007     |    University of Hawaii, Institute for Astronomy     |  2010  |
+Ryan Keisler     |    University of Chicago - 2010     |    University of Chicago     |  2010  |
+Dusan Keres     |    University of Massachusetts - 2007     |    University of California, Berkeley     |  2010  |
+Maryam Modjaz     |    Harvard University - 2007     |    Columbia University     |  2010  |
+Pascal Oesch     |    Eidgenossiche Technische Hochschule, Zurich 2010     |    University of California, Santa Cruz     |  2010  |
+Ryan Quadri     |    Yale University - 2007     |    Observatories of the Carnegie Institute of Washington     |  2010  |
+Beth Reid     |    Princeton University - 2008     |    Lawrence Berkeley National Laboratory     |  2010  |
+Hilke Schlichting     |    California Institute of Technology - 2009     |    University of California, Los Angeles     |  2010  |
+Debora Sijacki     |    MPA and LMU -  2007     |    Harvard College Observatory     |  2010  |
+Matthew Walker     |    University of Michigan 2007     |    Harvard College Observatory     |  2010  |
+Stephen Mark Ammons     |    University of California, Santa Cruz 2009     |    University of Arizona     |  2009  |
+Misty Bentz     |    The Ohio State University - 2007     |    University of California, Irvine     |  2009  |
+Tabetha Boyajian     |    Georgia State University - 2009     |    Georgia State University    |  2009  |
+Kevin Covey     |    University of Washington 2006     |    Cornell University     |  2009  |
+Kristian Finlator     |    University of Arizona 2009     |    University of California, Santa Barbara     |  2009  |
+Mario Juric     |    Princeton  University - 2007     |    Harvard University     |  2009  |
+Evan Kirby     |    University of California, Santa Cruz 2009     |    California Institute of Technology     |  2009  |
+Adam Kraus     |    California Institute of Technology - 2009     |    University of Hawaii     |  2009  |
+Adam Leroy     |    University of California, Berkeley - 2006    |    National Radio Astronomy Observatory     |  2009  |
+Daniel Marrone     |    Harvard University - 2006     |    University of Chicago     |  2009  |
+Karin Oberg     |    Leiden 2009     |    Smithsonian Astrophysical Observatory    |  2009  |
+Jose Prieto     |    The Ohio State University - 2009     |    Observatories of the Carnegie Institute of Washington Pasadena     |  2009  |
+Brant Robertson     |    Harvard University - 2006     |    California Institute of Technology     |  2009  |
+Lisa Winter     |    University of Maryland 2008     |    University of Colorado Boulder     |  2009  |
+John Wise     |    Stanford University - 2007     |    Princeton University     |  2009  |
+Shelley Wright     |    University of California, Los Angeles 2008     |    University of California, Berkeley     |  2009  |
+Joshua Younger     |    Harvard University - 2009     |    Princeton, Institute for Advanced Study     |  2009  |
+Kevin A Bundy     |    California Institute of Technology - 2006     |    University of California, Berkeley     |  2008  |
+Julio Chaname     |    The Ohio State University - 2005     |    Carnegie DTM     |  2008  |
+Richard Cool     |    University of Arizona 2008     |    Princeton Unversity    |  2008  |
+Elena Gallo     |    University of Amsterdam 2005     |    Massachusetts Institute of Technology     |  2008  |
+Suvi Gezari     |    Columbia University - 2005     |    The Johns Hopkins University     |  2008  |
+Brandon C. Kelly     |    University of Arizona 2008     |    Smithsonian Astrophysical Observatory     |  2008  |
+David R. Law     |    California Institute of Technology - 2008     |    University of California, Los Angeles     |  2008  |
+Andrei Mesinger     |    Columbia University - 2006     |    Princeton University     |  2008  |
+Naveen Reddy     |    California Institute of Technology - 2006    |    National Optical Astronomy Observatory     |  2008  |
+Emily L. Schaller     |    California Institute of Technology - 2008     |    University of Hawaii     |  2008  |
+Louis E. Strigari     |    The Ohio State University - 2005     |    Stanford University     |  2008  |
+Jong-Hak Woo     |    Yale University - 2005     |    University of California, Los Angeles     |  2008  |
+Sean M Andrews     |     University of Hawaii - 2007     |    Smithsonian Astrophysical Observatory     |  2007  |
+Beth A Biller     |    University of Arizona - 2007     |    University of Hawaii, Institute for Astronomy     |  2007  |
+Judd D Bowman     |    Massachusetts Institute of Technology - 2007     |    California Institute of Technology     |  2007  |
+Marusa Bradac     |    Bonn 2004     |    University of California, Santa Barbara     |  2007  |
+David L A Kaplan     |    California Institute of Technology - 2004     |    Massachusetts Institute of Technology Kavli Institute     |  2007  |
+Daniel N Kasen     |    University of California, Berkeley - 2004     |    University of California, Santa Cruz     |  2007  |
+Ivo F L Labbe     |    Leiden 2004     |    Carnegie Observatories     |  2007  |
+Mercedes Lopez-Morales     |    University of North Carolina, Chapel Hill - 2004     |    Carnegie DTM     |  2007  |
+Jonathan R Pritchard     |    California Institute of Technology - 2007    |    Harvard University     |  2007  |
+Dominik A Riechers     |    Heidelberg 2007     |    California Institute of Technology     |  2007  |
+Alicia M Soderberg     |    California Institute of Technology - 2007     |    Princeton University     |  2007  |
+Jay M Strader     |    University of California, Santa Cruz 2007     |    Harvard University     |  2007  |
+Niccolo Bucciantini     |    Universita di Firenze 2004     |    University of California, Berkeley     |  2006  |
+Jurg Diemand     |    University of Zurich 2004     |    University of California, Santa Cruz     |  2006  |
+Eric Ford     |    Princeton University - 2003     |    Center for Astrophysics     |  2006  |
+Jenny Greene     |    Harvard University - 2006     |    Princeton University     |  2006  |
+Juna Kollmeier     |    The Ohio State University - 2006     |    Observatories of the Carnegie Institute of Washington     |  2006  |
+Janice Lee     |    University of Arizona 2006     |    National Optical Astronomy Observatory     |  2006  |
+Rachel Mandelbaum     |    Princeton University - 2006     |    Princeton, Institute for Advanced Study     |  2006  |
+Nikhil Padmanabhan     |    Princeton University - 2005     |    Lawrence Berkeley National Laboratory     |  2006  |
+Klaus Pontoppidan     |    Leiden 2004    |    California Institute of Technology     |  2006  |
+Glenn van de Ven     |    Leiden 2005     |    Institute for Advanced Study     |  2006  |
+Alison Coil     |    University of California, Berkeley - 2004     |    University of Arizona     |  2005  |
+Jeremiah Darling     |    Cornell University - 2002     |    University of Colorado     |  2005  |
+Michael Gladders     |    University of Toronto 2002     |    Carnegie Observatories     |  2005  |
+Jasonjot Kalirai     |    University of British Columbia 2004     |    University of California, Santa Cruz     |  2005  |
+Mark Krumholz     |    University of California, Berkeley - 2005     |    Princeton University    |  2005  |
+Jeong-Eun Lee     |    University of Texas 2005     |    University of California, Los Angeles     |  2005  |
+Milos Milosavljevic     |    Rutgers 2002     |    California Institute of Technology     |  2005  |
+Rachel Osten     |    University of Colorado 2002     |    University of Washington     |  2005  |
+Seth Redfield     |    University of Colorado 2003    |    University of Texas     |  2005  |
+Kris Sigurdson     |    California Institute of Technology - 2005     |    Princeton, Institute for Advanced Study     |  2005  |
+Christy Tremonti     |    The Johns Hopkins - 2003     |    University of Arizona    |  2005  |
+Gaspar Bakos     |    Eotvos University - 2004     |    Smithsonian Astrophysical Observatory     |  2004  |
+Edo Berger     |    California Institute of Technology - 2004     |    Carnegie Institute of Washington     |  2004  |
+Joseph Hennawi     |    Princeton University - 2004     |    University of California, Berkeley     |  2004  |
+Kelsey Johnson     |    University of Colorado 2001     |    University of Wisconsin - Madison     |  2004  |
+Lisa Kewley     |    Australian National University - 2002     |    University of Hawaii     |  2004  |
+Anjum Mukadam     |    University of Texas Austin 2004     |    University of Washington     |  2004  |
+Masami Ouchi     |    University of Tokyo 2003     |    Space Telescope Science Institute     |  2004  |
+Hiranya Peiris     |    Princeton University - 2003     |    University of Chicago     |  2004  |
+Scott Sheppard     |    University of Hawaii 2004    |    Carnegie Institute of Washington     |  2004  |
+Aristotle Socrates     |    University of California, Santa Barbara 2004     |    Princeton University     |  2004  |
+Joshua Winn     |    Massachusetts Institute of Technology - 2001     |    Harvard College Observatory     |  2004  |
+Zheng Zheng     |    The Ohio State University - 2004     |    Princeton, Institute for Advanced Study     |  2004  |
+  Avishay Gal-Yam     |    Tel Aviv 2003     |    California Institute of Technology     |  2003  |
+  Marla Geha     |    University of California, Santa Cruz 2003     |    Carnegie     |  2003  |
+  Jason Harris     |    University of California, Santa Cruz 2000     |     University of Arizona     |  2003  |
+  Wynn Ho     |    Cornell University - 2003     |    Stanford University     |  2003  |
+  Marc Kuchner     |    California Institute of Technology - 2000     |    Princeton University     |  2003  |
+  Darren Madgwick     |     University of Cambridge - 2002     |    Lawrence Berkeley National Laboratory     |  2003  |
+  Michael Muno     |    Massachusetts Institute of Technology - 2003     |    University of California, Los Angles     |  2003  |
+  Jeffrey Newman     |    University of California, Berkeley - 2000     |    Lawrence Berkeley National Laboratory     |  2003  |
+  Nathan Smith     |    University of Minnesota 2002     |    University of Colorado     |  2003  |
+  Tommaso Treu    |    Pisa/Space Telescope Science Institute 2001     |    University of California, Los Angles     |  2003  |
+  Risa Wechsler     |    University of California, Santa Cruz 2001     |    University of Chicago     |  2003  |
+  Qingjuan Yu     |    Princeton University - 2002     |    University of California, Berkeley     |  2003  |
+  James Bullock    |    University of California, Santa Cruz 1999    |    Center for Astrophysics    |  2002  |
+  Hsiao-Wen Chen    |    State University of New York, Stony Brook - 1999    |    Massachusetts Institute of Technology    |  2002  |
+  Neal Dalal    |    University of California, San Diego 2002    |    Princeton, Institute for Advanced Study    |  2002  |
+  Jarrod Hurley    |    Cambridge 2000    |    American Museum of Natural History    |  2002  |
+  Robert Hynes    |    Open University - 1999    |    University of Texas    |  2002  |
+  Inese Ivans    |    University of Texas - 2002    |    California Institute of Technology    |  2002  |
+  Michael Liu    |    University of California, Berkeley - 2000    |    University of Hawaii    |  2002  |
+  Lucas Macri    |    Harvard University - 2001    |    National Optical Astronomy Observatory    |  2002  |
+  Robert Metcalf    |    University of California, Berkeley - 1999    |    University of California, Santa Cruz    |  2002  |
+  Barbara Mochejska    |    Copernicus Center - 2002    |    Center for Astrophysics    |  2002  |
+  Feryal Ozel    |    Harvard University - 2002    |    Princeton, Institute for Advanced Study    |  2002  |
+  Todd Thompson    |    University of Arizona - 2002    |    University of California, Berkeley    |  2002  |
+  Aaron Barth    |    University of California, Berkeley - 1998    |    California Institute of Technology    |  2001  |
+  Elizabeth Barton    |    Harvard University - 1999    |    University of Arizona    |  2001  |
+  Martin Bureau    |    Australian National University - 1999    |    Columbia University    |  2001  |
+  Adam Burgasser    |    California Institute of Technology - 2001    |    University of California, Los Angeles    |  2001  |
+  Andrew Cumming    |    University of California, Berkeley - 2000    |    University of California, Santa Cruz    |  2001  |
+  Mario Hamuy    |    University of Arizona - 2001    |    Observatories of the Carnegie Institute of Washington    |  2001  |
+  Andrew Hopkins    |    Sydney - 1998    |    University of Pittsburgh    |  2001  |
+  Charles Keeton |    Harvard University - 1998    |    University of Chicago    |  2001  |
+  Jason Prochaska    |    University of California, San Diego - 1998    |    Observatories of the Carnegie Institute of Washington    |  2001  |
+  Constance Rockosi    |    University of Chicago - 2001    |    University of Washington    |  2001  |
+  Keivan Stassun |    University of Wisconsin - 2000    |    University of Wisconsin    |  2001  |
+  J. Stuart Wyithe    |    Melbourne 2001    |    Center for Astrophysics    |  2001  |
+  Eugene Chiang    |    California Institute of Technology - 2000    |    Princeton, Institute for Advanced Study    |  2000  |
+  Romeel Dave   |    University of California, Santa Cruz 1998    |    University of Arizona    |  2000  |
+  Douglas Finkbeiner    |    University of California, Berkeley - 1999    |    University of California, Berkeley    |  2000  |
+  B. Scott Gaudi    |    The Ohio State University - 2000    |    Princeton, Institute for Advanced Study    |  2000  |
+  Amber Miller    |    Princeton University - 2000    |    University of Chicago    |  2000  |
+  Mary Putman   |    Australian National University - 2000    |    University of Colorado    |  2000  |
+  Daniel Reichart    |     University of Chicago - 2000    |    California Institute of Technology    |  2000  |
+  Amy Barger    |    University of Cambridge - 1997    |    University of Hawaii    |  1999  |
+  Daniel Eisenstein    |    Harvard University - 1996    |    University of Chicago    |  1999  |
+  Zoltan Haiman    |    Harvard University - 1998    |    Princeton University     |  1999  |
+  Brad Hansen    |    California Institute of Technology - 1996    |    Princeton University     |  1999  |
+  Andrey Kravtsov    |    New Mexico State University - 1999    |    The Ohio State University    |  1999  |
+  Ben Oppenheimer    |    California Institute of Technology - 1999    |    University of California, Berkeley    |  1999  |
+  Eric Richards    |    University of Virginia - 1999    |    Arizona State University    |  1999  |
+  Krzysztof Stanek    |    Princeton University - 1996    |    Center for Astrophysics    |  1999  |
+  Scott Trager    |    University of California, Santa Cruz 1997    |    Observatories of the Carnegie Institute of Washington    |  1999  |
+  Pieter van Dokkum    |    Groningen 1999    |    California Institute of Technology    |  1999  |
+  Joanne C. Baker    |    Sydney - 1995    |    University of California, Berkeley    |  1998  |
+  Greg Bryan    |    University of Illinois - 1996    |    Massachusetts Institute of Technology    |  1998  |
+  Marcio Catelan    |    University of São Paulo 1996    |    Goddard Space Flight Center - University of Virginia (yrs 2-3)    |  1998  |
+  Roelof de Jong    |    Groningen 1995    |    University of Arizona    |  1998  |
+  Bryan Gaensler    |    Sydney - 1998    |    Massachusetts Institute of Technology    |  1998  |
+  Eva K. Grebel    |    Bonn 1995    |    University of Washington    |  1998  |
+  Christian Knigge    |    Oxford 1995    |    Columbia University     |  1998  |
+  Huan Lin    |    Harvard University - 1995    |    University of Arizona    |  1998  |
+  Sangeeta Malhotra    |    Princeton University - 1995    |    Kitt Peak National Observatory  The Johns Hopkins University |  1998  |
+  Simon Portegies Zwart    |    Utrecht 1997    |    Boston University of - Massachusetts Institute of Technology |  1998  |
+  Chris Reynolds    |    Cambridge 1996    |    University of Colorado, JILA    |  1998  |
+  Gordon Squires    |    University of Toronto - 1995    |    California Institute of Technology    |  1998  |
+  Jennifer Wiseman    |    Harvard University - 1995    |    The Johns Hopkins University     |  1998  |
+  Matias Zaldarriaga    |    Massachusetts Institute of Technology - 1998    |    Princeton, Institute for Advanced Study    |  1998  |
+  Rebecca A. Bernstein    |    California Institute of Technology - 1997    |    Observatories of the Carnegie Institute of Washington    |  1997  |
+  Arjun Dey    |    University of California, Berkeley - 1994    | The Johns Hopkins University  Kitt Peak National Observatory (yr 2)    |  1997  |
+  Karl Gebhardt    |    Rutgers 1994    |    University of California, Santa Cruz    |  1997  |
+  William M. Grundy    |    University of Arizona - 1995    |    Lowell Observatory    |  1997  |
+  Rafael Guzman    |    Durham 1994    |    Yale University     |  1997  |
+  David W. Hogg    |    California Institute of Technology - 1997    |    Princeton, Institute for Advanced Study    |  1997  |
+  Henry A Kobulnicky    |    University of Minnesota - 1997    |    University of California, Santa Cruz  University of Wisconsin |  1997  |
+  Lori M. Lubin    |    Princeton University - 1995    |    California Institute of Technology    |  1997  |
+  Ronald O. Marzke    |    Harvard University - 1994    |    Observatories of the Carnegie Institute of Washington    |  1997  |
+  Dean E. McLaughlin    |    McMaster 1997    |    University of California, Berkeley    |  1997  |
+  Michael R. Meyer    |    University of Massachusetts - 1996    |    University of Arizona    |  1997  |
+  Michael A. Pahre    |    California Institute of Technology - 1997    |    Center for Astrophysics    |  1997  |
+  Michael W. Regan    |    University of Maryland - 1996    |    Dept. Terrest. Magn.    |  1997  |
+  Marco Spaans    |    Leiden 1995    |    Center for Astrophysics    |  1997  |
+  Frank C. van den Bosch    |    Leiden 1997    |    University of Washington    |  1997  |
+  Marcella Carollo    |    Munich - 1993    |    The Johns Hopkins University     |  1996  |
+  Brian Chaboyer    |    Yale University - 1993    |    University of Arizona    |  1996  |
+  Laura Ferrarese    |    The Johns Hopkins University - 1995    |    California Institute of Technology    |  1996  |
+  Andrew Layden    |    Yale University - 1993    |    University of Michigan  Bowling Green State University of  |  1996  |
+  Crystal Martin    |    University of Arizona - 1996    |    Space Telescope Science Institute    |  1996  |
+  Max Tegmark    |    University of California, Berkeley - 1994    |    Princeton, Institute for Advanced Study    |  1996  |
+  Lifan Wang    |    ESO/USTC - 1993    |    University of Texas    |  1996  |
+  David Wilner    |    University of California, Berkeley - 1993    |    Center for Astrophysics    |  1996  |
+  Ann Zabludoff    |    Harvard University - 1993    |    University of California, Santa Cruz    |  1996  |
+  Robert Blum    |    The Ohio State University- 1995    |    JILA, University of Colorado    |  1995  |
+  Michael Eracleous    |    Columbia University - 1992    |    University of California, Berkeley    |  1995  |
+  Philippe Fischer    |    McMaster University -  1993    |    University of Michigan    |  1995  |
+  Adam Frank    |    University of Washington - 1992    |    University of Minnesota    |  1995  |
+  Mauro Giavalisco    |    Rome - 1992    |    Observatories of the Carnegie Institute of Washington    |  1995  |
+  Margaret Hanson    |    University of Colorado - 1995    |    University of Arizona    |  1995  |
+  Inger Jorgensen    |    Copenhagen - 1993    |    University of Texas    |  1995  |
+  Chris Mihos    |    University of Michigan - 1992    |    The Johns Hopkins University Case Western University |  1995  |
+  Michael Rauch    |    University of Cambridge - 1993    |    California Institute of Technology    |  1995  |
+  Katherine Roth    |    Northwestern University - 1992    |    University of Hawaii    |  1995  |
+  Ata Sarajedini    |    Yale University - 1992    |    Kitt Peak National Observatory  San Francisco State University of  |  1995  |
+  Michael Vogeley    |    Harvard University - 1993    |    Space Telescope Science Institute  Princeton University |  1995  |
+  Michael Brown    |    University of California, Berkeley    |    California Institute of Technology    |  1994  |
+  Julianne Dalcanton    |    Princeton University    |    Observatories of the Carnegie Institute of Washington    |  1994  |
+  Todd Henry    |    University of Arizona    |    Space Telescope Science Institute    |  1994  |
+  John Hibbard    |    Columbia University    |    University of Hawaii    |  1994  |
+  Lynne Hillenbrand    |    University of Massachusetts    |    University of California, Berkeley    |  1994  |
+  Victoria Kaspi    |    Princeton University    |    Jet Propulsion Laboratory Massachusetts Institute of Technology  |   1994  |
+  Limin Lu    |    University of Pittsburgh    |    California Institute of Technology    |  1994  |
+  Suzanne Staggs    |    Princeton University    |    University of Chicago/Fermi Institute    |  1994  |
+  Julie Thorburn    |    University of Chicago    |    University of Chicago/Yerkes Observatory    |  1994  |
+  Roeland van der Marel    |    Leiden    |    Princeton, Institute for Advanced Study    |  1994  |
+  Guy Worthey    |    University of California, Santa Cruz    |    University of Michigan    |  1994  |
+  J. Christopher Clemens    |    University of Texas    |    Iowa State University    |  1993  |
+  Constantine Deliyannis    |    Yale University    |    Yale University     |  1993  |
+  Henry Ferguson    |    The Johns Hopkins University    |    Space Telescope Science Institute    |  1993  |
+  Thomas Herbig    |    California Institute of Technology    |    Princeton University     |  1993  |
+  Buell Jannuzi    |    University of Arizona    |    Princeton, Institute for Advanced Study    |  1993  |
+  Jeremy King    |    University of Hawaii    |    University of Texas    |  1993  |
+  Elizabeth Lada    |    University of Texas    |    University of Maryland    |  1993  |
+  James Lowenthal    |    University of Arizona    |    University of California, Santa Cruz    |  1993  |
+  Peter McCullough    |    University of California, Berkeley    |    University of Illinois    |  1993  |
+  Dimitar Sasselov    |    University of Toronto    |    Center for Astrophysics    |  1993  |
+  Didier Saumon    |    University of Rochester    |    University of Arizona, Lunar and Planetary Laboratory    |  1993  |
+  Joseph Shields    |    University of California, Berkeley    |    University of Arizona/Steward Observatory    |  1993  |
+  Marten van Kerwijk    |    Amsterdam    |    California Institute of Technology    |  1993  |
+  Mark Voit    |    University of Colorado    |    The Johns Hopkins University     |  1993  |
+  Stephen Zepf    |    The Johns Hopkins University    |    University of California, Berkeley    |  1993  |
+  Matthew Bershady    |    University of Chicago    |    University of California, Santa Cruz    |
+  Yong-Ik Byun    |    Australian National University     |    University of Hawaii    |  1992  |
+  Paul Green    |    University of Washington    |    Center for Astrophysics    |  1992  |
+  Andrea Ghez    |    California Institute of Technology    |    University of Arizona    |  1992  |
+  P. Guhathakurta    |    Princeton University    |    Princeton University     |  1992  |
+  Donald Garnett    |    University of Texas    |    University of Minnesota    |  1992  |
+  Coel Hellier    |    University of London    |    University of Texas    |  1992  |
+  Jane Luu    |    Massachusetts Institute of Technology    |    University of California, Berkeley    |  1992  |
+  Steven R. Majewski    |    University of Chicago    |    Observatories of the Carnegie Institute of Washington    |  1992  |
+  Frederic Rasio    |    Cornell University     |    Princeton, Institute for Advanced Study    |  1992  |
+  Kenneth Sembach    |    University of Wisconsin    |    Massachusetts Institute of Technology    |  1992  |
+  Sylvain Veilleux    |    University of California, Santa Cruz    |    Kitt Peak National Observatory    |  1992  |
+  Donna Womble    |    University of California, San Diego    |    California Institute of Technology    |  1992  |
+  Marijn Franx    |    Leiden, Netherlands    |    Center for Astrophysics    |  1991  |
+  Suzanne L. Hawley    |    University of Texas    |    Lawrence Livermore National Laboratory    |  1991  |
+  Xiaohui Hui    |    Boston University     |    California Institute of Technology    |  1991  |
+  Konrad H. Kuijken    |    University of Cambridge    |    Center for Astrophysics    |  1991  |
+  Kenneth M. Lanzetta    |    University of Pittsburgh    |    University of California, San Diego    |  1991  |
+  Patrick J. McCarthy    |    University of California, Berkeley    |    Observatories of the Carnegie Institute of Washington    |  1991  |
+  Heather L. Morrison    |    Australian National University     |    Kitt Peak National Observatory    |  1991  |
+  Hans-Walter R. Rix    |    University of Arizona    |    Princeton, Institute for Advanced Study    |  1991  |
+  Sean G. Ryan    |    Australian National University     |    University of Texas    |  1991  |
+  William D. Vacca    |    University of Colorado    |    University of California, Berkeley    |  1991  |
+  Dennis F. Zaritsky    |    University of Arizona    |    Observatories of the Carnegie Institute of Washington    |  1991  |
+  Pawel Artymowicz    |     University of Warsaw    |    University of California, Santa Cruz    |  1990  |
+  Stefi Baum    |    University of Maryland    |    The Johns Hopkins University     |  1990  |
+  Michael Bolte    |    University of Washington    |    University of California, Santa Cruz    |  1990  |
+  Paul Callanan    |    University of Galway, Ireland    |    Center for Astrophysics    |  1990  |
+  Laura Danly    |    University of Wisconsin    |    Space Telescope Science Institute    |  1990  |
+  Andrew Fruchter    |    Princeton University     |    University of California, Berkeley    |  1990  |
+  Neal Katz    |    Princeton University    |    Massachusetts Institute of Technology    |  1990  |
+  Young-Wook Lee    |    Yale University    |    Yale University    |  1990  |
+  Peter Lundqvist    |     University of Lund, Sweden    |    University of Virginia    |  1990  |
+  Mario Mateo    |    University of Washington    |    Observatories of the Carnegie Institute of Washington    |  1990  |
+  Charles Steidel    |    California Institute of Technology    |    University of California, Berkeley    |  1990  |
+  Rene Walterbos    |    Leiden, Netherlands    |    New Mexico State University    |  1990  |
+  Qinde Wang    |    Columbia University    |    University of Colorado    |  1990  |
+  Janet Wood    |    University of Cambridge    |    University of Texas    |  1990  |
+  Brian Yanny    |    University of Chicago    |    Princeton, Institute for Advanced Study  1990  |
